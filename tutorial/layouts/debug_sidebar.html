@@ -1,0 +1,8 @@
+<h2>Debug</h2>
+<ul>
+	<% items.each do |item| %>
+	<li>
+	<%= link_to(item.attributes[:title], item.identifier) %>
+	</li>
+	<% end %>
+</ul>

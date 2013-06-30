@@ -1,0 +1,12 @@
+<h2>Course</h2>
+<% rem = 0 %>
+<% @toc.each do |iteminfo| %>
+	<%= "<ul>" * iteminfo.block_change if iteminfo.block_change > 0 %>
+	<li>
+		<%= link_to(iteminfo.item.attributes[:title], iteminfo.item.identifier) %>
+	</li>
+	<%= "</ul>" * -iteminfo.block_change if iteminfo.block_change < 0 %>
+	<% rem = iteminfo.depth %>
+<% end %>
+<%= "</ul>" * rem %>
+
