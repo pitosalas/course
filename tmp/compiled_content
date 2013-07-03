@@ -1,8 +1,8 @@
-{:	data{I"/:ET{:default{	:	lastI"k<!DOCTYPE HTML>
+{:	data{I"/:ET{:default{	:	lastI"�<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Course List (index.erb)</title>
+    <title>A Brand New nanoc Site - Dump of all pages</title>
     <link rel="stylesheet" href="/style.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
@@ -13,34 +13,45 @@
       <ul>
 	
 	<li>
-	<a href="/cosi123/homework/">Homework info (homework.md)</a>
+	<a href="/cosi123/course_intro/">Course Intro</a>
+		<ul>
+			<li>/cosi123/course_intro/</li>
+			<li>{:filename=>"content/cosi123/course_intro.md", :content_filename=>"content/cosi123/course_intro.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/course_intro.md>, :title=>"Course Intro", :mtime=>2013-07-02 09:03:07 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/grading/">Grading</a>
+		<ul>
+			<li>/cosi123/grading/</li>
+			<li>{:filename=>"content/cosi123/grading.md", :content_filename=>"content/cosi123/grading.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/grading.md>, :title=>"Grading", :mtime=>2013-07-02 09:09:40 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/high_level_overview/">Term Overview</a>
+		<ul>
+			<li>/cosi123/high_level_overview/</li>
+			<li>{:filename=>"content/cosi123/high_level_overview.md", :content_filename=>"content/cosi123/high_level_overview.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/high_level_overview.md>, :title=>"Term Overview", :mtime=>2013-07-02 09:08:45 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/homework/">Homework info</a>
 		<ul>
 			<li>/cosi123/homework/</li>
-			<li>{:filename=>"content/cosi123/homework.md", :content_filename=>"content/cosi123/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/homework.md>, :title=>"Homework info (homework.md)", :mtime=>2013-06-30 10:40:54 -0400}</li>
+			<li>{:filename=>"content/cosi123/homework.md", :content_filename=>"content/cosi123/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/homework.md>, :title=>"Homework info", :mtime=>2013-07-02 19:53:47 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
-		<ul>
-			<li>/cosi123/intro123/</li>
-			<li>{:filename=>"content/cosi123/intro123.md", :content_filename=>"content/cosi123/intro123.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/intro123.md>, :title=>"Intro to cosi 123 (intro123.html)", :role=>"course", :mtime=>2013-06-30 10:37:11 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/lectures/">index of lecture (index.html)</a>
-		<ul>
-			<li>/cosi123/lectures/</li>
-			<li>{:filename=>"content/cosi123/lectures/index.html", :content_filename=>"content/cosi123/lectures/index.html", :meta_filename=>nil, :extension=>"html", :file=>#<File:content/cosi123/lectures/index.html>, :title=>"index of lecture (index.html)", :mtime=>2013-06-30 10:47:33 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: ["/cosi123/lectures/tm001/", "/cosi123/lectures/tm002/", "/cosi123/lectures/tm003/", "/cosi123/lectures/tm004/"] </li>
 		</ul>
 
 	</li>
@@ -49,8 +60,8 @@
 	<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
 		<ul>
 			<li>/cosi123/lectures/tm001/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm001.md", :content_filename=>"content/cosi123/lectures/tm001.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm001.md>, :title=>"Lecture 1 (tm001.md)", :mtime=>2013-06-30 10:34:42 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm001.md", :content_filename=>"content/cosi123/lectures/tm001.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm001.md>, :title=>"Lecture 1 (tm001.md)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
 
@@ -60,8 +71,8 @@
 	<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
 		<ul>
 			<li>/cosi123/lectures/tm002/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm002.md", :content_filename=>"content/cosi123/lectures/tm002.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm002.md>, :title=>"Lecture 2 (tm002.md)", :mtime=>2013-06-30 10:34:51 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm002.md", :content_filename=>"content/cosi123/lectures/tm002.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm002.md>, :title=>"Lecture 2 (tm002.md)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
 
@@ -71,8 +82,8 @@
 	<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
 		<ul>
 			<li>/cosi123/lectures/tm003/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm003.md", :content_filename=>"content/cosi123/lectures/tm003.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm003.md>, :title=>"Lecture 3 (tm003.md)", :mtime=>2013-06-30 10:35:00 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm003.md", :content_filename=>"content/cosi123/lectures/tm003.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm003.md>, :title=>"Lecture 3 (tm003.md)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
 
@@ -82,8 +93,8 @@
 	<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
 		<ul>
 			<li>/cosi123/lectures/tm004/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm004.md", :content_filename=>"content/cosi123/lectures/tm004.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm004.md>, :title=>"Lecture 4 (tm004)", :mtime=>2013-06-30 10:35:12 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm004.md", :content_filename=>"content/cosi123/lectures/tm004.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm004.md>, :title=>"Lecture 4 (tm004)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
 
@@ -93,7 +104,7 @@
 	<a href="/css/stylesheet/"></a>
 		<ul>
 			<li>/css/stylesheet/</li>
-			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-06-28 20:33:02 -0400}</li>
+			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-07-01 17:15:00 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -101,10 +112,10 @@
 	</li>
 	
 	<li>
-	<a href="/">Course List (index.erb)</a>
+	<a href="/">Dump of all pages</a>
 		<ul>
 			<li>/</li>
-			<li>{:filename=>"content/index.erb", :content_filename=>"content/index.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/index.erb>, :title=>"Course List (index.erb)", :role=>"root", :mtime=>2013-06-30 10:56:59 -0400}</li>
+			<li>{:filename=>"content/index.erb", :content_filename=>"content/index.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/index.erb>, :title=>"Dump of all pages", :role=>"root", :mtime=>2013-07-02 20:04:28 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -121,28 +132,35 @@
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Dump of all pages</a>
 	</li>
 	
 	
 
 	<ul><ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/cosi123/course_intro/">Course Intro</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+		<a href="/cosi123/grading/">Grading</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
 	</li>
 	
 	
@@ -194,37 +212,48 @@
 
 	</li>
 	<% end %>
-</ul>;T:preI"�<ul>
+</ul>;T:preI"l<ul>
 	
 	<li>
-	<a href="/cosi123/homework/">Homework info (homework.md)</a>
+	<a href="/cosi123/course_intro/">Course Intro</a>
+		<ul>
+			<li>/cosi123/course_intro/</li>
+			<li>{:filename=>"content/cosi123/course_intro.md", :content_filename=>"content/cosi123/course_intro.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/course_intro.md>, :title=>"Course Intro", :mtime=>2013-07-02 09:03:07 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/grading/">Grading</a>
+		<ul>
+			<li>/cosi123/grading/</li>
+			<li>{:filename=>"content/cosi123/grading.md", :content_filename=>"content/cosi123/grading.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/grading.md>, :title=>"Grading", :mtime=>2013-07-02 09:09:40 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/high_level_overview/">Term Overview</a>
+		<ul>
+			<li>/cosi123/high_level_overview/</li>
+			<li>{:filename=>"content/cosi123/high_level_overview.md", :content_filename=>"content/cosi123/high_level_overview.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/high_level_overview.md>, :title=>"Term Overview", :mtime=>2013-07-02 09:08:45 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/homework/">Homework info</a>
 		<ul>
 			<li>/cosi123/homework/</li>
-			<li>{:filename=>"content/cosi123/homework.md", :content_filename=>"content/cosi123/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/homework.md>, :title=>"Homework info (homework.md)", :mtime=>2013-06-30 10:40:54 -0400}</li>
+			<li>{:filename=>"content/cosi123/homework.md", :content_filename=>"content/cosi123/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/homework.md>, :title=>"Homework info", :mtime=>2013-07-02 19:53:47 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
-		<ul>
-			<li>/cosi123/intro123/</li>
-			<li>{:filename=>"content/cosi123/intro123.md", :content_filename=>"content/cosi123/intro123.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/intro123.md>, :title=>"Intro to cosi 123 (intro123.html)", :role=>"course", :mtime=>2013-06-30 10:37:11 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/lectures/">index of lecture (index.html)</a>
-		<ul>
-			<li>/cosi123/lectures/</li>
-			<li>{:filename=>"content/cosi123/lectures/index.html", :content_filename=>"content/cosi123/lectures/index.html", :meta_filename=>nil, :extension=>"html", :file=>#<File:content/cosi123/lectures/index.html>, :title=>"index of lecture (index.html)", :mtime=>2013-06-30 10:47:33 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: ["/cosi123/lectures/tm001/", "/cosi123/lectures/tm002/", "/cosi123/lectures/tm003/", "/cosi123/lectures/tm004/"] </li>
 		</ul>
 
 	</li>
@@ -233,8 +262,8 @@
 	<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
 		<ul>
 			<li>/cosi123/lectures/tm001/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm001.md", :content_filename=>"content/cosi123/lectures/tm001.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm001.md>, :title=>"Lecture 1 (tm001.md)", :mtime=>2013-06-30 10:34:42 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm001.md", :content_filename=>"content/cosi123/lectures/tm001.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm001.md>, :title=>"Lecture 1 (tm001.md)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
 
@@ -244,8 +273,8 @@
 	<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
 		<ul>
 			<li>/cosi123/lectures/tm002/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm002.md", :content_filename=>"content/cosi123/lectures/tm002.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm002.md>, :title=>"Lecture 2 (tm002.md)", :mtime=>2013-06-30 10:34:51 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm002.md", :content_filename=>"content/cosi123/lectures/tm002.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm002.md>, :title=>"Lecture 2 (tm002.md)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
 
@@ -255,8 +284,8 @@
 	<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
 		<ul>
 			<li>/cosi123/lectures/tm003/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm003.md", :content_filename=>"content/cosi123/lectures/tm003.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm003.md>, :title=>"Lecture 3 (tm003.md)", :mtime=>2013-06-30 10:35:00 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm003.md", :content_filename=>"content/cosi123/lectures/tm003.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm003.md>, :title=>"Lecture 3 (tm003.md)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
 
@@ -266,8 +295,8 @@
 	<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
 		<ul>
 			<li>/cosi123/lectures/tm004/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm004.md", :content_filename=>"content/cosi123/lectures/tm004.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm004.md>, :title=>"Lecture 4 (tm004)", :mtime=>2013-06-30 10:35:12 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm004.md", :content_filename=>"content/cosi123/lectures/tm004.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm004.md>, :title=>"Lecture 4 (tm004)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
 
@@ -277,7 +306,7 @@
 	<a href="/css/stylesheet/"></a>
 		<ul>
 			<li>/css/stylesheet/</li>
-			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-06-28 20:33:02 -0400}</li>
+			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-07-01 17:15:00 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -285,10 +314,10 @@
 	</li>
 	
 	<li>
-	<a href="/">Course List (index.erb)</a>
+	<a href="/">Dump of all pages</a>
 		<ul>
 			<li>/</li>
-			<li>{:filename=>"content/index.erb", :content_filename=>"content/index.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/index.erb>, :title=>"Course List (index.erb)", :role=>"root", :mtime=>2013-06-30 10:56:59 -0400}</li>
+			<li>{:filename=>"content/index.erb", :content_filename=>"content/index.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/index.erb>, :title=>"Dump of all pages", :role=>"root", :mtime=>2013-07-02 20:04:28 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -1042,7 +1071,7 @@ This is such an awesome course I can't believe it!;T;
 I"`<h3 id="welcome">Welcome</h3>
 
 <p>This is such an awesome course I can’t believe it!</p>
-;T;@2I"/cosi123/lectures/tm001/;T{;{	;I"�<!DOCTYPE HTML>
+;T;@2I"/cosi123/lectures/tm001/;T{;{	;I"�<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -1072,16 +1101,44 @@ I"`<h3 id="welcome">Welcome</h3>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/grading/">Grading</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+		<a href="/high_level_overview/">High Level Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/grading/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info (homework.md)</a>
 	</li>
 	
 	
@@ -1134,7 +1191,7 @@ This is such an awesome course I can't believe it!;T;
 I"`<h1 id="welcome">Welcome</h1>
 
 <p>This is such an awesome course I can’t believe it!</p>
-;T;@8I"/cosi123/lectures/tm002/;T{;{	;I"b<!DOCTYPE HTML>
+;T;@8I"/cosi123/lectures/tm002/;T{;{	;I"g<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -1168,16 +1225,44 @@ I"`<h1 id="welcome">Welcome</h1>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/grading/">Grading</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+		<a href="/high_level_overview/">High Level Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/grading/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info (homework.md)</a>
 	</li>
 	
 	
@@ -1236,7 +1321,7 @@ I"�<h2 id="welcome">Welcome</h2>
   <li>This is such an awesome course I can’t believe it!</li>
   <li>This is such an awesome course I can’t believe it!</li>
 </ul>
-;T;@>I"/cosi123/lectures/tm003/;T{;{	;I"�<!DOCTYPE HTML>
+;T;@>I"/cosi123/lectures/tm003/;T{;{	;I"�<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -1266,16 +1351,44 @@ I"�<h2 id="welcome">Welcome</h2>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/grading/">Grading</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+		<a href="/high_level_overview/">High Level Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/grading/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info (homework.md)</a>
 	</li>
 	
 	
@@ -1327,7 +1440,7 @@ This is such an awesome course I can't believe it!;T;
 I"`<h1 id="welcome">Welcome</h1>
 
 <p>This is such an awesome course I can’t believe it!</p>
-;T;@DI"/cosi123/lectures/tm004/;T{;{	;I"�<!DOCTYPE HTML>
+;T;@DI"/cosi123/lectures/tm004/;T{;{	;I"�<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -1357,16 +1470,44 @@ I"`<h1 id="welcome">Welcome</h1>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/grading/">Grading</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+		<a href="/high_level_overview/">High Level Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/grading/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info (homework.md)</a>
 	</li>
 	
 	
@@ -1418,11 +1559,11 @@ This is such an awesome course I can't believe it!;T;
 I"`<h3 id="welcome">Welcome</h3>
 
 <p>This is such an awesome course I can’t believe it!</p>
-;T;@JI"/cosi123/homework/;T{;{	;I"�<!DOCTYPE HTML>
+;T;@JI"/cosi123/homework/;T{;{	;I"r<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Homework info (homework.md)</title>
+    <title>A Brand New nanoc Site - Homework info</title>
     <link rel="stylesheet" href="/style.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
@@ -1430,7 +1571,19 @@ I"`<h3 id="welcome">Welcome</h3>
   </head>
   <body>
     <div id="main">
-      <p>** Introduction to COSI123</p>
+      <h2 id="homework">Homework</h2>
+
+<ul>
+  <li>The homework due for a particular lecture is always listed at the top of the page for that day.</li>
+  <li>Written homework is submitted as a blog post on Piazza, categorized as “blog” (duh)</li>
+  <li>Project progress reports are due weekly. Those are also posted on Piazza, categorized as “progress”</li>
+</ul>
+
+<h3 id="homework-rough-sketches-which-i-will-refines">Homework rough sketches (which I will refines)</h3>
+
+<ul>
+  <li>Watch an episode “Shark Tank”. What are some things that you think are realistic and some that you think are unrealistic. Take apart one of the pitches done by one of the entrepreneurs either because you think it is good or because it is really bad.</li>
+</ul>
 
     <p>Tags: (none)</p>
 
@@ -1441,28 +1594,35 @@ I"`<h3 id="welcome">Welcome</h3>
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Dump of all pages</a>
 	</li>
 	
 	
 
 	<ul><ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/cosi123/course_intro/">Course Intro</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+		<a href="/cosi123/grading/">Grading</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
 	</li>
 	
 	
@@ -1501,9 +1661,29 @@ I"`<h3 id="welcome">Welcome</h3>
     </div>
   </body>
 </html>
-;T;	I"** Introduction to COSI123;T;
-I"'<p>** Introduction to COSI123</p>
-;T;@PI"/cosi123/lectures/;T{;{	;I"�<!DOCTYPE HTML>
+;T;	I"[## Homework
+
+* The homework due for a particular lecture is always listed at the top of the page for that day.
+* Written homework is submitted as a blog post on Piazza, categorized as "blog" (duh)
+* Project progress reports are due weekly. Those are also posted on Piazza, categorized as "progress"
+
+### Homework rough sketches (which I will refines)
+
+* Watch an episode "Shark Tank". What are some things that you think are realistic and some that you think are unrealistic. Take apart one of the pitches done by one of the entrepreneurs either because you think it is good or because it is really bad.;T;
+I"�<h2 id="homework">Homework</h2>
+
+<ul>
+  <li>The homework due for a particular lecture is always listed at the top of the page for that day.</li>
+  <li>Written homework is submitted as a blog post on Piazza, categorized as “blog” (duh)</li>
+  <li>Project progress reports are due weekly. Those are also posted on Piazza, categorized as “progress”</li>
+</ul>
+
+<h3 id="homework-rough-sketches-which-i-will-refines">Homework rough sketches (which I will refines)</h3>
+
+<ul>
+  <li>Watch an episode “Shark Tank”. What are some things that you think are realistic and some that you think are unrealistic. Take apart one of the pitches done by one of the entrepreneurs either because you think it is good or because it is really bad.</li>
+</ul>
+;T;@PI"/cosi123/lectures/;T{;{	;I"�<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -1530,16 +1710,44 @@ I"'<p>** Introduction to COSI123</p>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/grading/">Grading</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+		<a href="/high_level_overview/">High Level Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/grading/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info (homework.md)</a>
 	</li>
 	
 	
@@ -1688,4 +1896,719 @@ a:hover {
   line-height: 20px;
 }
 ;T;	@[;
-@[:versioni
+@[I"/cosi123/course_intro/;T{;{	;I"_<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Course Intro</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="welcome-to-cosi-235a---it-entrepreneurship">Welcome to COSI 235A - IT Entrepreneurship</h3>
+
+<p>The course this fall has been fully updated and incorporates two key new components. </p>
+
+<ol>
+  <li>We will go in-depth on the “Lean Startup” model of entrepreneurship. This model is strongly focused on rapid iterations and validated learning. We will “go outside the building” to confirm (or refute) our hypotheses. A hypothesis in this context is a belief about the business we are consideringn starting up. A belief about a problem a user has, or a price they are willing to pay.</li>
+  <li>We will cycle twice through the Lean Startup process. First, during 4 weeks, we will rapidly learn the approach and terminology while attacking a product concept that I will supply (I hope you like it :). We will divide the class into two teams, and each one will work semi-independently on fleshing out the business plan. The second time through, students will apply the same process on a product of their own conception. We will form 2-3 person teams, ideate, validate, design, and document a full business model for the product, up to and including an actual validated prototype.(By the way, the prototypes and business models are the starting point of the companion course, “Software Engineering for IT Entrepreneurs which I will be teaching in the Spring.”)</li>
+</ol>
+
+<h4 id="other-topics">Other topics</h4>
+
+<ul>
+  <li>We will learn and practice how to create static and working prototypes which are critical in the process of validated learning</li>
+  <li>We will explore basic finance as it applies to startups, especially as it relates to Venture Capital and company financing, as well as pricing and sustainability.</li>
+</ul>
+
+<h4 id="speaker-series">Speaker Series</h4>
+
+<p>Every (other?) week there will be an invited speaker during class. These will be local entrepreneurs, CEOs and CTOs who will give their personal perspectives, insights and stories.</p>
+
+<h4 id="requirements">Requirements</h4>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Course</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Course List (index.erb)</a>
+	</li>
+	
+	
+
+	<ul><ul>
+	<li>
+		<a href="/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/high_level_overview/">High Level Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/grading/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"### Welcome to COSI 235A - IT Entrepreneurship
+
+The course this fall has been fully updated and incorporates two key new components. 
+
+1. We will go in-depth on the "Lean Startup" model of entrepreneurship. This model is strongly focused on rapid iterations and validated learning. We will "go outside the building" to confirm (or refute) our hypotheses. A hypothesis in this context is a belief about the business we are consideringn starting up. A belief about a problem a user has, or a price they are willing to pay.
+2. We will cycle twice through the Lean Startup process. First, during 4 weeks, we will rapidly learn the approach and terminology while attacking a product concept that I will supply (I hope you like it :). We will divide the class into two teams, and each one will work semi-independently on fleshing out the business plan. The second time through, students will apply the same process on a product of their own conception. We will form 2-3 person teams, ideate, validate, design, and document a full business model for the product, up to and including an actual validated prototype.(By the way, the prototypes and business models are the starting point of the companion course, "Software Engineering for IT Entrepreneurs which I will be teaching in the Spring.")
+
+#### Other topics
+
+* We will learn and practice how to create static and working prototypes which are critical in the process of validated learning
+* We will explore basic finance as it applies to startups, especially as it relates to Venture Capital and company financing, as well as pricing and sustainability.
+
+#### Speaker Series
+
+Every (other?) week there will be an invited speaker during class. These will be local entrepreneurs, CEOs and CTOs who will give their personal perspectives, insights and stories.
+
+#### Requirements;T;
+I"�<h3 id="welcome-to-cosi-235a---it-entrepreneurship">Welcome to COSI 235A - IT Entrepreneurship</h3>
+
+<p>The course this fall has been fully updated and incorporates two key new components. </p>
+
+<ol>
+  <li>We will go in-depth on the “Lean Startup” model of entrepreneurship. This model is strongly focused on rapid iterations and validated learning. We will “go outside the building” to confirm (or refute) our hypotheses. A hypothesis in this context is a belief about the business we are consideringn starting up. A belief about a problem a user has, or a price they are willing to pay.</li>
+  <li>We will cycle twice through the Lean Startup process. First, during 4 weeks, we will rapidly learn the approach and terminology while attacking a product concept that I will supply (I hope you like it :). We will divide the class into two teams, and each one will work semi-independently on fleshing out the business plan. The second time through, students will apply the same process on a product of their own conception. We will form 2-3 person teams, ideate, validate, design, and document a full business model for the product, up to and including an actual validated prototype.(By the way, the prototypes and business models are the starting point of the companion course, “Software Engineering for IT Entrepreneurs which I will be teaching in the Spring.”)</li>
+</ol>
+
+<h4 id="other-topics">Other topics</h4>
+
+<ul>
+  <li>We will learn and practice how to create static and working prototypes which are critical in the process of validated learning</li>
+  <li>We will explore basic finance as it applies to startups, especially as it relates to Venture Capital and company financing, as well as pricing and sustainability.</li>
+</ul>
+
+<h4 id="speaker-series">Speaker Series</h4>
+
+<p>Every (other?) week there will be an invited speaker during class. These will be local entrepreneurs, CEOs and CTOs who will give their personal perspectives, insights and stories.</p>
+
+<h4 id="requirements">Requirements</h4>
+;T;@_I"/cosi123/grading/;T{;{	;I"�<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Grading</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="grading">Grading</h3>
+
+<p>I will try to give everyone constant and actionable feedback. I also expect you to be proactive if you are unclear about something or want to talk about anything. </p>
+
+<ol>
+  <li>Class Participation (20%): This includes basic things like being in class when it starts</li>
+</ol>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Course</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Course List (index.erb)</a>
+	</li>
+	
+	
+
+	<ul><ul>
+	<li>
+		<a href="/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/high_level_overview/">High Level Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"### Grading
+
+I will try to give everyone constant and actionable feedback. I also expect you to be proactive if you are unclear about something or want to talk about anything. 
+
+1. Class Participation (20%): This includes basic things like being in class when it starts;T;
+I":<h3 id="grading">Grading</h3>
+
+<p>I will try to give everyone constant and actionable feedback. I also expect you to be proactive if you are unclear about something or want to talk about anything. </p>
+
+<ol>
+  <li>Class Participation (20%): This includes basic things like being in class when it starts</li>
+</ol>
+;T;@eI""/cosi123/high_level_overview/;T{;{	;I"Z<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Term Overview</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="high-level-overview">High Level Overview</h3>
+
+<p>The term is organized as follows:</p>
+
+<ul>
+  <li>Week 1: <em>Welcome</em>: warmups, introductions, etc. During this week (really just one class) we introduce the process we will go through and also go over the <em>Approval Checklist</em> that each product that we pursue, starting in <em>Frame 1</em> will have prepared and gotten ok’d.</li>
+  <li>Week 2,3,4,5: <em>Pilot Frame</em>. During these four weeks we will use a product contept that I supply (I hope you like it) to practice the key techniques of Lean Startup. In parallel and at the same time you will be introduced to these key concepts and have a chance to put them into practice.</li>
+  <li>Week 6: <em>Ideation and Kickoff</em>: All along you will have been thinking and exploring what product or service you would like to propose. During this week we will see what everyone came up with, pick the best ones, and choose teams of 2 or 3 students to pursue the products. The work on these products will be the backbone of the rest of the semester culminating in a <em>Product Showcase</em></li>
+  <li>Week 7,8,9: <em>Frame 1</em> During this frame the teams get themselves organized. Identify your key hypotheses and determine how to go about testing them. Prepare the artifacts needed to test the hypotheses and begin the process of “going out of the building.”</li>
+  <li>Week 10,11,12: <em>Frame 2</em> During this frame the teams begin in earnest to determine how and whether to design and architect the product. You will be doing paper prototyping or using online prototyping tools, using these to test our <em>hypotheses</em> by <em>going outside the building</em>. We also now consider our Engine of Growth and develop the financial model to test and validate.</li>
+  <li>Week 13,14,15: <em>Frame 3</em> During this final frame we pull everything together. Student teams refine their product business plans and prepare the final deliverables in preparation for the <em>Product Showcase</em>.</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Course</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Course List (index.erb)</a>
+	</li>
+	
+	
+
+	<ul><ul>
+	<li>
+		<a href="/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/high_level_overview/">High Level Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"5### High Level Overview
+
+The term is organized as follows:
+
+* Week 1: _Welcome_: warmups, introductions, etc. During this week (really just one class) we introduce the process we will go through and also go over the _Approval Checklist_ that each product that we pursue, starting in _Frame 1_ will have prepared and gotten ok'd.
+* Week 2,3,4,5: _Pilot Frame_. During these four weeks we will use a product contept that I supply (I hope you like it) to practice the key techniques of Lean Startup. In parallel and at the same time you will be introduced to these key concepts and have a chance to put them into practice.
+* Week 6: _Ideation and Kickoff_: All along you will have been thinking and exploring what product or service you would like to propose. During this week we will see what everyone came up with, pick the best ones, and choose teams of 2 or 3 students to pursue the products. The work on these products will be the backbone of the rest of the semester culminating in a _Product Showcase_
+* Week 7,8,9: _Frame 1_ During this frame the teams get themselves organized. Identify your key hypotheses and determine how to go about testing them. Prepare the artifacts needed to test the hypotheses and begin the process of "going out of the building."
+* Week 10,11,12: _Frame 2_ During this frame the teams begin in earnest to determine how and whether to design and architect the product. You will be doing paper prototyping or using online prototyping tools, using these to test our _hypotheses_ by _going outside the building_. We also now consider our Engine of Growth and develop the financial model to test and validate.
+* Week 13,14,15: _Frame 3_ During this final frame we pull everything together. Student teams refine their product business plans and prepare the final deliverables in preparation for the _Product Showcase_.;T;
+I"�<h3 id="high-level-overview">High Level Overview</h3>
+
+<p>The term is organized as follows:</p>
+
+<ul>
+  <li>Week 1: <em>Welcome</em>: warmups, introductions, etc. During this week (really just one class) we introduce the process we will go through and also go over the <em>Approval Checklist</em> that each product that we pursue, starting in <em>Frame 1</em> will have prepared and gotten ok’d.</li>
+  <li>Week 2,3,4,5: <em>Pilot Frame</em>. During these four weeks we will use a product contept that I supply (I hope you like it) to practice the key techniques of Lean Startup. In parallel and at the same time you will be introduced to these key concepts and have a chance to put them into practice.</li>
+  <li>Week 6: <em>Ideation and Kickoff</em>: All along you will have been thinking and exploring what product or service you would like to propose. During this week we will see what everyone came up with, pick the best ones, and choose teams of 2 or 3 students to pursue the products. The work on these products will be the backbone of the rest of the semester culminating in a <em>Product Showcase</em></li>
+  <li>Week 7,8,9: <em>Frame 1</em> During this frame the teams get themselves organized. Identify your key hypotheses and determine how to go about testing them. Prepare the artifacts needed to test the hypotheses and begin the process of “going out of the building.”</li>
+  <li>Week 10,11,12: <em>Frame 2</em> During this frame the teams begin in earnest to determine how and whether to design and architect the product. You will be doing paper prototyping or using online prototyping tools, using these to test our <em>hypotheses</em> by <em>going outside the building</em>. We also now consider our Engine of Growth and develop the financial model to test and validate.</li>
+  <li>Week 13,14,15: <em>Frame 3</em> During this final frame we pull everything together. Student teams refine their product business plans and prepare the final deliverables in preparation for the <em>Product Showcase</em>.</li>
+</ul>
+;T;@kI"/grading/;T{;{	;I"�<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Grading</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="grading">Grading</h3>
+
+<p>I will try to give everyone constant and actionable feedback. I also expect you to be proactive if you are unclear about something or want to talk about anything. </p>
+
+<ol>
+  <li>Class Participation (20%): This includes basic things like being in class when it starts</li>
+</ol>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Course</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Course List (index.erb)</a>
+	</li>
+	
+	
+
+	<ul><ul>
+	<li>
+		<a href="/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/high_level_overview/">High Level Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/grading/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"### Grading
+
+I will try to give everyone constant and actionable feedback. I also expect you to be proactive if you are unclear about something or want to talk about anything. 
+
+1. Class Participation (20%): This includes basic things like being in class when it starts;T;
+I":<h3 id="grading">Grading</h3>
+
+<p>I will try to give everyone constant and actionable feedback. I also expect you to be proactive if you are unclear about something or want to talk about anything. </p>
+
+<ol>
+  <li>Class Participation (20%): This includes basic things like being in class when it starts</li>
+</ol>
+;T;@qI"/high_level_overview/;T{;{	;I"r<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - High Level Overview</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="high-level-overview">High Level Overview</h3>
+
+<p>The term is organized as follows:</p>
+
+<ul>
+  <li>Week 1: <em>Welcome</em>: warmups, introductions, etc. During this week (really just one class) we introduce the process we will go through and also go over the <em>Approval Checklist</em> that each product that we pursue, starting in <em>Frame 1</em> will have prepared and gotten ok’d.</li>
+  <li>Week 2,3,4,5: <em>Pilot Frame</em>. During these four weeks we will use a product contept that I supply (I hope you like it) to practice the key techniques of Lean Startup. In parallel and at the same time you will be introduced to these key concepts and have a chance to put them into practice.</li>
+  <li>Week 6: <em>Ideation and Kickoff</em>: All along you will have been thinking and exploring what product or service you would like to propose. During this week we will see what everyone came up with, pick the best ones, and choose teams of 2 or 3 students to pursue the products. The work on these products will be the backbone of the rest of the semester culminating in a <em>Product Showcase</em></li>
+  <li>Week 7,8,9: <em>Frame 1</em> During this frame the teams get themselves organized. Identify your key hypotheses and determine how to go about testing them. Prepare the artifacts needed to test the hypotheses and begin the process of “going out of the building.”</li>
+  <li>Week 10,11,12: <em>Frame 2</em> During this frame the teams begin in earnest to determine how and whether to design and architect the product. You will be doing paper prototyping or using online prototyping tools, using these to test our <em>hypotheses</em> by <em>going outside the building</em>. We also now consider our Engine of Growth and develop the financial model to test and validate.</li>
+  <li>Week 13,14,15: <em>Frame 3</em> During this final frame we pull everything together. Student teams refine their product business plans and prepare the final deliverables in preparation for the <em>Product Showcase</em>.</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Course</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Course List (index.erb)</a>
+	</li>
+	
+	
+
+	<ul><ul>
+	<li>
+		<a href="/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/high_level_overview/">High Level Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/grading/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"5### High Level Overview
+
+The term is organized as follows:
+
+* Week 1: _Welcome_: warmups, introductions, etc. During this week (really just one class) we introduce the process we will go through and also go over the _Approval Checklist_ that each product that we pursue, starting in _Frame 1_ will have prepared and gotten ok'd.
+* Week 2,3,4,5: _Pilot Frame_. During these four weeks we will use a product contept that I supply (I hope you like it) to practice the key techniques of Lean Startup. In parallel and at the same time you will be introduced to these key concepts and have a chance to put them into practice.
+* Week 6: _Ideation and Kickoff_: All along you will have been thinking and exploring what product or service you would like to propose. During this week we will see what everyone came up with, pick the best ones, and choose teams of 2 or 3 students to pursue the products. The work on these products will be the backbone of the rest of the semester culminating in a _Product Showcase_
+* Week 7,8,9: _Frame 1_ During this frame the teams get themselves organized. Identify your key hypotheses and determine how to go about testing them. Prepare the artifacts needed to test the hypotheses and begin the process of "going out of the building."
+* Week 10,11,12: _Frame 2_ During this frame the teams begin in earnest to determine how and whether to design and architect the product. You will be doing paper prototyping or using online prototyping tools, using these to test our _hypotheses_ by _going outside the building_. We also now consider our Engine of Growth and develop the financial model to test and validate.
+* Week 13,14,15: _Frame 3_ During this final frame we pull everything together. Student teams refine their product business plans and prepare the final deliverables in preparation for the _Product Showcase_.;T;
+I"�<h3 id="high-level-overview">High Level Overview</h3>
+
+<p>The term is organized as follows:</p>
+
+<ul>
+  <li>Week 1: <em>Welcome</em>: warmups, introductions, etc. During this week (really just one class) we introduce the process we will go through and also go over the <em>Approval Checklist</em> that each product that we pursue, starting in <em>Frame 1</em> will have prepared and gotten ok’d.</li>
+  <li>Week 2,3,4,5: <em>Pilot Frame</em>. During these four weeks we will use a product contept that I supply (I hope you like it) to practice the key techniques of Lean Startup. In parallel and at the same time you will be introduced to these key concepts and have a chance to put them into practice.</li>
+  <li>Week 6: <em>Ideation and Kickoff</em>: All along you will have been thinking and exploring what product or service you would like to propose. During this week we will see what everyone came up with, pick the best ones, and choose teams of 2 or 3 students to pursue the products. The work on these products will be the backbone of the rest of the semester culminating in a <em>Product Showcase</em></li>
+  <li>Week 7,8,9: <em>Frame 1</em> During this frame the teams get themselves organized. Identify your key hypotheses and determine how to go about testing them. Prepare the artifacts needed to test the hypotheses and begin the process of “going out of the building.”</li>
+  <li>Week 10,11,12: <em>Frame 2</em> During this frame the teams begin in earnest to determine how and whether to design and architect the product. You will be doing paper prototyping or using online prototyping tools, using these to test our <em>hypotheses</em> by <em>going outside the building</em>. We also now consider our Engine of Growth and develop the financial model to test and validate.</li>
+  <li>Week 13,14,15: <em>Frame 3</em> During this final frame we pull everything together. Student teams refine their product business plans and prepare the final deliverables in preparation for the <em>Product Showcase</em>.</li>
+</ul>
+;T;@w:versioni

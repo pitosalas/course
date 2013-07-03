@@ -3,4 +3,5 @@
 
 require 'awesome_print'
 require 'nanoc/toolbox'
+require 'pry'
 
