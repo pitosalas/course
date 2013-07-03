@@ -28,7 +28,7 @@ a:hover {
   top: 40px;
   left: 280px;
 
-  width: 500px;
+  width: 600px;
 }
 
 #main h1 {
@@ -58,7 +58,7 @@ a:hover {
   line-height: 20px;
 }
 
-#main ul li {
+#main ul > li {
   list-style-type: square;
 }
 

@@ -1,8 +1,8 @@
-{:	data{I"/:ET{:default{	:	lastI"�<!DOCTYPE HTML>
+{:	data{-I"/:ET{:default{	:	lastI"�<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Dump of all pages</title>
+    <title>COSI 235a - Dump of all pages</title>
     <link rel="stylesheet" href="/style.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
@@ -13,10 +13,10 @@
       <ul>
 	
 	<li>
-	<a href="/cosi123/course_intro/">Course Intro</a>
+	<a href="/cosi235a/course_intro/">Course Intro</a>
 		<ul>
-			<li>/cosi123/course_intro/</li>
-			<li>{:filename=>"content/cosi123/course_intro.md", :content_filename=>"content/cosi123/course_intro.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/course_intro.md>, :title=>"Course Intro", :mtime=>2013-07-02 09:03:07 -0400}</li>
+			<li>/cosi235a/course_intro/</li>
+			<li>{:filename=>"content/cosi235a/course_intro.md", :content_filename=>"content/cosi235a/course_intro.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/course_intro.md>, :title=>"Course Intro", :mtime=>2013-07-02 09:03:07 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -24,10 +24,10 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/grading/">Grading</a>
+	<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
 		<ul>
-			<li>/cosi123/grading/</li>
-			<li>{:filename=>"content/cosi123/grading.md", :content_filename=>"content/cosi123/grading.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/grading.md>, :title=>"Grading", :mtime=>2013-07-02 09:09:40 -0400}</li>
+			<li>/cosi235a/detailed_schedule/</li>
+			<li>{:filename=>"content/cosi235a/detailed_schedule.md", :content_filename=>"content/cosi235a/detailed_schedule.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/detailed_schedule.md>, :title=>"Detailed Schedule", :mtime=>2013-07-03 17:27:02 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -35,10 +35,10 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/high_level_overview/">Term Overview</a>
+	<a href="/cosi235a/grading/">Grading</a>
 		<ul>
-			<li>/cosi123/high_level_overview/</li>
-			<li>{:filename=>"content/cosi123/high_level_overview.md", :content_filename=>"content/cosi123/high_level_overview.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/high_level_overview.md>, :title=>"Term Overview", :mtime=>2013-07-02 09:08:45 -0400}</li>
+			<li>/cosi235a/grading/</li>
+			<li>{:filename=>"content/cosi235a/grading.md", :content_filename=>"content/cosi235a/grading.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/grading.md>, :title=>"Grading", :mtime=>2013-07-02 09:09:40 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -46,10 +46,10 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/homework/">Homework info</a>
+	<a href="/cosi235a/high_level_overview/">Term Overview</a>
 		<ul>
-			<li>/cosi123/homework/</li>
-			<li>{:filename=>"content/cosi123/homework.md", :content_filename=>"content/cosi123/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/homework.md>, :title=>"Homework info", :mtime=>2013-07-02 19:53:47 -0400}</li>
+			<li>/cosi235a/high_level_overview/</li>
+			<li>{:filename=>"content/cosi235a/high_level_overview.md", :content_filename=>"content/cosi235a/high_level_overview.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/high_level_overview.md>, :title=>"Term Overview", :mtime=>2013-07-02 09:08:45 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -57,10 +57,10 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+	<a href="/cosi235a/homework/">Homework info</a>
 		<ul>
-			<li>/cosi123/lectures/tm001/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm001.md", :content_filename=>"content/cosi123/lectures/tm001.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm001.md>, :title=>"Lecture 1 (tm001.md)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>/cosi235a/homework/</li>
+			<li>{:filename=>"content/cosi235a/homework.md", :content_filename=>"content/cosi235a/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/homework.md>, :title=>"Homework info", :mtime=>2013-07-02 19:53:47 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -68,10 +68,10 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
 		<ul>
-			<li>/cosi123/lectures/tm002/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm002.md", :content_filename=>"content/cosi123/lectures/tm002.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm002.md>, :title=>"Lecture 2 (tm002.md)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>/cosi235a/lectures/detailed_schedule/</li>
+			<li>{:filename=>"content/cosi235a/lectures/detailed_schedule.md", :content_filename=>"content/cosi235a/lectures/detailed_schedule.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/detailed_schedule.md>, :title=>"Detailed Schedule", :mtime=>2013-07-03 17:35:38 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -79,10 +79,10 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	<a href="/cosi235a/lectures/welcome/">Welcome</a>
 		<ul>
-			<li>/cosi123/lectures/tm003/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm003.md", :content_filename=>"content/cosi123/lectures/tm003.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm003.md>, :title=>"Lecture 3 (tm003.md)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>/cosi235a/lectures/welcome/</li>
+			<li>{:filename=>"content/cosi235a/lectures/welcome.md", :content_filename=>"content/cosi235a/lectures/welcome.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/welcome.md>, :title=>"Welcome", :lecture=>1, :mtime=>2013-07-03 17:59:57 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -90,10 +90,43 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
 		<ul>
-			<li>/cosi123/lectures/tm004/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm004.md", :content_filename=>"content/cosi123/lectures/tm004.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm004.md>, :title=>"Lecture 4 (tm004)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>/cosi235a/topics/hypotheses/</li>
+			<li>{:filename=>"content/cosi235a/topics/hypotheses.md", :content_filename=>"content/cosi235a/topics/hypotheses.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/hypotheses.md>, :title=>"Hypotheses", :mtime=>2013-07-03 14:47:20 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+		<ul>
+			<li>/cosi235a/topics/hypothesis_test/</li>
+			<li>{:filename=>"content/cosi235a/topics/hypothesis_test.md", :content_filename=>"content/cosi235a/topics/hypothesis_test.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/hypothesis_test.md>, :title=>"Testing Hypotheses", :mtime=>2013-07-03 14:33:55 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+		<ul>
+			<li>/cosi235a/topics/mvp/</li>
+			<li>{:filename=>"content/cosi235a/topics/mvp.md", :content_filename=>"content/cosi235a/topics/mvp.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/mvp.md>, :title=>"Minimum Viable Product", :mtime=>2013-07-03 14:48:49 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+		<ul>
+			<li>/cosi235a/topics/value_proposition/</li>
+			<li>{:filename=>"content/cosi235a/topics/value_proposition.md", :content_filename=>"content/cosi235a/topics/value_proposition.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/value_proposition.md>, :title=>"The Value Proposition", :mtime=>2013-07-03 14:49:21 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -104,7 +137,7 @@
 	<a href="/css/stylesheet/"></a>
 		<ul>
 			<li>/css/stylesheet/</li>
-			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-07-03 17:22:47 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -127,7 +160,7 @@
 
     </div>
     <div id="sidebar">
-      <h2>Course</h2>
+      <h2>Navigate</h2>
 
 
 	<ul>
@@ -139,56 +172,77 @@
 
 	<ul><ul><ul>
 	<li>
-		<a href="/cosi123/course_intro/">Course Intro</a>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/grading/">Grading</a>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/homework/">Homework info</a>
+		<a href="/cosi235a/grading/">Grading</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/high_level_overview/">Term Overview</a>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
 	</li>
 	
 	
 
 	<ul>
 	<li>
-		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+		<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+		<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+		<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+		<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/welcome/">Welcome</a>
 	</li>
 	
 	
@@ -212,13 +266,13 @@
 
 	</li>
 	<% end %>
-</ul>;T:preI"l<ul>
+</ul>;T:preI"k<ul>
 	
 	<li>
-	<a href="/cosi123/course_intro/">Course Intro</a>
+	<a href="/cosi235a/course_intro/">Course Intro</a>
 		<ul>
-			<li>/cosi123/course_intro/</li>
-			<li>{:filename=>"content/cosi123/course_intro.md", :content_filename=>"content/cosi123/course_intro.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/course_intro.md>, :title=>"Course Intro", :mtime=>2013-07-02 09:03:07 -0400}</li>
+			<li>/cosi235a/course_intro/</li>
+			<li>{:filename=>"content/cosi235a/course_intro.md", :content_filename=>"content/cosi235a/course_intro.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/course_intro.md>, :title=>"Course Intro", :mtime=>2013-07-02 09:03:07 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -226,10 +280,10 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/grading/">Grading</a>
+	<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
 		<ul>
-			<li>/cosi123/grading/</li>
-			<li>{:filename=>"content/cosi123/grading.md", :content_filename=>"content/cosi123/grading.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/grading.md>, :title=>"Grading", :mtime=>2013-07-02 09:09:40 -0400}</li>
+			<li>/cosi235a/detailed_schedule/</li>
+			<li>{:filename=>"content/cosi235a/detailed_schedule.md", :content_filename=>"content/cosi235a/detailed_schedule.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/detailed_schedule.md>, :title=>"Detailed Schedule", :mtime=>2013-07-03 17:27:02 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -237,10 +291,10 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/high_level_overview/">Term Overview</a>
+	<a href="/cosi235a/grading/">Grading</a>
 		<ul>
-			<li>/cosi123/high_level_overview/</li>
-			<li>{:filename=>"content/cosi123/high_level_overview.md", :content_filename=>"content/cosi123/high_level_overview.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/high_level_overview.md>, :title=>"Term Overview", :mtime=>2013-07-02 09:08:45 -0400}</li>
+			<li>/cosi235a/grading/</li>
+			<li>{:filename=>"content/cosi235a/grading.md", :content_filename=>"content/cosi235a/grading.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/grading.md>, :title=>"Grading", :mtime=>2013-07-02 09:09:40 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -248,10 +302,10 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/homework/">Homework info</a>
+	<a href="/cosi235a/high_level_overview/">Term Overview</a>
 		<ul>
-			<li>/cosi123/homework/</li>
-			<li>{:filename=>"content/cosi123/homework.md", :content_filename=>"content/cosi123/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/homework.md>, :title=>"Homework info", :mtime=>2013-07-02 19:53:47 -0400}</li>
+			<li>/cosi235a/high_level_overview/</li>
+			<li>{:filename=>"content/cosi235a/high_level_overview.md", :content_filename=>"content/cosi235a/high_level_overview.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/high_level_overview.md>, :title=>"Term Overview", :mtime=>2013-07-02 09:08:45 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -259,10 +313,10 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+	<a href="/cosi235a/homework/">Homework info</a>
 		<ul>
-			<li>/cosi123/lectures/tm001/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm001.md", :content_filename=>"content/cosi123/lectures/tm001.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm001.md>, :title=>"Lecture 1 (tm001.md)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>/cosi235a/homework/</li>
+			<li>{:filename=>"content/cosi235a/homework.md", :content_filename=>"content/cosi235a/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/homework.md>, :title=>"Homework info", :mtime=>2013-07-02 19:53:47 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -270,10 +324,10 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
 		<ul>
-			<li>/cosi123/lectures/tm002/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm002.md", :content_filename=>"content/cosi123/lectures/tm002.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm002.md>, :title=>"Lecture 2 (tm002.md)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>/cosi235a/lectures/detailed_schedule/</li>
+			<li>{:filename=>"content/cosi235a/lectures/detailed_schedule.md", :content_filename=>"content/cosi235a/lectures/detailed_schedule.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/detailed_schedule.md>, :title=>"Detailed Schedule", :mtime=>2013-07-03 17:35:38 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -281,10 +335,10 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	<a href="/cosi235a/lectures/welcome/">Welcome</a>
 		<ul>
-			<li>/cosi123/lectures/tm003/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm003.md", :content_filename=>"content/cosi123/lectures/tm003.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm003.md>, :title=>"Lecture 3 (tm003.md)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>/cosi235a/lectures/welcome/</li>
+			<li>{:filename=>"content/cosi235a/lectures/welcome.md", :content_filename=>"content/cosi235a/lectures/welcome.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/welcome.md>, :title=>"Welcome", :lecture=>1, :mtime=>2013-07-03 17:59:57 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -292,10 +346,43 @@
 	</li>
 	
 	<li>
-	<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
 		<ul>
-			<li>/cosi123/lectures/tm004/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm004.md", :content_filename=>"content/cosi123/lectures/tm004.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm004.md>, :title=>"Lecture 4 (tm004)", :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>/cosi235a/topics/hypotheses/</li>
+			<li>{:filename=>"content/cosi235a/topics/hypotheses.md", :content_filename=>"content/cosi235a/topics/hypotheses.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/hypotheses.md>, :title=>"Hypotheses", :mtime=>2013-07-03 14:47:20 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+		<ul>
+			<li>/cosi235a/topics/hypothesis_test/</li>
+			<li>{:filename=>"content/cosi235a/topics/hypothesis_test.md", :content_filename=>"content/cosi235a/topics/hypothesis_test.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/hypothesis_test.md>, :title=>"Testing Hypotheses", :mtime=>2013-07-03 14:33:55 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+		<ul>
+			<li>/cosi235a/topics/mvp/</li>
+			<li>{:filename=>"content/cosi235a/topics/mvp.md", :content_filename=>"content/cosi235a/topics/mvp.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/mvp.md>, :title=>"Minimum Viable Product", :mtime=>2013-07-03 14:48:49 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+		<ul>
+			<li>/cosi235a/topics/value_proposition/</li>
+			<li>{:filename=>"content/cosi235a/topics/value_proposition.md", :content_filename=>"content/cosi235a/topics/value_proposition.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/value_proposition.md>, :title=>"The Value Proposition", :mtime=>2013-07-03 14:49:21 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -306,7 +393,7 @@
 	<a href="/css/stylesheet/"></a>
 		<ul>
 			<li>/css/stylesheet/</li>
-			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-07-01 17:15:00 -0400}</li>
+			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-07-03 17:22:47 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -1071,7 +1158,7 @@ This is such an awesome course I can't believe it!;T;
 I"`<h3 id="welcome">Welcome</h3>
 
 <p>This is such an awesome course I can’t believe it!</p>
-;T;@2I"/cosi123/lectures/tm001/;T{;{	;I"�<!DOCTYPE HTML>
+;T;@2I"/cosi123/lectures/tm001/;T{;{	;I"�<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -1091,505 +1178,7 @@ I"`<h3 id="welcome">Welcome</h3>
 
     </div>
     <div id="sidebar">
-      <h2>Course</h2>
-
-
-	<ul>
-	<li>
-		<a href="/">Course List (index.erb)</a>
-	</li>
-	
-	
-
-	<ul><ul>
-	<li>
-		<a href="/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/high_level_overview/">High Level Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi123/grading/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/high_level_overview/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
-    </div>
-  </body>
-</html>
-;T;	I"HWelcome
-=======
-
-This is such an awesome course I can't believe it!;T;
-I"`<h1 id="welcome">Welcome</h1>
-
-<p>This is such an awesome course I can’t believe it!</p>
-;T;@8I"/cosi123/lectures/tm002/;T{;{	;I"g<!DOCTYPE HTML>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Lecture 2 (tm002.md)</title>
-    <link rel="stylesheet" href="/style.css">
-
-    <!-- you don't need to keep this, but it's cool for stats! -->
-    <meta name="generator" content="nanoc 3.6.4"> 
-  </head>
-  <body>
-    <div id="main">
-      <h2 id="welcome">Welcome</h2>
-
-<ul>
-  <li>This is such an awesome course I can’t believe it!</li>
-  <li>This is such an awesome course I can’t believe it!</li>
-  <li>This is such an awesome course I can’t believe it!</li>
-</ul>
-
-    <p>Tags: (none)</p>
-
-    </div>
-    <div id="sidebar">
-      <h2>Course</h2>
-
-
-	<ul>
-	<li>
-		<a href="/">Course List (index.erb)</a>
-	</li>
-	
-	
-
-	<ul><ul>
-	<li>
-		<a href="/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/high_level_overview/">High Level Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi123/grading/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/high_level_overview/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
-    </div>
-  </body>
-</html>
-;T;	I"�Welcome
--------
-
-* This is such an awesome course I can't believe it!
-* This is such an awesome course I can't believe it!
-* This is such an awesome course I can't believe it!;T;
-I"�<h2 id="welcome">Welcome</h2>
-
-<ul>
-  <li>This is such an awesome course I can’t believe it!</li>
-  <li>This is such an awesome course I can’t believe it!</li>
-  <li>This is such an awesome course I can’t believe it!</li>
-</ul>
-;T;@>I"/cosi123/lectures/tm003/;T{;{	;I"�<!DOCTYPE HTML>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Lecture 3 (tm003.md)</title>
-    <link rel="stylesheet" href="/style.css">
-
-    <!-- you don't need to keep this, but it's cool for stats! -->
-    <meta name="generator" content="nanoc 3.6.4"> 
-  </head>
-  <body>
-    <div id="main">
-      <h1 id="welcome">Welcome</h1>
-
-<p>This is such an awesome course I can’t believe it!</p>
-
-    <p>Tags: (none)</p>
-
-    </div>
-    <div id="sidebar">
-      <h2>Course</h2>
-
-
-	<ul>
-	<li>
-		<a href="/">Course List (index.erb)</a>
-	</li>
-	
-	
-
-	<ul><ul>
-	<li>
-		<a href="/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/high_level_overview/">High Level Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi123/grading/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/high_level_overview/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
-    </div>
-  </body>
-</html>
-;T;	I"B# Welcome
-
-This is such an awesome course I can't believe it!;T;
-I"`<h1 id="welcome">Welcome</h1>
-
-<p>This is such an awesome course I can’t believe it!</p>
-;T;@DI"/cosi123/lectures/tm004/;T{;{	;I"�<!DOCTYPE HTML>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Lecture 4 (tm004)</title>
-    <link rel="stylesheet" href="/style.css">
-
-    <!-- you don't need to keep this, but it's cool for stats! -->
-    <meta name="generator" content="nanoc 3.6.4"> 
-  </head>
-  <body>
-    <div id="main">
-      <h3 id="welcome">Welcome</h3>
-
-<p>This is such an awesome course I can’t believe it!</p>
-
-    <p>Tags: (none)</p>
-
-    </div>
-    <div id="sidebar">
-      <h2>Course</h2>
-
-
-	<ul>
-	<li>
-		<a href="/">Course List (index.erb)</a>
-	</li>
-	
-	
-
-	<ul><ul>
-	<li>
-		<a href="/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/high_level_overview/">High Level Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi123/grading/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/high_level_overview/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
-    </div>
-  </body>
-</html>
-;T;	I"D### Welcome
-
-This is such an awesome course I can't believe it!;T;
-I"`<h3 id="welcome">Welcome</h3>
-
-<p>This is such an awesome course I can’t believe it!</p>
-;T;@JI"/cosi123/homework/;T{;{	;I"r<!DOCTYPE HTML>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Homework info</title>
-    <link rel="stylesheet" href="/style.css">
-
-    <!-- you don't need to keep this, but it's cool for stats! -->
-    <meta name="generator" content="nanoc 3.6.4"> 
-  </head>
-  <body>
-    <div id="main">
-      <h2 id="homework">Homework</h2>
-
-<ul>
-  <li>The homework due for a particular lecture is always listed at the top of the page for that day.</li>
-  <li>Written homework is submitted as a blog post on Piazza, categorized as “blog” (duh)</li>
-  <li>Project progress reports are due weekly. Those are also posted on Piazza, categorized as “progress”</li>
-</ul>
-
-<h3 id="homework-rough-sketches-which-i-will-refines">Homework rough sketches (which I will refines)</h3>
-
-<ul>
-  <li>Watch an episode “Shark Tank”. What are some things that you think are realistic and some that you think are unrealistic. Take apart one of the pitches done by one of the entrepreneurs either because you think it is good or because it is really bad.</li>
-</ul>
-
-    <p>Tags: (none)</p>
-
-    </div>
-    <div id="sidebar">
-      <h2>Course</h2>
+      <h2>Navigate</h2>
 
 
 	<ul>
@@ -1629,6 +1218,13 @@ I"`<h3 id="welcome">Welcome</h3>
 
 	<ul>
 	<li>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
 		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
 	</li>
 	
@@ -1651,6 +1247,671 @@ I"`<h3 id="welcome">Welcome</h3>
 	
 	<li>
 		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+      <h2>Debug</h2>
+<ul>
+	
+	<li>
+	<a href="/cosi123/course_intro/">/cosi123/course_intro/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/grading/">/cosi123/grading/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/high_level_overview/">/cosi123/high_level_overview/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/homework/">/cosi123/homework/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/detailed_schedule/">/cosi123/lectures/detailed_schedule/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm001/">/cosi123/lectures/tm001/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm002/">/cosi123/lectures/tm002/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm003/">/cosi123/lectures/tm003/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm004/">/cosi123/lectures/tm004/.md</a>
+	</li>
+	
+	<li>
+	<a href="/css/stylesheet/">/css/stylesheet/.css</a>
+	</li>
+	
+	<li>
+	<a href="/">/.erb</a>
+	</li>
+	
+</ul>
+
+    </div>
+  </body>
+</html>
+;T;	I"HWelcome
+=======
+
+This is such an awesome course I can't believe it!;T;
+I"`<h1 id="welcome">Welcome</h1>
+
+<p>This is such an awesome course I can’t believe it!</p>
+;T;@8I"/cosi123/lectures/tm002/;T{;{	;I"m	<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Lecture 2 (tm002.md)</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h2 id="welcome">Welcome</h2>
+
+<ul>
+  <li>This is such an awesome course I can’t believe it!</li>
+  <li>This is such an awesome course I can’t believe it!</li>
+  <li>This is such an awesome course I can’t believe it!</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypothesis_test/">Lecture 1 (tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+      <h2>Debug</h2>
+<ul>
+	
+	<li>
+	<a href="/cosi123/course_intro/">/cosi123/course_intro/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/grading/">/cosi123/grading/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/high_level_overview/">/cosi123/high_level_overview/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/homework/">/cosi123/homework/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/detailed_schedule/">/cosi123/lectures/detailed_schedule/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/hypothesis_test/">/cosi123/lectures/hypothesis_test/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm002/">/cosi123/lectures/tm002/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm003/">/cosi123/lectures/tm003/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm004/">/cosi123/lectures/tm004/.md</a>
+	</li>
+	
+	<li>
+	<a href="/css/stylesheet/">/css/stylesheet/.css</a>
+	</li>
+	
+	<li>
+	<a href="/">/.erb</a>
+	</li>
+	
+</ul>
+
+    </div>
+  </body>
+</html>
+;T;	I"�Welcome
+-------
+
+* This is such an awesome course I can't believe it!
+* This is such an awesome course I can't believe it!
+* This is such an awesome course I can't believe it!;T;
+I"�<h2 id="welcome">Welcome</h2>
+
+<ul>
+  <li>This is such an awesome course I can’t believe it!</li>
+  <li>This is such an awesome course I can’t believe it!</li>
+  <li>This is such an awesome course I can’t believe it!</li>
+</ul>
+;T;@>I"/cosi123/lectures/tm003/;T{;{	;I"U	<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - The Value Proposition</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h1 id="value-proposition">Value Proposition</h1>
+
+<ul>
+  <li>Positioning and Value Proposition and Elevator Pitch</li>
+  <li>All different sides of the same coin, used differently</li>
+</ul>
+
+<p><em>test</em></p>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm003/">The Value Proposition</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+      <h2>Debug</h2>
+<ul>
+	
+	<li>
+	<a href="/cosi123/course_intro/">/cosi123/course_intro/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/grading/">/cosi123/grading/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/high_level_overview/">/cosi123/high_level_overview/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/homework/">/cosi123/homework/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/detailed_schedule/">/cosi123/lectures/detailed_schedule/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/hypothesis_test/">/cosi123/lectures/hypothesis_test/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/mvp/">/cosi123/lectures/mvp/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm003/">/cosi123/lectures/tm003/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm004/">/cosi123/lectures/tm004/.md</a>
+	</li>
+	
+	<li>
+	<a href="/css/stylesheet/">/css/stylesheet/.css</a>
+	</li>
+	
+	<li>
+	<a href="/">/.erb</a>
+	</li>
+	
+</ul>
+
+    </div>
+  </body>
+</html>
+;T;	I"�# Value Proposition
+
+*	Positioning and Value Proposition and Elevator Pitch
+*	All different sides of the same coin, used differently
+
+_test_;T;
+I"�<h1 id="value-proposition">Value Proposition</h1>
+
+<ul>
+  <li>Positioning and Value Proposition and Elevator Pitch</li>
+  <li>All different sides of the same coin, used differently</li>
+</ul>
+
+<p><em>test</em></p>
+;T;@DI"/cosi123/lectures/tm004/;T{;{	;I"]
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Hypotheses</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
+
+<p>Also ‘assumptions’, but I like the term hypothesis better because it emphasizes that we don’t take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
+
+<ul>
+  <li>Testable: You need to know how you would test it</li>
+  <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+      <h2>Debug</h2>
+<ul>
+	
+	<li>
+	<a href="/cosi123/course_intro/">/cosi123/course_intro/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/grading/">/cosi123/grading/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/high_level_overview/">/cosi123/high_level_overview/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/homework/">/cosi123/homework/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/detailed_schedule/">/cosi123/lectures/detailed_schedule/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/hypothesis_test/">/cosi123/lectures/hypothesis_test/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/mvp/">/cosi123/lectures/mvp/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm004/">/cosi123/lectures/tm004/.md</a>
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/value_proposition/">/cosi123/lectures/value_proposition/.md</a>
+	</li>
+	
+	<li>
+	<a href="/css/stylesheet/">/css/stylesheet/.css</a>
+	</li>
+	
+	<li>
+	<a href="/">/.erb</a>
+	</li>
+	
+</ul>
+
+    </div>
+  </body>
+</html>
+;T;	I"{### The LS notion of hypotheses
+
+Also 'assumptions', but I like the term hypothesis better because it emphasizes that we don't take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.
+
+*	Testable: You need to know how you would test it
+*	Explicit: You need to be able to state it succinctly (on a post-it note);T;
+I"�<h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
+
+<p>Also ‘assumptions’, but I like the term hypothesis better because it emphasizes that we don’t take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
+
+<ul>
+  <li>Testable: You need to know how you would test it</li>
+  <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+</ul>
+;T;@JI"/cosi123/homework/;T{;{	;I"�<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Homework info</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h2 id="homework">Homework</h2>
+
+<ul>
+  <li>The homework due for a particular lecture is always listed at the top of the page for that day.</li>
+  <li>Written homework is submitted as a blog post on Piazza, categorized as “blog” (duh)</li>
+  <li>Project progress reports are due weekly. Those are also posted on Piazza, categorized as “progress”</li>
+</ul>
+
+<h3 id="homework-rough-sketches-which-i-will-refines">Homework rough sketches (which I will refines)</h3>
+
+<ul>
+  <li>Watch an episode “Shark Tank”. What are some things that you think are realistic and some that you think are unrealistic. Take apart one of the pitches done by one of the entrepreneurs either because you think it is good or because it is really bad.</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/value_proposition/">The Value Proposition</a>
 	</li>
 	
 	
@@ -1794,7 +2055,7 @@ I"�<h2 id="homework">Homework</h2>
   </body>
 </html>
 ;T;	I"*These lectures are so great!! Really!;T;
-@W;@VI"/css/stylesheet/;T{;{;I"* {
+@W;@VI"/css/stylesheet/;T{;{;I"* {
   margin: 0;
   padding: 0;
 
@@ -1824,7 +2085,7 @@ a:hover {
   top: 40px;
   left: 280px;
 
-  width: 500px;
+  width: 600px;
 }
 
 #main h1 {
@@ -1854,7 +2115,7 @@ a:hover {
   line-height: 20px;
 }
 
-#main ul li {
+#main ul > li {
   list-style-type: square;
 }
 
@@ -1896,7 +2157,7 @@ a:hover {
   line-height: 20px;
 }
 ;T;	@[;
-@[I"/cosi123/course_intro/;T{;{	;I"_<!DOCTYPE HTML>
+@[I"/cosi123/course_intro/;T{;{	;I"�<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -1934,45 +2195,17 @@ a:hover {
 
     </div>
     <div id="sidebar">
-      <h2>Course</h2>
+      <h2>Navigate</h2>
 
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Dump of all pages</a>
 	</li>
 	
 	
 
-	<ul><ul>
-	<li>
-		<a href="/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/high_level_overview/">High Level Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi123/grading/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi123/high_level_overview/">Course Intro</a>
-	</li>
-	
-	
-
-	
+	<ul><ul><ul>
 	<li>
 		<a href="/cosi123/course_intro/">Course Intro</a>
 	</li>
@@ -1981,42 +2214,56 @@ a:hover {
 
 	
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/cosi123/grading/">Grading</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
 	</li>
 	
 	
 
 	<ul>
 	<li>
-		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+		<a href="/cosi123/lectures/hypotheses/">Hypotheses</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+		<a href="/cosi123/lectures/mvp/">Minimum Viable Product</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+		<a href="/cosi123/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/value_proposition/">The Value Proposition</a>
 	</li>
 	
 	
@@ -2065,7 +2312,7 @@ I"�<h3 id="welcome-to-cosi-235a---it-entrepreneurship">Welcome to COSI 235A - 
 <p>Every (other?) week there will be an invited speaker during class. These will be local entrepreneurs, CEOs and CTOs who will give their personal perspectives, insights and stories.</p>
 
 <h4 id="requirements">Requirements</h4>
-;T;@_I"/cosi123/grading/;T{;{	;I"�<!DOCTYPE HTML>
+;T;@_I"/cosi123/grading/;T{;{	;I")<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -2089,31 +2336,17 @@ I"�<h3 id="welcome-to-cosi-235a---it-entrepreneurship">Welcome to COSI 235A - 
 
     </div>
     <div id="sidebar">
-      <h2>Course</h2>
+      <h2>Navigate</h2>
 
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Dump of all pages</a>
 	</li>
 	
 	
 
-	<ul><ul>
-	<li>
-		<a href="/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/high_level_overview/">High Level Overview</a>
-	</li>
-	
-	
-
-	<ul>
+	<ul><ul><ul>
 	<li>
 		<a href="/cosi123/course_intro/">Course Intro</a>
 	</li>
@@ -2141,37 +2374,37 @@ I"�<h3 id="welcome-to-cosi-235a---it-entrepreneurship">Welcome to COSI 235A - 
 	
 	
 
-	
-	<li>
-		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
-	</li>
-	
-	
-
 	<ul>
 	<li>
-		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+		<a href="/cosi123/lectures/hypotheses/">Hypotheses</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+		<a href="/cosi123/lectures/mvp/">Minimum Viable Product</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+		<a href="/cosi123/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/value_proposition/">The Value Proposition</a>
 	</li>
 	
 	
@@ -2194,7 +2427,7 @@ I":<h3 id="grading">Grading</h3>
 <ol>
   <li>Class Participation (20%): This includes basic things like being in class when it starts</li>
 </ol>
-;T;@eI""/cosi123/high_level_overview/;T{;{	;I"Z<!DOCTYPE HTML>
+;T;@eI""/cosi123/high_level_overview/;T{;{	;I"�<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -2223,31 +2456,17 @@ I":<h3 id="grading">Grading</h3>
 
     </div>
     <div id="sidebar">
-      <h2>Course</h2>
+      <h2>Navigate</h2>
 
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Dump of all pages</a>
 	</li>
 	
 	
 
-	<ul><ul>
-	<li>
-		<a href="/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/high_level_overview/">High Level Overview</a>
-	</li>
-	
-	
-
-	<ul>
+	<ul><ul><ul>
 	<li>
 		<a href="/cosi123/course_intro/">Course Intro</a>
 	</li>
@@ -2275,37 +2494,37 @@ I":<h3 id="grading">Grading</h3>
 	
 	
 
-	
-	<li>
-		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
-	</li>
-	
-	
-
 	<ul>
 	<li>
-		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+		<a href="/cosi123/lectures/hypotheses/">Hypotheses</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+		<a href="/cosi123/lectures/mvp/">Minimum Viable Product</a>
 	</li>
 	
 	
 
 	
 	<li>
-		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+		<a href="/cosi123/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/value_proposition/">The Value Proposition</a>
 	</li>
 	
 	
@@ -2611,4 +2830,3516 @@ I"�<h3 id="high-level-overview">High Level Overview</h3>
   <li>Week 10,11,12: <em>Frame 2</em> During this frame the teams begin in earnest to determine how and whether to design and architect the product. You will be doing paper prototyping or using online prototyping tools, using these to test our <em>hypotheses</em> by <em>going outside the building</em>. We also now consider our Engine of Growth and develop the financial model to test and validate.</li>
   <li>Week 13,14,15: <em>Frame 3</em> During this final frame we pull everything together. Student teams refine their product business plans and prepare the final deliverables in preparation for the <em>Product Showcase</em>.</li>
 </ul>
-;T;@w:versioni
+;T;@wI")/cosi123/lectures/detailed_schedule/;T{;{	;I"�<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Detailed Schedule</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="detailed-framework">Detailed Framework</h3>
+
+<p>The term is divided into chunks which I call frames (play on the word “framework”). There are four major frames. In the Pilot frame we will rapidly go through the leann startup process as applied to the Pilot product, “Peer-to-peer Location Aware Travel Guide”. </p>
+
+<p>Then we will break into teams of 2 or 3 and work on individual projects of your own invention. That work will be structured and guided in 3 frames.</p>
+
+<h4 id="welcome-1-week">Welcome (1 week)</h4>
+
+<ul>
+  <li>Welcome</li>
+</ul>
+
+<h4 id="lean-startup-immersion-4-weeks">Lean startup immersion (4 weeks)</h4>
+
+<ol>
+  <li>Lean Startup Overview</li>
+  <li>Hypotheses, Leap of faith and others</li>
+  <li>Getting out of the building</li>
+  <li>Minimum Viable Product</li>
+  <li>The Pivot</li>
+  <li>Engine of Growth</li>
+  <li>Product Market Fit</li>
+</ol>
+
+<h4 id="ideation-and-team-selection-1-week">Ideation and team selection (1 week)</h4>
+
+<ol>
+  <li>Students pitch their products</li>
+  <li>Team formation and kickoff</li>
+</ol>
+
+<h4 id="frame-1-3-weeks">Frame 1 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 1 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+</ol>
+
+<h4 id="frame-2-3-weeks">Frame 2 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 2 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>Frame Review presentations with invited outside expert</li>
+</ol>
+
+<h4 id="frame-3-3-weeks">Frame 3 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 3 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>Final Review of Product Showcase presentations</li>
+</ol>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"�### Detailed Framework
+
+The term is divided into chunks which I call frames (play on the word "framework"). There are four major frames. In the Pilot frame we will rapidly go through the leann startup process as applied to the Pilot product, "Peer-to-peer Location Aware Travel Guide". 
+
+Then we will break into teams of 2 or 3 and work on individual projects of your own invention. That work will be structured and guided in 3 frames.
+
+
+#### Welcome (1 week)
+
+* Welcome
+
+#### Lean startup immersion (4 weeks)
+
+1. Lean Startup Overview
+1. Hypotheses, Leap of faith and others
+1. Getting out of the building
+1. Minimum Viable Product
+1. The Pivot
+1. Engine of Growth
+1. Product Market Fit
+
+#### Ideation and team selection (1 week)
+
+1. Students pitch their products
+1. Team formation and kickoff
+
+#### Frame 1 (3 weeks)
+
+1. Review of Frame 1 Deliverables
+1. asds
+1. asds
+1. asds
+1. asds
+1. asds
+
+#### Frame 2 (3 weeks)
+
+1. Review of Frame 2 Deliverables
+1. asds
+1. asds
+1. asds
+1. asds
+1. Frame Review presentations with invited outside expert
+
+#### Frame 3 (3 weeks)
+
+1. Review of Frame 3 Deliverables
+1. asds
+1. asds
+1. asds
+1. asds
+1. Final Review of Product Showcase presentations;T;
+I"�<h3 id="detailed-framework">Detailed Framework</h3>
+
+<p>The term is divided into chunks which I call frames (play on the word “framework”). There are four major frames. In the Pilot frame we will rapidly go through the leann startup process as applied to the Pilot product, “Peer-to-peer Location Aware Travel Guide”. </p>
+
+<p>Then we will break into teams of 2 or 3 and work on individual projects of your own invention. That work will be structured and guided in 3 frames.</p>
+
+<h4 id="welcome-1-week">Welcome (1 week)</h4>
+
+<ul>
+  <li>Welcome</li>
+</ul>
+
+<h4 id="lean-startup-immersion-4-weeks">Lean startup immersion (4 weeks)</h4>
+
+<ol>
+  <li>Lean Startup Overview</li>
+  <li>Hypotheses, Leap of faith and others</li>
+  <li>Getting out of the building</li>
+  <li>Minimum Viable Product</li>
+  <li>The Pivot</li>
+  <li>Engine of Growth</li>
+  <li>Product Market Fit</li>
+</ol>
+
+<h4 id="ideation-and-team-selection-1-week">Ideation and team selection (1 week)</h4>
+
+<ol>
+  <li>Students pitch their products</li>
+  <li>Team formation and kickoff</li>
+</ol>
+
+<h4 id="frame-1-3-weeks">Frame 1 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 1 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+</ol>
+
+<h4 id="frame-2-3-weeks">Frame 2 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 2 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>Frame Review presentations with invited outside expert</li>
+</ol>
+
+<h4 id="frame-3-3-weeks">Frame 3 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 3 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>Final Review of Product Showcase presentations</li>
+</ol>
+;T;@}I"'/cosi123/lectures/hypothesis_test/;T{;{	;I"�<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Testing Hypotheses</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h2 id="hypothesis-testing">Hypothesis Testing</h2>
+
+<ul>
+  <li>Getting out of the building</li>
+  <li>You don’t know anything!</li>
+  <li>Show and Tell as appropriate</li>
+  <li>Not just product questions: 
+    <ul>
+      <li>pricing</li>
+      <li>naming</li>
+      <li>problem statement</li>
+      <li>technology</li>
+    </ul>
+  </li>
+  <li>Some techniques (with examples)
+    <ul>
+      <li>Google form/survey</li>
+      <li>LinkedIn groups</li>
+      <li>Find out who you know and who they know</li>
+      <li>Think about: where do they congregate?</li>
+    </ul>
+  </li>
+  <li>Target varies depending on the type of question!</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"�## Hypothesis Testing
+
+* Getting out of the building
+* You don't know anything!
+* Show and Tell as appropriate
+* Not just product questions: 
+	* pricing
+	* naming
+	* problem statement
+	* technology
+* Some techniques (with examples)
+	* Google form/survey
+	* LinkedIn groups
+	* Find out who you know and who they know
+	* Think about: where do they congregate?
+* Target varies depending on the type of question!;T;
+I"�<h2 id="hypothesis-testing">Hypothesis Testing</h2>
+
+<ul>
+  <li>Getting out of the building</li>
+  <li>You don’t know anything!</li>
+  <li>Show and Tell as appropriate</li>
+  <li>Not just product questions: 
+    <ul>
+      <li>pricing</li>
+      <li>naming</li>
+      <li>problem statement</li>
+      <li>technology</li>
+    </ul>
+  </li>
+  <li>Some techniques (with examples)
+    <ul>
+      <li>Google form/survey</li>
+      <li>LinkedIn groups</li>
+      <li>Find out who you know and who they know</li>
+      <li>Think about: where do they congregate?</li>
+    </ul>
+  </li>
+  <li>Target varies depending on the type of question!</li>
+</ul>
+;T;@~I"/cosi123/lectures/mvp/;T{;{	;I"�<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Minimum Viable Product</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="the-mvpminimum-viable-product">The MVP/Minimum Viable Product</h3>
+
+<ul>
+  <li>“It’s not necessarily minimal nor a product”</li>
+  <li>Smallest increment of work that will test a hypothesis</li>
+  <li>What forms can it take?
+    <ul>
+      <li>Concierge MVP</li>
+      <li>Pricing scheme</li>
+      <li>Problem description</li>
+      <li>Solution description</li>
+      <li>Paper mockup</li>
+      <li>Actual Prototype</li>
+    </ul>
+  </li>
+  <li>The key is that it is <em>MINIUM!</em></li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"=### The MVP/Minimum Viable Product
+
+*	"It's not necessarily minimal nor a product"
+*	Smallest increment of work that will test a hypothesis
+*	What forms can it take?
+	*	Concierge MVP
+	*	Pricing scheme
+	*	Problem description
+	*	Solution description
+	*	Paper mockup
+	*	Actual Prototype
+* The key is that it is *MINIUM!*;T;
+I" <h3 id="the-mvpminimum-viable-product">The MVP/Minimum Viable Product</h3>
+
+<ul>
+  <li>“It’s not necessarily minimal nor a product”</li>
+  <li>Smallest increment of work that will test a hypothesis</li>
+  <li>What forms can it take?
+    <ul>
+      <li>Concierge MVP</li>
+      <li>Pricing scheme</li>
+      <li>Problem description</li>
+      <li>Solution description</li>
+      <li>Paper mockup</li>
+      <li>Actual Prototype</li>
+    </ul>
+  </li>
+  <li>The key is that it is <em>MINIUM!</em></li>
+</ul>
+;T;@�I")/cosi123/lectures/value_proposition/;T{;{	;I"�
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - The Value Proposition</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="value-proposition">Value Proposition</h3>
+
+<ul>
+  <li>Positioning and Value Proposition and Elevator Pitch</li>
+  <li>All different sides of the same coin, used differently</li>
+  <li>How to construct an elevator pitch</li>
+</ul>
+
+<h4 id="value-proposition-statement">Value Proposition Statement</h4>
+
+<p>“For tourists visiting a new destination, who want to supplement their experience with local knowledge, NewProd offers local and knowledgable audio guides automatically based on location”</p>
+
+<p>“For local professional and non-professional guides, Newprod is a way for them to discover new paying customers by providing location based audio tour segments which produce leads and also bolster reputation.”</p>
+
+<ul>
+  <li>The sentence specifically answers some key questions:
+    <ul>
+      <li>Who is it for?</li>
+      <li>What is their problem, what is the job their looking to hire a product for?</li>
+      <li>What is the proposed solution?</li>
+      <li>How does it achieve that?</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Notice that this is an ‘internal’ statement, never meant to be shown to customers or even investors.</p>
+
+<p>In this case we have two sentences because there are two distinctive markets. This raises very interesting pricing questions.</p>
+
+<h4 id="elevator-pitch">Elevator Pitch</h4>
+
+<p>An elevator pitch is meant to be spoken or read to a potential investor or board member.</p>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"�### Value Proposition
+
+*	Positioning and Value Proposition and Elevator Pitch
+*	All different sides of the same coin, used differently
+*	How to construct an elevator pitch
+
+#### Value Proposition Statement
+
+"For tourists visiting a new destination, who want to supplement their experience with local knowledge, NewProd offers local and knowledgable audio guides automatically based on location"
+
+"For local professional and non-professional guides, Newprod is a way for them to discover new paying customers by providing location based audio tour segments which produce leads and also bolster reputation."
+
+*	The sentence specifically answers some key questions:
+	*	Who is it for?
+	*	What is their problem, what is the job their looking to hire a product for?
+	*	What is the proposed solution?
+	*	How does it achieve that?
+
+Notice that this is an 'internal' statement, never meant to be shown to customers or even investors.
+
+In this case we have two sentences because there are two distinctive markets. This raises very interesting pricing questions.
+
+#### Elevator Pitch
+
+An elevator pitch is meant to be spoken or read to a potential investor or board member.;T;
+I"�<h3 id="value-proposition">Value Proposition</h3>
+
+<ul>
+  <li>Positioning and Value Proposition and Elevator Pitch</li>
+  <li>All different sides of the same coin, used differently</li>
+  <li>How to construct an elevator pitch</li>
+</ul>
+
+<h4 id="value-proposition-statement">Value Proposition Statement</h4>
+
+<p>“For tourists visiting a new destination, who want to supplement their experience with local knowledge, NewProd offers local and knowledgable audio guides automatically based on location”</p>
+
+<p>“For local professional and non-professional guides, Newprod is a way for them to discover new paying customers by providing location based audio tour segments which produce leads and also bolster reputation.”</p>
+
+<ul>
+  <li>The sentence specifically answers some key questions:
+    <ul>
+      <li>Who is it for?</li>
+      <li>What is their problem, what is the job their looking to hire a product for?</li>
+      <li>What is the proposed solution?</li>
+      <li>How does it achieve that?</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Notice that this is an ‘internal’ statement, never meant to be shown to customers or even investors.</p>
+
+<p>In this case we have two sentences because there are two distinctive markets. This raises very interesting pricing questions.</p>
+
+<h4 id="elevator-pitch">Elevator Pitch</h4>
+
+<p>An elevator pitch is meant to be spoken or read to a potential investor or board member.</p>
+;T;@�I""/cosi123/lectures/hypotheses/;T{;{	;I"�<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Hypotheses</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
+
+<p>Also ‘assumptions’, but I like the term hypothesis better because it emphasizes that we don’t take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
+
+<ul>
+  <li>Testable: You need to know how you would test it</li>
+  <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi123/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"{### The LS notion of hypotheses
+
+Also 'assumptions', but I like the term hypothesis better because it emphasizes that we don't take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.
+
+*	Testable: You need to know how you would test it
+*	Explicit: You need to be able to state it succinctly (on a post-it note);T;
+I"�<h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
+
+<p>Also ‘assumptions’, but I like the term hypothesis better because it emphasizes that we don’t take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
+
+<ul>
+  <li>Testable: You need to know how you would test it</li>
+  <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+</ul>
+;T;@�I"/cosi235a/course_intro/;T{;{	;I"m<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>COSI 235a - Course Intro</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="welcome-to-cosi-235a---it-entrepreneurship">Welcome to COSI 235A - IT Entrepreneurship</h3>
+
+<p>The course this fall has been fully updated and incorporates two key new components. </p>
+
+<ol>
+  <li>We will go in-depth on the “Lean Startup” model of entrepreneurship. This model is strongly focused on rapid iterations and validated learning. We will “go outside the building” to confirm (or refute) our hypotheses. A hypothesis in this context is a belief about the business we are consideringn starting up. A belief about a problem a user has, or a price they are willing to pay.</li>
+  <li>We will cycle twice through the Lean Startup process. First, during 4 weeks, we will rapidly learn the approach and terminology while attacking a product concept that I will supply (I hope you like it :). We will divide the class into two teams, and each one will work semi-independently on fleshing out the business plan. The second time through, students will apply the same process on a product of their own conception. We will form 2-3 person teams, ideate, validate, design, and document a full business model for the product, up to and including an actual validated prototype.(By the way, the prototypes and business models are the starting point of the companion course, “Software Engineering for IT Entrepreneurs which I will be teaching in the Spring.”)</li>
+</ol>
+
+<h4 id="other-topics">Other topics</h4>
+
+<ul>
+  <li>We will learn and practice how to create static and working prototypes which are critical in the process of validated learning</li>
+  <li>We will explore basic finance as it applies to startups, especially as it relates to Venture Capital and company financing, as well as pricing and sustainability.</li>
+</ul>
+
+<h4 id="speaker-series">Speaker Series</h4>
+
+<p>Every (other?) week there will be an invited speaker during class. These will be local entrepreneurs, CEOs and CTOs who will give their personal perspectives, insights and stories.</p>
+
+<h4 id="requirements">Requirements</h4>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/welcome/">Welcome</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"### Welcome to COSI 235A - IT Entrepreneurship
+
+The course this fall has been fully updated and incorporates two key new components. 
+
+1. We will go in-depth on the "Lean Startup" model of entrepreneurship. This model is strongly focused on rapid iterations and validated learning. We will "go outside the building" to confirm (or refute) our hypotheses. A hypothesis in this context is a belief about the business we are consideringn starting up. A belief about a problem a user has, or a price they are willing to pay.
+2. We will cycle twice through the Lean Startup process. First, during 4 weeks, we will rapidly learn the approach and terminology while attacking a product concept that I will supply (I hope you like it :). We will divide the class into two teams, and each one will work semi-independently on fleshing out the business plan. The second time through, students will apply the same process on a product of their own conception. We will form 2-3 person teams, ideate, validate, design, and document a full business model for the product, up to and including an actual validated prototype.(By the way, the prototypes and business models are the starting point of the companion course, "Software Engineering for IT Entrepreneurs which I will be teaching in the Spring.")
+
+#### Other topics
+
+* We will learn and practice how to create static and working prototypes which are critical in the process of validated learning
+* We will explore basic finance as it applies to startups, especially as it relates to Venture Capital and company financing, as well as pricing and sustainability.
+
+#### Speaker Series
+
+Every (other?) week there will be an invited speaker during class. These will be local entrepreneurs, CEOs and CTOs who will give their personal perspectives, insights and stories.
+
+#### Requirements;T;
+I"�<h3 id="welcome-to-cosi-235a---it-entrepreneurship">Welcome to COSI 235A - IT Entrepreneurship</h3>
+
+<p>The course this fall has been fully updated and incorporates two key new components. </p>
+
+<ol>
+  <li>We will go in-depth on the “Lean Startup” model of entrepreneurship. This model is strongly focused on rapid iterations and validated learning. We will “go outside the building” to confirm (or refute) our hypotheses. A hypothesis in this context is a belief about the business we are consideringn starting up. A belief about a problem a user has, or a price they are willing to pay.</li>
+  <li>We will cycle twice through the Lean Startup process. First, during 4 weeks, we will rapidly learn the approach and terminology while attacking a product concept that I will supply (I hope you like it :). We will divide the class into two teams, and each one will work semi-independently on fleshing out the business plan. The second time through, students will apply the same process on a product of their own conception. We will form 2-3 person teams, ideate, validate, design, and document a full business model for the product, up to and including an actual validated prototype.(By the way, the prototypes and business models are the starting point of the companion course, “Software Engineering for IT Entrepreneurs which I will be teaching in the Spring.”)</li>
+</ol>
+
+<h4 id="other-topics">Other topics</h4>
+
+<ul>
+  <li>We will learn and practice how to create static and working prototypes which are critical in the process of validated learning</li>
+  <li>We will explore basic finance as it applies to startups, especially as it relates to Venture Capital and company financing, as well as pricing and sustainability.</li>
+</ul>
+
+<h4 id="speaker-series">Speaker Series</h4>
+
+<p>Every (other?) week there will be an invited speaker during class. These will be local entrepreneurs, CEOs and CTOs who will give their personal perspectives, insights and stories.</p>
+
+<h4 id="requirements">Requirements</h4>
+;T;@�I"/cosi235a/grading/;T{;{	;I"_<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>COSI 235a - Grading</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="grading">Grading</h3>
+
+<p>I will try to give everyone constant and actionable feedback. I also expect you to be proactive if you are unclear about something or want to talk about anything. </p>
+
+<ol>
+  <li>
+    <p>Class Participation (20%): This includes basic things like being in class when it starts, participating in the discussion, speaking up and contributing through blog posts and responses.</p>
+  </li>
+  <li>
+    <p>Product/Service (40%): How well did you and your team apply the Lean Startup techiniques and other concepts we covered to your product or service work. How well did you listen to feedback from prospects, experts and incorporate those ideas into your project. How good was your final deliverable?</p>
+  </li>
+  <li>
+    <p>xxx (20%)</p>
+  </li>
+  <li>
+    <p>yyy (20%)</p>
+  </li>
+</ol>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/welcome/">Welcome</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"�### Grading
+
+I will try to give everyone constant and actionable feedback. I also expect you to be proactive if you are unclear about something or want to talk about anything. 
+
+1. Class Participation (20%): This includes basic things like being in class when it starts, participating in the discussion, speaking up and contributing through blog posts and responses.
+
+2. Product/Service (40%): How well did you and your team apply the Lean Startup techiniques and other concepts we covered to your product or service work. How well did you listen to feedback from prospects, experts and incorporate those ideas into your project. How good was your final deliverable?
+
+3. xxx (20%)
+
+4. yyy (20%);T;
+I"4<h3 id="grading">Grading</h3>
+
+<p>I will try to give everyone constant and actionable feedback. I also expect you to be proactive if you are unclear about something or want to talk about anything. </p>
+
+<ol>
+  <li>
+    <p>Class Participation (20%): This includes basic things like being in class when it starts, participating in the discussion, speaking up and contributing through blog posts and responses.</p>
+  </li>
+  <li>
+    <p>Product/Service (40%): How well did you and your team apply the Lean Startup techiniques and other concepts we covered to your product or service work. How well did you listen to feedback from prospects, experts and incorporate those ideas into your project. How good was your final deliverable?</p>
+  </li>
+  <li>
+    <p>xxx (20%)</p>
+  </li>
+  <li>
+    <p>yyy (20%)</p>
+  </li>
+</ol>
+;T;@�I"#/cosi235a/high_level_overview/;T{;{	;I"z<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>COSI 235a - Term Overview</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="high-level-overview">High Level Overview</h3>
+
+<p>The term is organized as follows:</p>
+
+<ul>
+  <li>Week 1: <em>Welcome</em>: warmups, introductions, etc. During this week (really just one class) we introduce the process we will go through and also go over the <em>Approval Checklist</em> that each product that we pursue, starting in <em>Frame 1</em> will have prepared and gotten ok’d.</li>
+  <li>Week 2,3,4,5: <em>Pilot Frame</em>. During these four weeks we will use a product contept that I supply (I hope you like it) to practice the key techniques of Lean Startup. In parallel and at the same time you will be introduced to these key concepts and have a chance to put them into practice.</li>
+  <li>Week 6: <em>Ideation and Kickoff</em>: All along you will have been thinking and exploring what product or service you would like to propose. During this week we will see what everyone came up with, pick the best ones, and choose teams of 2 or 3 students to pursue the products. The work on these products will be the backbone of the rest of the semester culminating in a <em>Product Showcase</em></li>
+  <li>Week 7,8,9: <em>Frame 1</em> During this frame the teams get themselves organized. Identify your key hypotheses and determine how to go about testing them. Prepare the artifacts needed to test the hypotheses and begin the process of “going out of the building.”</li>
+  <li>Week 10,11,12: <em>Frame 2</em> During this frame the teams begin in earnest to determine how and whether to design and architect the product. You will be doing paper prototyping or using online prototyping tools, using these to test our <em>hypotheses</em> by <em>going outside the building</em>. We also now consider our Engine of Growth and develop the financial model to test and validate.</li>
+  <li>Week 13,14,15: <em>Frame 3</em> During this final frame we pull everything together. Student teams refine their product business plans and prepare the final deliverables in preparation for the <em>Product Showcase</em>.</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/welcome/">Welcome</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"5### High Level Overview
+
+The term is organized as follows:
+
+* Week 1: _Welcome_: warmups, introductions, etc. During this week (really just one class) we introduce the process we will go through and also go over the _Approval Checklist_ that each product that we pursue, starting in _Frame 1_ will have prepared and gotten ok'd.
+* Week 2,3,4,5: _Pilot Frame_. During these four weeks we will use a product contept that I supply (I hope you like it) to practice the key techniques of Lean Startup. In parallel and at the same time you will be introduced to these key concepts and have a chance to put them into practice.
+* Week 6: _Ideation and Kickoff_: All along you will have been thinking and exploring what product or service you would like to propose. During this week we will see what everyone came up with, pick the best ones, and choose teams of 2 or 3 students to pursue the products. The work on these products will be the backbone of the rest of the semester culminating in a _Product Showcase_
+* Week 7,8,9: _Frame 1_ During this frame the teams get themselves organized. Identify your key hypotheses and determine how to go about testing them. Prepare the artifacts needed to test the hypotheses and begin the process of "going out of the building."
+* Week 10,11,12: _Frame 2_ During this frame the teams begin in earnest to determine how and whether to design and architect the product. You will be doing paper prototyping or using online prototyping tools, using these to test our _hypotheses_ by _going outside the building_. We also now consider our Engine of Growth and develop the financial model to test and validate.
+* Week 13,14,15: _Frame 3_ During this final frame we pull everything together. Student teams refine their product business plans and prepare the final deliverables in preparation for the _Product Showcase_.;T;
+I"�<h3 id="high-level-overview">High Level Overview</h3>
+
+<p>The term is organized as follows:</p>
+
+<ul>
+  <li>Week 1: <em>Welcome</em>: warmups, introductions, etc. During this week (really just one class) we introduce the process we will go through and also go over the <em>Approval Checklist</em> that each product that we pursue, starting in <em>Frame 1</em> will have prepared and gotten ok’d.</li>
+  <li>Week 2,3,4,5: <em>Pilot Frame</em>. During these four weeks we will use a product contept that I supply (I hope you like it) to practice the key techniques of Lean Startup. In parallel and at the same time you will be introduced to these key concepts and have a chance to put them into practice.</li>
+  <li>Week 6: <em>Ideation and Kickoff</em>: All along you will have been thinking and exploring what product or service you would like to propose. During this week we will see what everyone came up with, pick the best ones, and choose teams of 2 or 3 students to pursue the products. The work on these products will be the backbone of the rest of the semester culminating in a <em>Product Showcase</em></li>
+  <li>Week 7,8,9: <em>Frame 1</em> During this frame the teams get themselves organized. Identify your key hypotheses and determine how to go about testing them. Prepare the artifacts needed to test the hypotheses and begin the process of “going out of the building.”</li>
+  <li>Week 10,11,12: <em>Frame 2</em> During this frame the teams begin in earnest to determine how and whether to design and architect the product. You will be doing paper prototyping or using online prototyping tools, using these to test our <em>hypotheses</em> by <em>going outside the building</em>. We also now consider our Engine of Growth and develop the financial model to test and validate.</li>
+  <li>Week 13,14,15: <em>Frame 3</em> During this final frame we pull everything together. Student teams refine their product business plans and prepare the final deliverables in preparation for the <em>Product Showcase</em>.</li>
+</ul>
+;T;@�I"/cosi235a/homework/;T{;{	;I"q<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>COSI 235a - Homework info</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h2 id="homework">Homework</h2>
+
+<ul>
+  <li>The homework due for a particular lecture is always listed at the top of the page for that day.</li>
+  <li>Written homework is submitted as a blog post on Piazza, categorized as “blog” (duh)</li>
+  <li>Project progress reports are due weekly. Those are also posted on Piazza, categorized as “progress”</li>
+</ul>
+
+<h3 id="homework-rough-sketches-which-i-will-refines">Homework rough sketches (which I will refines)</h3>
+
+<ul>
+  <li>Watch an episode “Shark Tank”. What are some things that you think are realistic and some that you think are unrealistic. Take apart one of the pitches done by one of the entrepreneurs either because you think it is good or because it is really bad.</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/welcome/">Welcome</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"[## Homework
+
+* The homework due for a particular lecture is always listed at the top of the page for that day.
+* Written homework is submitted as a blog post on Piazza, categorized as "blog" (duh)
+* Project progress reports are due weekly. Those are also posted on Piazza, categorized as "progress"
+
+### Homework rough sketches (which I will refines)
+
+* Watch an episode "Shark Tank". What are some things that you think are realistic and some that you think are unrealistic. Take apart one of the pitches done by one of the entrepreneurs either because you think it is good or because it is really bad.;T;
+I"�<h2 id="homework">Homework</h2>
+
+<ul>
+  <li>The homework due for a particular lecture is always listed at the top of the page for that day.</li>
+  <li>Written homework is submitted as a blog post on Piazza, categorized as “blog” (duh)</li>
+  <li>Project progress reports are due weekly. Those are also posted on Piazza, categorized as “progress”</li>
+</ul>
+
+<h3 id="homework-rough-sketches-which-i-will-refines">Homework rough sketches (which I will refines)</h3>
+
+<ul>
+  <li>Watch an episode “Shark Tank”. What are some things that you think are realistic and some that you think are unrealistic. Take apart one of the pitches done by one of the entrepreneurs either because you think it is good or because it is really bad.</li>
+</ul>
+;T;@�I"*/cosi235a/lectures/detailed_schedule/;T{;{	;I"4<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>COSI 235a - Detailed Schedule</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="detailed-framework">Detailed Framework</h3>
+
+<p>The term is divided into chunks which I call frames (play on the word “framework”). There are four major frames. In the Pilot frame we will rapidly go through the leann startup process as applied to the Pilot product, “Peer-to-peer Location Aware Travel Guide”. </p>
+
+<p>Then we will break into teams of 2 or 3 and work on individual projects of your own invention. That work will be structured and guided in 3 frames.</p>
+
+<h4 id="welcome-1-week">Welcome (1 week)</h4>
+
+<ul>
+  <li>Welcome</li>
+</ul>
+
+<h4 id="lean-startup-immersion-4-weeks">Lean startup immersion (4 weeks)</h4>
+
+<ol>
+  <li>Lean Startup Overview</li>
+  <li>Hypotheses, Leap of faith and others</li>
+  <li>Getting out of the building</li>
+  <li>Minimum Viable Product</li>
+  <li>The Pivot</li>
+  <li>Engine of Growth</li>
+  <li>Product Market Fit</li>
+</ol>
+
+<h4 id="ideation-and-team-selection-1-week">Ideation and team selection (1 week)</h4>
+
+<ol>
+  <li>Students pitch their products</li>
+  <li>Team formation and kickoff</li>
+</ol>
+
+<h4 id="frame-1-3-weeks">Frame 1 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 1 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+</ol>
+
+<h4 id="frame-2-3-weeks">Frame 2 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 2 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>Frame Review presentations with invited outside expert</li>
+</ol>
+
+<h4 id="frame-3-3-weeks">Frame 3 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 3 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>Final Review of Product Showcase presentations</li>
+</ol>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/welcome/">Welcome</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"�### Detailed Framework
+
+The term is divided into chunks which I call frames (play on the word "framework"). There are four major frames. In the Pilot frame we will rapidly go through the leann startup process as applied to the Pilot product, "Peer-to-peer Location Aware Travel Guide". 
+
+Then we will break into teams of 2 or 3 and work on individual projects of your own invention. That work will be structured and guided in 3 frames.
+
+
+#### Welcome (1 week)
+
+* Welcome
+
+#### Lean startup immersion (4 weeks)
+
+1. Lean Startup Overview
+1. Hypotheses, Leap of faith and others
+1. Getting out of the building
+1. Minimum Viable Product
+1. The Pivot
+1. Engine of Growth
+1. Product Market Fit
+
+#### Ideation and team selection (1 week)
+
+1. Students pitch their products
+1. Team formation and kickoff
+
+#### Frame 1 (3 weeks)
+
+1. Review of Frame 1 Deliverables
+1. asds
+1. asds
+1. asds
+1. asds
+1. asds
+
+#### Frame 2 (3 weeks)
+
+1. Review of Frame 2 Deliverables
+1. asds
+1. asds
+1. asds
+1. asds
+1. Frame Review presentations with invited outside expert
+
+#### Frame 3 (3 weeks)
+
+1. Review of Frame 3 Deliverables
+1. asds
+1. asds
+1. asds
+1. asds
+1. Final Review of Product Showcase presentations;T;
+I"�<h3 id="detailed-framework">Detailed Framework</h3>
+
+<p>The term is divided into chunks which I call frames (play on the word “framework”). There are four major frames. In the Pilot frame we will rapidly go through the leann startup process as applied to the Pilot product, “Peer-to-peer Location Aware Travel Guide”. </p>
+
+<p>Then we will break into teams of 2 or 3 and work on individual projects of your own invention. That work will be structured and guided in 3 frames.</p>
+
+<h4 id="welcome-1-week">Welcome (1 week)</h4>
+
+<ul>
+  <li>Welcome</li>
+</ul>
+
+<h4 id="lean-startup-immersion-4-weeks">Lean startup immersion (4 weeks)</h4>
+
+<ol>
+  <li>Lean Startup Overview</li>
+  <li>Hypotheses, Leap of faith and others</li>
+  <li>Getting out of the building</li>
+  <li>Minimum Viable Product</li>
+  <li>The Pivot</li>
+  <li>Engine of Growth</li>
+  <li>Product Market Fit</li>
+</ol>
+
+<h4 id="ideation-and-team-selection-1-week">Ideation and team selection (1 week)</h4>
+
+<ol>
+  <li>Students pitch their products</li>
+  <li>Team formation and kickoff</li>
+</ol>
+
+<h4 id="frame-1-3-weeks">Frame 1 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 1 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+</ol>
+
+<h4 id="frame-2-3-weeks">Frame 2 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 2 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>Frame Review presentations with invited outside expert</li>
+</ol>
+
+<h4 id="frame-3-3-weeks">Frame 3 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 3 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>Final Review of Product Showcase presentations</li>
+</ol>
+;T;@�I"#/cosi235a/lectures/hypotheses/;T{;{	;I"�<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Hypotheses</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
+
+<p>Also ‘assumptions’, but I like the term hypothesis better because it emphasizes that we don’t take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
+
+<ul>
+  <li>Testable: You need to know how you would test it</li>
+  <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"{### The LS notion of hypotheses
+
+Also 'assumptions', but I like the term hypothesis better because it emphasizes that we don't take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.
+
+*	Testable: You need to know how you would test it
+*	Explicit: You need to be able to state it succinctly (on a post-it note);T;
+I"�<h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
+
+<p>Also ‘assumptions’, but I like the term hypothesis better because it emphasizes that we don’t take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
+
+<ul>
+  <li>Testable: You need to know how you would test it</li>
+  <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+</ul>
+;T;@�I"(/cosi235a/lectures/hypothesis_test/;T{;{	;I"�<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Testing Hypotheses</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h2 id="hypothesis-testing">Hypothesis Testing</h2>
+
+<ul>
+  <li>Getting out of the building</li>
+  <li>You don’t know anything!</li>
+  <li>Show and Tell as appropriate</li>
+  <li>Not just product questions: 
+    <ul>
+      <li>pricing</li>
+      <li>naming</li>
+      <li>problem statement</li>
+      <li>technology</li>
+    </ul>
+  </li>
+  <li>Some techniques (with examples)
+    <ul>
+      <li>Google form/survey</li>
+      <li>LinkedIn groups</li>
+      <li>Find out who you know and who they know</li>
+      <li>Think about: where do they congregate?</li>
+    </ul>
+  </li>
+  <li>Target varies depending on the type of question!</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"�## Hypothesis Testing
+
+* Getting out of the building
+* You don't know anything!
+* Show and Tell as appropriate
+* Not just product questions: 
+	* pricing
+	* naming
+	* problem statement
+	* technology
+* Some techniques (with examples)
+	* Google form/survey
+	* LinkedIn groups
+	* Find out who you know and who they know
+	* Think about: where do they congregate?
+* Target varies depending on the type of question!;T;
+I"�<h2 id="hypothesis-testing">Hypothesis Testing</h2>
+
+<ul>
+  <li>Getting out of the building</li>
+  <li>You don’t know anything!</li>
+  <li>Show and Tell as appropriate</li>
+  <li>Not just product questions: 
+    <ul>
+      <li>pricing</li>
+      <li>naming</li>
+      <li>problem statement</li>
+      <li>technology</li>
+    </ul>
+  </li>
+  <li>Some techniques (with examples)
+    <ul>
+      <li>Google form/survey</li>
+      <li>LinkedIn groups</li>
+      <li>Find out who you know and who they know</li>
+      <li>Think about: where do they congregate?</li>
+    </ul>
+  </li>
+  <li>Target varies depending on the type of question!</li>
+</ul>
+;T;@�I"/cosi235a/lectures/mvp/;T{;{	;I"�<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Minimum Viable Product</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="the-mvpminimum-viable-product">The MVP/Minimum Viable Product</h3>
+
+<ul>
+  <li>“It’s not necessarily minimal nor a product”</li>
+  <li>Smallest increment of work that will test a hypothesis</li>
+  <li>What forms can it take?
+    <ul>
+      <li>Concierge MVP</li>
+      <li>Pricing scheme</li>
+      <li>Problem description</li>
+      <li>Solution description</li>
+      <li>Paper mockup</li>
+      <li>Actual Prototype</li>
+    </ul>
+  </li>
+  <li>The key is that it is <em>MINIUM!</em></li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"=### The MVP/Minimum Viable Product
+
+*	"It's not necessarily minimal nor a product"
+*	Smallest increment of work that will test a hypothesis
+*	What forms can it take?
+	*	Concierge MVP
+	*	Pricing scheme
+	*	Problem description
+	*	Solution description
+	*	Paper mockup
+	*	Actual Prototype
+* The key is that it is *MINIUM!*;T;
+I" <h3 id="the-mvpminimum-viable-product">The MVP/Minimum Viable Product</h3>
+
+<ul>
+  <li>“It’s not necessarily minimal nor a product”</li>
+  <li>Smallest increment of work that will test a hypothesis</li>
+  <li>What forms can it take?
+    <ul>
+      <li>Concierge MVP</li>
+      <li>Pricing scheme</li>
+      <li>Problem description</li>
+      <li>Solution description</li>
+      <li>Paper mockup</li>
+      <li>Actual Prototype</li>
+    </ul>
+  </li>
+  <li>The key is that it is <em>MINIUM!</em></li>
+</ul>
+;T;@�I"*/cosi235a/lectures/value_proposition/;T{;{	;I"�
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - The Value Proposition</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="value-proposition">Value Proposition</h3>
+
+<ul>
+  <li>Positioning and Value Proposition and Elevator Pitch</li>
+  <li>All different sides of the same coin, used differently</li>
+  <li>How to construct an elevator pitch</li>
+</ul>
+
+<h4 id="value-proposition-statement">Value Proposition Statement</h4>
+
+<p>“For tourists visiting a new destination, who want to supplement their experience with local knowledge, NewProd offers local and knowledgable audio guides automatically based on location”</p>
+
+<p>“For local professional and non-professional guides, Newprod is a way for them to discover new paying customers by providing location based audio tour segments which produce leads and also bolster reputation.”</p>
+
+<ul>
+  <li>The sentence specifically answers some key questions:
+    <ul>
+      <li>Who is it for?</li>
+      <li>What is their problem, what is the job their looking to hire a product for?</li>
+      <li>What is the proposed solution?</li>
+      <li>How does it achieve that?</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Notice that this is an ‘internal’ statement, never meant to be shown to customers or even investors.</p>
+
+<p>In this case we have two sentences because there are two distinctive markets. This raises very interesting pricing questions.</p>
+
+<h4 id="elevator-pitch">Elevator Pitch</h4>
+
+<p>An elevator pitch is meant to be spoken or read to a potential investor or board member.</p>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"�### Value Proposition
+
+*	Positioning and Value Proposition and Elevator Pitch
+*	All different sides of the same coin, used differently
+*	How to construct an elevator pitch
+
+#### Value Proposition Statement
+
+"For tourists visiting a new destination, who want to supplement their experience with local knowledge, NewProd offers local and knowledgable audio guides automatically based on location"
+
+"For local professional and non-professional guides, Newprod is a way for them to discover new paying customers by providing location based audio tour segments which produce leads and also bolster reputation."
+
+*	The sentence specifically answers some key questions:
+	*	Who is it for?
+	*	What is their problem, what is the job their looking to hire a product for?
+	*	What is the proposed solution?
+	*	How does it achieve that?
+
+Notice that this is an 'internal' statement, never meant to be shown to customers or even investors.
+
+In this case we have two sentences because there are two distinctive markets. This raises very interesting pricing questions.
+
+#### Elevator Pitch
+
+An elevator pitch is meant to be spoken or read to a potential investor or board member.;T;
+I"�<h3 id="value-proposition">Value Proposition</h3>
+
+<ul>
+  <li>Positioning and Value Proposition and Elevator Pitch</li>
+  <li>All different sides of the same coin, used differently</li>
+  <li>How to construct an elevator pitch</li>
+</ul>
+
+<h4 id="value-proposition-statement">Value Proposition Statement</h4>
+
+<p>“For tourists visiting a new destination, who want to supplement their experience with local knowledge, NewProd offers local and knowledgable audio guides automatically based on location”</p>
+
+<p>“For local professional and non-professional guides, Newprod is a way for them to discover new paying customers by providing location based audio tour segments which produce leads and also bolster reputation.”</p>
+
+<ul>
+  <li>The sentence specifically answers some key questions:
+    <ul>
+      <li>Who is it for?</li>
+      <li>What is their problem, what is the job their looking to hire a product for?</li>
+      <li>What is the proposed solution?</li>
+      <li>How does it achieve that?</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Notice that this is an ‘internal’ statement, never meant to be shown to customers or even investors.</p>
+
+<p>In this case we have two sentences because there are two distinctive markets. This raises very interesting pricing questions.</p>
+
+<h4 id="elevator-pitch">Elevator Pitch</h4>
+
+<p>An elevator pitch is meant to be spoken or read to a potential investor or board member.</p>
+;T;@�I"!/cosi235a/detailed_schedule/;T{;{	;I"4<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>COSI 235a - Detailed Schedule</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="detailed-framework">Detailed Framework</h3>
+
+<p>The term is divided into chunks which I call frames (play on the word “framework”). There are four major frames. In the Pilot frame we will rapidly go through the leann startup process as applied to the Pilot product, “Peer-to-peer Location Aware Travel Guide”. </p>
+
+<p>Then we will break into teams of 2 or 3 and work on individual projects of your own invention. That work will be structured and guided in 3 frames.</p>
+
+<h4 id="welcome-1-week">Welcome (1 week)</h4>
+
+<ul>
+  <li>Welcome</li>
+</ul>
+
+<h4 id="lean-startup-immersion-4-weeks">Lean startup immersion (4 weeks)</h4>
+
+<ol>
+  <li>Lean Startup Overview</li>
+  <li>Hypotheses, Leap of faith and others</li>
+  <li>Getting out of the building</li>
+  <li>Minimum Viable Product</li>
+  <li>The Pivot</li>
+  <li>Engine of Growth</li>
+  <li>Product Market Fit</li>
+</ol>
+
+<h4 id="ideation-and-team-selection-1-week">Ideation and team selection (1 week)</h4>
+
+<ol>
+  <li>Students pitch their products</li>
+  <li>Team formation and kickoff</li>
+</ol>
+
+<h4 id="frame-1-3-weeks">Frame 1 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 1 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+</ol>
+
+<h4 id="frame-2-3-weeks">Frame 2 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 2 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>Frame Review presentations with invited outside expert</li>
+</ol>
+
+<h4 id="frame-3-3-weeks">Frame 3 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 3 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>Final Review of Product Showcase presentations</li>
+</ol>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/welcome/">Welcome</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"�### Detailed Framework
+
+The term is divided into chunks which I call frames (play on the word "framework"). There are four major frames. In the Pilot frame we will rapidly go through the leann startup process as applied to the Pilot product, "Peer-to-peer Location Aware Travel Guide". 
+
+Then we will break into teams of 2 or 3 and work on individual projects of your own invention. That work will be structured and guided in 3 frames.
+
+
+#### Welcome (1 week)
+
+* Welcome
+
+#### Lean startup immersion (4 weeks)
+
+1. Lean Startup Overview
+1. Hypotheses, Leap of faith and others
+1. Getting out of the building
+1. Minimum Viable Product
+1. The Pivot
+1. Engine of Growth
+1. Product Market Fit
+
+#### Ideation and team selection (1 week)
+
+1. Students pitch their products
+1. Team formation and kickoff
+
+#### Frame 1 (3 weeks)
+
+1. Review of Frame 1 Deliverables
+1. asds
+1. asds
+1. asds
+1. asds
+1. asds
+
+#### Frame 2 (3 weeks)
+
+1. Review of Frame 2 Deliverables
+1. asds
+1. asds
+1. asds
+1. asds
+1. Frame Review presentations with invited outside expert
+
+#### Frame 3 (3 weeks)
+
+1. Review of Frame 3 Deliverables
+1. asds
+1. asds
+1. asds
+1. asds
+1. Final Review of Product Showcase presentations;T;
+I"�<h3 id="detailed-framework">Detailed Framework</h3>
+
+<p>The term is divided into chunks which I call frames (play on the word “framework”). There are four major frames. In the Pilot frame we will rapidly go through the leann startup process as applied to the Pilot product, “Peer-to-peer Location Aware Travel Guide”. </p>
+
+<p>Then we will break into teams of 2 or 3 and work on individual projects of your own invention. That work will be structured and guided in 3 frames.</p>
+
+<h4 id="welcome-1-week">Welcome (1 week)</h4>
+
+<ul>
+  <li>Welcome</li>
+</ul>
+
+<h4 id="lean-startup-immersion-4-weeks">Lean startup immersion (4 weeks)</h4>
+
+<ol>
+  <li>Lean Startup Overview</li>
+  <li>Hypotheses, Leap of faith and others</li>
+  <li>Getting out of the building</li>
+  <li>Minimum Viable Product</li>
+  <li>The Pivot</li>
+  <li>Engine of Growth</li>
+  <li>Product Market Fit</li>
+</ol>
+
+<h4 id="ideation-and-team-selection-1-week">Ideation and team selection (1 week)</h4>
+
+<ol>
+  <li>Students pitch their products</li>
+  <li>Team formation and kickoff</li>
+</ol>
+
+<h4 id="frame-1-3-weeks">Frame 1 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 1 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+</ol>
+
+<h4 id="frame-2-3-weeks">Frame 2 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 2 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>Frame Review presentations with invited outside expert</li>
+</ol>
+
+<h4 id="frame-3-3-weeks">Frame 3 (3 weeks)</h4>
+
+<ol>
+  <li>Review of Frame 3 Deliverables</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>asds</li>
+  <li>Final Review of Product Showcase presentations</li>
+</ol>
+;T;@�I"!/cosi235a/topics/hypotheses/;T{;{	;I"M<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>COSI 235a - Hypotheses</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
+
+<p>Also ‘assumptions’, but I like the term hypothesis better because it emphasizes that we don’t take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
+
+<ul>
+  <li>Testable: You need to know how you would test it</li>
+  <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/welcome/">Welcome</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"{### The LS notion of hypotheses
+
+Also 'assumptions', but I like the term hypothesis better because it emphasizes that we don't take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.
+
+*	Testable: You need to know how you would test it
+*	Explicit: You need to be able to state it succinctly (on a post-it note);T;
+I"�<h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
+
+<p>Also ‘assumptions’, but I like the term hypothesis better because it emphasizes that we don’t take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
+
+<ul>
+  <li>Testable: You need to know how you would test it</li>
+  <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+</ul>
+;T;@�I"&/cosi235a/topics/hypothesis_test/;T{;{	;I"<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>COSI 235a - Testing Hypotheses</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h2 id="hypothesis-testing">Hypothesis Testing</h2>
+
+<ul>
+  <li>Getting out of the building</li>
+  <li>You don’t know anything!</li>
+  <li>Show and Tell as appropriate</li>
+  <li>Not just product questions: 
+    <ul>
+      <li>pricing</li>
+      <li>naming</li>
+      <li>problem statement</li>
+      <li>technology</li>
+    </ul>
+  </li>
+  <li>Some techniques (with examples)
+    <ul>
+      <li>Google form/survey</li>
+      <li>LinkedIn groups</li>
+      <li>Find out who you know and who they know</li>
+      <li>Think about: where do they congregate?</li>
+    </ul>
+  </li>
+  <li>Target varies depending on the type of question!</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/welcome/">Welcome</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"�## Hypothesis Testing
+
+* Getting out of the building
+* You don't know anything!
+* Show and Tell as appropriate
+* Not just product questions: 
+	* pricing
+	* naming
+	* problem statement
+	* technology
+* Some techniques (with examples)
+	* Google form/survey
+	* LinkedIn groups
+	* Find out who you know and who they know
+	* Think about: where do they congregate?
+* Target varies depending on the type of question!;T;
+I"�<h2 id="hypothesis-testing">Hypothesis Testing</h2>
+
+<ul>
+  <li>Getting out of the building</li>
+  <li>You don’t know anything!</li>
+  <li>Show and Tell as appropriate</li>
+  <li>Not just product questions: 
+    <ul>
+      <li>pricing</li>
+      <li>naming</li>
+      <li>problem statement</li>
+      <li>technology</li>
+    </ul>
+  </li>
+  <li>Some techniques (with examples)
+    <ul>
+      <li>Google form/survey</li>
+      <li>LinkedIn groups</li>
+      <li>Find out who you know and who they know</li>
+      <li>Think about: where do they congregate?</li>
+    </ul>
+  </li>
+  <li>Target varies depending on the type of question!</li>
+</ul>
+;T;@�I"/cosi235a/topics/mvp/;T{;{	;I"�<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>COSI 235a - Minimum Viable Product</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="the-mvpminimum-viable-product">The MVP/Minimum Viable Product</h3>
+
+<ul>
+  <li>“It’s not necessarily minimal nor a product”</li>
+  <li>Smallest increment of work that will test a hypothesis</li>
+  <li>What forms can it take?
+    <ul>
+      <li>Concierge MVP</li>
+      <li>Pricing scheme</li>
+      <li>Problem description</li>
+      <li>Solution description</li>
+      <li>Paper mockup</li>
+      <li>Actual Prototype</li>
+    </ul>
+  </li>
+  <li>The key is that it is <em>MINIUM!</em></li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/welcome/">Welcome</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"=### The MVP/Minimum Viable Product
+
+*	"It's not necessarily minimal nor a product"
+*	Smallest increment of work that will test a hypothesis
+*	What forms can it take?
+	*	Concierge MVP
+	*	Pricing scheme
+	*	Problem description
+	*	Solution description
+	*	Paper mockup
+	*	Actual Prototype
+* The key is that it is *MINIUM!*;T;
+I" <h3 id="the-mvpminimum-viable-product">The MVP/Minimum Viable Product</h3>
+
+<ul>
+  <li>“It’s not necessarily minimal nor a product”</li>
+  <li>Smallest increment of work that will test a hypothesis</li>
+  <li>What forms can it take?
+    <ul>
+      <li>Concierge MVP</li>
+      <li>Pricing scheme</li>
+      <li>Problem description</li>
+      <li>Solution description</li>
+      <li>Paper mockup</li>
+      <li>Actual Prototype</li>
+    </ul>
+  </li>
+  <li>The key is that it is <em>MINIUM!</em></li>
+</ul>
+;T;@�I"(/cosi235a/topics/value_proposition/;T{;{	;I"<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>COSI 235a - The Value Proposition</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="value-proposition">Value Proposition</h3>
+
+<ul>
+  <li>Positioning and Value Proposition and Elevator Pitch</li>
+  <li>All different sides of the same coin, used differently</li>
+  <li>How to construct an elevator pitch</li>
+</ul>
+
+<h4 id="value-proposition-statement">Value Proposition Statement</h4>
+
+<p>“For tourists visiting a new destination, who want to supplement their experience with local knowledge, NewProd offers local and knowledgable audio guides automatically based on location”</p>
+
+<p>“For local professional and non-professional guides, Newprod is a way for them to discover new paying customers by providing location based audio tour segments which produce leads and also bolster reputation.”</p>
+
+<ul>
+  <li>The sentence specifically answers some key questions:
+    <ul>
+      <li>Who is it for?</li>
+      <li>What is their problem, what is the job their looking to hire a product for?</li>
+      <li>What is the proposed solution?</li>
+      <li>How does it achieve that?</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Notice that this is an ‘internal’ statement, never meant to be shown to customers or even investors.</p>
+
+<p>In this case we have two sentences because there are two distinctive markets. This raises very interesting pricing questions.</p>
+
+<h4 id="elevator-pitch">Elevator Pitch</h4>
+
+<p>An elevator pitch is meant to be spoken or read to a potential investor or board member.</p>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/welcome/">Welcome</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"�### Value Proposition
+
+*	Positioning and Value Proposition and Elevator Pitch
+*	All different sides of the same coin, used differently
+*	How to construct an elevator pitch
+
+#### Value Proposition Statement
+
+"For tourists visiting a new destination, who want to supplement their experience with local knowledge, NewProd offers local and knowledgable audio guides automatically based on location"
+
+"For local professional and non-professional guides, Newprod is a way for them to discover new paying customers by providing location based audio tour segments which produce leads and also bolster reputation."
+
+*	The sentence specifically answers some key questions:
+	*	Who is it for?
+	*	What is their problem, what is the job their looking to hire a product for?
+	*	What is the proposed solution?
+	*	How does it achieve that?
+
+Notice that this is an 'internal' statement, never meant to be shown to customers or even investors.
+
+In this case we have two sentences because there are two distinctive markets. This raises very interesting pricing questions.
+
+#### Elevator Pitch
+
+An elevator pitch is meant to be spoken or read to a potential investor or board member.;T;
+I"�<h3 id="value-proposition">Value Proposition</h3>
+
+<ul>
+  <li>Positioning and Value Proposition and Elevator Pitch</li>
+  <li>All different sides of the same coin, used differently</li>
+  <li>How to construct an elevator pitch</li>
+</ul>
+
+<h4 id="value-proposition-statement">Value Proposition Statement</h4>
+
+<p>“For tourists visiting a new destination, who want to supplement their experience with local knowledge, NewProd offers local and knowledgable audio guides automatically based on location”</p>
+
+<p>“For local professional and non-professional guides, Newprod is a way for them to discover new paying customers by providing location based audio tour segments which produce leads and also bolster reputation.”</p>
+
+<ul>
+  <li>The sentence specifically answers some key questions:
+    <ul>
+      <li>Who is it for?</li>
+      <li>What is their problem, what is the job their looking to hire a product for?</li>
+      <li>What is the proposed solution?</li>
+      <li>How does it achieve that?</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Notice that this is an ‘internal’ statement, never meant to be shown to customers or even investors.</p>
+
+<p>In this case we have two sentences because there are two distinctive markets. This raises very interesting pricing questions.</p>
+
+<h4 id="elevator-pitch">Elevator Pitch</h4>
+
+<p>An elevator pitch is meant to be spoken or read to a potential investor or board member.</p>
+;T;@�I" /cosi235a/lectures/welcome/;T{;{	;I"�<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>COSI 235a - Welcome - Day 1</title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h2 id="welcome">Welcome</h2>
+
+<h4 id="homework-due-for-today">Homework due for today</h4>
+
+<p><strong style="color: red">Note for first day of class:</strong> Each day of class has a page on this web site. The first section of that page is always the homework due on that very day. So in other words, the homework listed here is actually “pre-work” for day one. We will go over this in a little more detail during class.</p>
+
+<ol>
+  <li><strong>Piazza Blog Post</strong>: Read article by Paul Graham about <a href="http://paulgraham.com/startupideas.html">How to get startup ideas</a>. Write a blog post reflecting on the article, what you liked, or didn’t. (3 paragraphs max)</li>
+  <li><strong>Personal Statement</strong>: Why are you taking this class? Why are you getting a COSI degree? What do you see yourself doing after graduating? What excites you about this field? Do you think of yourself as an entrepreneur?</li>
+</ol>
+
+<p><em>Please give this a little thought. It will become important when I challenge you to come up with a product or service idea. It will also be important to me to understand how to lead the class. Submit this as a  post.</em></p>
+
+<h4 id="topics">Topics</h4>
+
+<ul>
+  <li>Introduce Pito, where I came from, and why I am excitied about this course</li>
+  <li>Go around and introduce yourself: name, year, why you are here. Point to next person. Photos.</li>
+  <li>Tour around this web page:
+    <ul>
+      <li>How the classroom works</li>
+      <li>Blogging and Piazza</li>
+      <li>Logistics</li>
+      <li>Homework How To</li>
+    </ul>
+  </li>
+  <li>Review how grading will work</li>
+</ul>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Navigate</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Dump of all pages</a>
+	</li>
+	
+	
+
+	<ul><ul><ul>
+	<li>
+		<a href="/cosi235a/course_intro/">Course Intro</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/grading/">Grading</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/high_level_overview/">Term Overview</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi235a/lectures/detailed_schedule/">Detailed Schedule</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/hypothesis_test/">Testing Hypotheses</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/topics/value_proposition/">The Value Proposition</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi235a/lectures/welcome/">Welcome - Day 1</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"E## Welcome
+
+
+#### Homework due for today
+
+**Note for first day of class:**{: style="color: red"} Each day of class has a page on this web site. The first section of that page is always the homework due on that very day. So in other words, the homework listed here is actually "pre-work" for day one. We will go over this in a little more detail during class.
+
+1. **Piazza Blog Post**: Read article by Paul Graham about [How to get startup ideas](http://paulgraham.com/startupideas.html). Write a blog post reflecting on the article, what you liked, or didn't. (3 paragraphs max)
+2. **Personal Statement**: Why are you taking this class? Why are you getting a COSI degree? What do you see yourself doing after graduating? What excites you about this field? Do you think of yourself as an entrepreneur?
+
+*Please give this a little thought. It will become important when I challenge you to come up with a product or service idea. It will also be important to me to understand how to lead the class. Submit this as a  post.*
+
+#### Topics
+
+* Introduce Pito, where I came from, and why I am excitied about this course
+* Go around and introduce yourself: name, year, why you are here. Point to next person. Photos.
+* Tour around this web page:
+	* How the classroom works
+	* Blogging and Piazza
+	* Logistics
+	* Homework How To
+* Review how grading will work;T;
+I"b<h2 id="welcome">Welcome</h2>
+
+<h4 id="homework-due-for-today">Homework due for today</h4>
+
+<p><strong style="color: red">Note for first day of class:</strong> Each day of class has a page on this web site. The first section of that page is always the homework due on that very day. So in other words, the homework listed here is actually “pre-work” for day one. We will go over this in a little more detail during class.</p>
+
+<ol>
+  <li><strong>Piazza Blog Post</strong>: Read article by Paul Graham about <a href="http://paulgraham.com/startupideas.html">How to get startup ideas</a>. Write a blog post reflecting on the article, what you liked, or didn’t. (3 paragraphs max)</li>
+  <li><strong>Personal Statement</strong>: Why are you taking this class? Why are you getting a COSI degree? What do you see yourself doing after graduating? What excites you about this field? Do you think of yourself as an entrepreneur?</li>
+</ol>
+
+<p><em>Please give this a little thought. It will become important when I challenge you to come up with a product or service idea. It will also be important to me to understand how to lead the class. Submit this as a  post.</em></p>
+
+<h4 id="topics">Topics</h4>
+
+<ul>
+  <li>Introduce Pito, where I came from, and why I am excitied about this course</li>
+  <li>Go around and introduce yourself: name, year, why you are here. Point to next person. Photos.</li>
+  <li>Tour around this web page:
+    <ul>
+      <li>How the classroom works</li>
+      <li>Blogging and Piazza</li>
+      <li>Logistics</li>
+      <li>Homework How To</li>
+    </ul>
+  </li>
+  <li>Review how grading will work</li>
+</ul>
+;T;@�:versioni
