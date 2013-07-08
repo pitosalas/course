@@ -9,6 +9,8 @@ class Toc
 	def build_toc items
 		@toc = items.map{ |i| ItemInfo.new(i, 0) }
 		@toc = @toc.delete_if { |info| info.item.attributes[:extension] ==  "css" }
+		@toc = @toc.delete_if { |info| info.item.attributes[:status] ==  "hidden" }
+
 		@toc.each { |info| info.depth = info.item.identifier.split("/").count}
 		@toc.sort! do |a,b|
 			res = a.depth <=> b.depth

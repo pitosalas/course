@@ -1,5 +1,6 @@
 ---
 title: Testing Hypotheses
+section: topics
 ---
 
 ## Hypothesis Testing

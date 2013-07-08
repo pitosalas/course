@@ -1,7 +1,7 @@
 ---
-title: Welcome - Day 1
+title: Welcome
 lecture: 1
-slug: welcome_lecture
+section: lectures
 ---
 
 ## Welcome
@@ -16,15 +16,18 @@ slug: welcome_lecture
 
 *Please give this a little thought. It will become important when I challenge you to come up with a product or service idea. It will also be important to me to understand how to lead the class. Submit this as a  post.*
 
-#### Topics
+#### Topics for today
 
 * Introduce Pito, where I came from, and why I am excitied about this course
-* Go around and introduce yourself: name, year, why you are here. Point to next person. Photos.
+* Go around and introduce yourself name, year, why you are here Point to next person
+* Mugshots are collected!
 * Tour around this web page:
+
 	* How the classroom works
 	* Blogging and Piazza
 	* Logistics
 	* Homework How To
+	
 * Review how grading will work
 
 

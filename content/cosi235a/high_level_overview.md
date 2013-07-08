@@ -1,9 +1,11 @@
 ---
 title: Term Overview
+section: intro
 ---
+
 ### High Level Overview
 
-The term is organized as follows:
+The semester is organized as follows:
 
 * Week 1: _Welcome_: warmups, introductions, etc. During this week (really just one class) we introduce the process we will go through and also go over the _Approval Checklist_ that each product that we pursue, starting in _Frame 1_ will have prepared and gotten ok'd.
 * Week 2,3,4,5: _Pilot Frame_. During these four weeks we will use a product contept that I supply (I hope you like it) to practice the key techniques of Lean Startup. In parallel and at the same time you will be introduced to these key concepts and have a chance to put them into practice.

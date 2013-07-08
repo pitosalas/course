@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>COSI 235a - <%= @item[:title] %></title>
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/css/stylesheet.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc <%= Nanoc::VERSION %>"> 
@@ -11,8 +11,6 @@
   <body>
     <div id="main">
       <%= yield %>
-    <p>Tags: <%= tags_for(@item) %></p>
-
     </div>
     <div id="sidebar">
       <%= generate_sidebar %>

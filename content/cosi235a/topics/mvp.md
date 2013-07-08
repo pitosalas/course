@@ -1,5 +1,6 @@
 ---
 title: Minimum Viable Product
+section: topics
 ---
 ### The MVP/Minimum Viable Product
 

@@ -1,5 +1,6 @@
 ---
 title: Hypotheses
+section: topics
 ---
 
 ### The LS notion of hypotheses

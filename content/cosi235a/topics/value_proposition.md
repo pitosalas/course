@@ -1,5 +1,6 @@
 ---
 title: The Value Proposition
+section: topics
 ---
 
 ### Value Proposition
