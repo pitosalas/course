@@ -4,7 +4,7 @@ title: Dump of all pages
 <ul>
 	<% items.each do |item| %>
 	<li>
-	<%= link_to(item.attributes[:title], item.identifier) %>
+	<%= link_to(item.attributes[:title], item) %>
 		<ul>
 			<li><%= item.identifier %></li>
 			<li><%= item.attributes %></li>
@@ -15,3 +15,5 @@ title: Dump of all pages
 	</li>
 	<% end %>
 </ul>
+
+

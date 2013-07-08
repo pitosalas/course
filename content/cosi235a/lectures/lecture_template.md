@@ -1,6 +1,6 @@
 ---
 title: title
-lecture: xx
+lecture: 1234
 section: lectures
 status: hidden
 ---

@@ -35,9 +35,14 @@ route '/css/stylesheet' do
   '/css/stylesheet.css'
 end
 
-route '/*/topics/*' do
-   nil
+route '/bootstrap/*' do
+  @item.identifier.chop + '.' + @item[:extension]
 end
+
+
+#route '/*/topics/*' do
+#   nil
+# end
 
 route '*' do
   if item.binary?

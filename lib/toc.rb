@@ -8,8 +8,9 @@ class Toc
 
 	def build_toc items
 		@toc = items.map{ |i| ItemInfo.new(i, 0) }
-		@toc = @toc.delete_if { |info| info.item.attributes[:extension] ==  "css" }
-		@toc = @toc.delete_if { |info| info.item.attributes[:status] ==  "hidden" }
+		@toc.delete_if { |info| %w(css min.css js min.js png).include? info.item.attributes[:extension] }
+		@toc.delete_if { |info| info.item.attributes[:status] ==  "hidden" }
+		@toc.delete_if { |info| info.item.attributes[:section] == "topics" }
 
 		@toc.each { |info| info.depth = info.item.identifier.split("/").count}
 		@toc.sort! do |a,b|
