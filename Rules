@@ -17,20 +17,27 @@ compile '/css/stylesheet/' do
   # don’t filter or layout
 end
 
+
 compile '*' do
-  case item[:extension]
-  when 'md'
-    filter :kramdown
-  when 'erb'
-    filter :erb
+  item[:extension].split('.').reverse.each do 
+    |f|
+    case f
+    when 'md', 'markdown'
+      filter :kramdown
+    when 'erb'
+      filter :erb
+    end
   end
   layout 'course'
 end
 
-route '/css/stylesheet/' do
-  '/style.css'
+route '/css/stylesheet' do
+  '/css/stylesheet.css'
 end
 
+route '/*/topics/*' do
+   nil
+end
 
 route '*' do
   if item.binary?
@@ -41,6 +48,7 @@ route '*' do
     item.identifier + 'index.html'
   end
 end
+
 
 layout '*', :erb
 

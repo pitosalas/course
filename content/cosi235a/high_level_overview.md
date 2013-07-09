@@ -1,0 +1,15 @@
+---
+title: Term Overview
+section: intro
+---
+
+### High Level Overview
+
+The semester is organized as follows:
+
+* Week 1: _Welcome_: warmups, introductions, etc. During this week (really just one class) we introduce the process we will go through and also go over the _Approval Checklist_ that each product that we pursue, starting in _Frame 1_ will have prepared and gotten ok'd.
+* Week 2,3,4,5: _Pilot Frame_. During these four weeks we will use a product contept that I supply (I hope you like it) to practice the key techniques of Lean Startup. In parallel and at the same time you will be introduced to these key concepts and have a chance to put them into practice.
+* Week 6: _Ideation and Kickoff_: All along you will have been thinking and exploring what product or service you would like to propose. During this week we will see what everyone came up with, pick the best ones, and choose teams of 2 or 3 students to pursue the products. The work on these products will be the backbone of the rest of the semester culminating in a _Product Showcase_
+* Week 7,8,9: _Frame 1_ During this frame the teams get themselves organized. Identify your key hypotheses and determine how to go about testing them. Prepare the artifacts needed to test the hypotheses and begin the process of "going out of the building."
+* Week 10,11,12: _Frame 2_ During this frame the teams begin in earnest to determine how and whether to design and architect the product. You will be doing paper prototyping or using online prototyping tools, using these to test our _hypotheses_ by _going outside the building_. We also now consider our Engine of Growth and develop the financial model to test and validate.
+* Week 13,14,15: _Frame 3_ During this final frame we pull everything together. Student teams refine their product business plans and prepare the final deliverables in preparation for the _Product Showcase_.

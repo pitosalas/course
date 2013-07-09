@@ -8,11 +8,18 @@ class Toc
 
 	def build_toc items
 		@toc = items.map{ |i| ItemInfo.new(i, 0) }
-		@toc.delete_if { |info| info.item.attributes[:extension] ==  "css" }
+		@toc = @toc.delete_if { |info| info.item.attributes[:extension] ==  "css" }
+		@toc = @toc.delete_if { |info| info.item.attributes[:status] ==  "hidden" }
+
 		@toc.each { |info| info.depth = info.item.identifier.split("/").count}
-		@toc.sort! do |a,b| 
+		@toc.sort! do |a,b|
 			res = a.depth <=> b.depth
-			res == 0 ? a.item.attributes[:title] <=> b.item.attributes[:title] : res
+			# Catch badly formatted content.
+			if a.item.nil? || b.item.nil? || a.item.attributes[:title].class != String || b.item.attributes[:title].class != String
+				binding.pry
+			else
+				res == 0 ? a.item.attributes[:title] <=> b.item.attributes[:title] : res
+			end
 		end
 
 		depth = -1

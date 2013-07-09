@@ -2,8 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+<<<<<<< HEAD
     <title>IT Entrepreneurship - <%= @item[:title] %></title>
     <link rel="stylesheet" type="text/css" href="/style.css">
+=======
+    <title>COSI 235a - <%= @item[:title] %></title>
+    <link rel="stylesheet" href="/css/stylesheet.css">
+>>>>>>> f5fb5eb80e95185c614e26a80780e22db0c0f767
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc <%= Nanoc::VERSION %>"> 
@@ -11,8 +16,6 @@
   <body>
     <div id="main">
       <%= yield %>
-    <p>Tags: <%= tags_for(@item) %></p>
-
     </div>
     <div id="sidebar">
       <%= generate_sidebar %>

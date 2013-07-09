@@ -32,33 +32,57 @@ a:hover {
 }
 
 #main h1 {
-  font-size: 40px;
+  font-size: 35px;
   font-weight: normal;
 
-  line-height: 40px;
-
+  line-height: 35px;
   letter-spacing: -1px;
 }
 
+#main h2 {
+  font-size: 22px;
+  margin-top: 15px;
+  margin-right: 0;
+
+}
+
+#main h3 {
+  font-size: 18px;
+  margin-top: 15px;
+  margin-right: 0;
+}
+
+#main h4 {
+  font-size: 16px;
+  margin-top: 10px;
+  margin-right: 0;
+  font-style: italic;
+}
+
 #main p {
-  margin: 20px 0;
+  margin-top: 20px;
+  margin-right: 0;
+  margin-left: 30px;
+  font-size: 14px;
+  line-height: 18px;
+}
 
-  font-size: 15px;
-
-  line-height: 20px;
+#main blockquote {
+  margin-left: 20px;
 }
 
 #main ul, #main ol {
-  margin: 20px;
+  margin-left: 40px;
+  margin-top: 5px;
 }
 
 #main li {
-  font-size: 15px;
-
+  font-size: 14px;
+  margin-top: 7px;
   line-height: 20px;
 }
 
-#main ul li {
+#main ul > li {
   list-style-type: square;
 }
 
@@ -67,7 +91,7 @@ a:hover {
 
   top: 40px;
   left: 20px;
-  width: 200px;
+  width: 180px;
 
   padding: 20px 20px 0 0;
 
@@ -92,6 +116,7 @@ a:hover {
   list-style-type: none;
 
   margin: 20px 0;
+  font-size: 14;
 }
 
 #sidebar li {
