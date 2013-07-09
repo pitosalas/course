@@ -37,5 +37,13 @@ class Toc
       block.call(member)
     end
   end
+
+  def each_by(type, &block)
+  	sub_toc = @toc.reject { |info| info.item.attributes[:section] != type.to_s}
+ 	sub_toc = sub_toc.sort { |a,b| a.item.attributes[:order] <=> b.item.attributes[:order]}
+ 	sub_toc.each do |member|
+ 		block.call(member)
+ 	end
+  end
 end
 

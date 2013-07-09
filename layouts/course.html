@@ -1,19 +1,36 @@
 <!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title><%= @item[:title] %> (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - <%= @item[:title] %></title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc <%= Nanoc::VERSION %>"> 
   </head>
   <body>
-    <div id="main">
-      <%= yield %>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
     </div>
-    <div id="sidebar">
-      <%= generate_sidebar %>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <%= yield %>
+        </div>
+        <div class="offset1 span3">
+          <% toc = Toc.new items %>
+          <%= render "intro_sidebar", toc: toc %>
+          <%= render "lectures_sidebar", toc: toc %>
+          <%= render "background_sidebar", toc: toc %>
+        </div>
+      </div>
     </div>
   </body>
 </html>

@@ -1,5 +1,7 @@
 ---
 title: Homework info
+section: background
+order: 2
 ---
 ## Homework
 

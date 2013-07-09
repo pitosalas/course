@@ -1,11 +1,10 @@
 ---
-title: title
+title: Growth Engine
 section: lectures
-status: hidden
-order: 999
+order: 7
 ---
 
-## title
+## titleDDD
 
 #### Homework due for today
 

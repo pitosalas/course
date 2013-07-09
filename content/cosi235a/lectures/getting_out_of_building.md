@@ -1,10 +1,10 @@
 ---
-title: title
-lecture: 3
+title: Getting Out of the Building
+order: 4
 section: lectures
 ---
 
-## title
+## Getting out of the building
 
 #### Homework due for today
 

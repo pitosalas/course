@@ -12,13 +12,13 @@ section: topics
 	* Agile Software Development (next term :)
 		* Also based on the same principles
 		* And with the same objectives
-	* Lean Startup
-		* Yes, just another buzzword
-		* Some might say "there's nothing new under the sun"
-	* Some keys
-		* Build (MVP)
-		* Measure (Innovation accounting)
-		* Learn (Pivoting)
+* *Lean Startup*
+	* Yes, just another buzzword
+	* Some might say "there's nothing new under the sun"
+* *Some ideas that we'll explore more in the next few weeks*
+	* Hypotheses and assumptions
+	* Minimum Viable Product
+	* Customer Development
+	* Lean Startup Validation Board
 
----
 

@@ -1,11 +1,10 @@
 ---
-title: title
+title: Product/Market Fit
 section: lectures
-status: hidden
-order: 999
+order: 8
 ---
 
-## title
+## Product Market Fit
 
 #### Homework due for today
 

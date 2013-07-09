@@ -1,0 +1,8 @@
+<h5>Intro</h5>
+<ul>
+	<% toc.each_by(:intro) do |iteminfo| %>
+		<li>
+			<%= toc_link_to iteminfo.item %>
+		</li>
+	<% end %>
+</ul>

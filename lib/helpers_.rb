@@ -1,5 +1,4 @@
 include LoggingHelpers
-include SideBarHelpers
 include ContentHelpers
 include Nanoc::Helpers::Rendering
 include Nanoc::Helpers::LinkTo

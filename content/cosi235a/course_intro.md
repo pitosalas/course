@@ -1,6 +1,7 @@
 ---
 title: Course Intro
 section: intro
+order: 1
 ---
 ### Welcome to COSI 235A - IT Entrepreneurship
 

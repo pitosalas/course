@@ -1,16 +1,28 @@
-{:	data{;I"/:ET{:default{	:	lastI"Õ3<!DOCTYPE HTML>
+{:	data{?I"/:ET{:default{	:	lastI"è@<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Dump of all pages (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Dump of all pages</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <ul>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <ul>
 	
 	<li>
 	<a href="/cosi235a/background/background_template/">title</a>
@@ -27,7 +39,7 @@
 	<a href="/cosi235a/background/grading/">Grading</a>
 		<ul>
 			<li>/cosi235a/background/grading/</li>
-			<li>{:filename=>"content/cosi235a/background/grading.md", :content_filename=>"content/cosi235a/background/grading.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/grading.md>, :title=>"Grading", :mtime=>2013-07-03 18:07:45 -0400}</li>
+			<li>{:filename=>"content/cosi235a/background/grading.md", :content_filename=>"content/cosi235a/background/grading.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/grading.md>, :title=>"Grading", :section=>"background", :order=>1, :mtime=>2013-07-08 17:57:38 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -38,7 +50,7 @@
 	<a href="/cosi235a/background/homework/">Homework info</a>
 		<ul>
 			<li>/cosi235a/background/homework/</li>
-			<li>{:filename=>"content/cosi235a/background/homework.md", :content_filename=>"content/cosi235a/background/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/homework.md>, :title=>"Homework info", :mtime=>2013-07-02 19:53:47 -0400}</li>
+			<li>{:filename=>"content/cosi235a/background/homework.md", :content_filename=>"content/cosi235a/background/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/homework.md>, :title=>"Homework info", :section=>"background", :order=>2, :mtime=>2013-07-08 17:12:29 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -49,7 +61,7 @@
 	<a href="/cosi235a/background/lexicon/">Lexicon</a>
 		<ul>
 			<li>/cosi235a/background/lexicon/</li>
-			<li>{:filename=>"content/cosi235a/background/lexicon.md", :content_filename=>"content/cosi235a/background/lexicon.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/lexicon.md>, :title=>"Lexicon", :section=>"background", :mtime=>2013-07-07 20:57:03 -0400}</li>
+			<li>{:filename=>"content/cosi235a/background/lexicon.md", :content_filename=>"content/cosi235a/background/lexicon.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/lexicon.md>, :title=>"Lexicon", :section=>"background", :order=>3, :mtime=>2013-07-08 17:39:17 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -60,7 +72,7 @@
 	<a href="/cosi235a/background/obligations/">Student Obligations</a>
 		<ul>
 			<li>/cosi235a/background/obligations/</li>
-			<li>{:filename=>"content/cosi235a/background/obligations.md", :content_filename=>"content/cosi235a/background/obligations.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/obligations.md>, :title=>"Student Obligations", :section=>"background", :mtime=>2013-07-05 09:48:53 -0400}</li>
+			<li>{:filename=>"content/cosi235a/background/obligations.md", :content_filename=>"content/cosi235a/background/obligations.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/obligations.md>, :title=>"Student Obligations", :section=>"background", :order=>4, :mtime=>2013-07-08 20:07:01 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -71,7 +83,7 @@
 	<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
 		<ul>
 			<li>/cosi235a/background/pilot_project_vision/</li>
-			<li>{:filename=>"content/cosi235a/background/pilot_project_vision.md", :content_filename=>"content/cosi235a/background/pilot_project_vision.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/pilot_project_vision.md>, :title=>"Pilot Project Vision", :section=>"background", :status=>"hidden", :mtime=>2013-07-07 21:09:14 -0400}</li>
+			<li>{:filename=>"content/cosi235a/background/pilot_project_vision.md", :content_filename=>"content/cosi235a/background/pilot_project_vision.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/pilot_project_vision.md>, :title=>"Pilot Project Vision", :section=>"background", :order=>1, :mtime=>2013-07-08 17:12:48 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -82,7 +94,7 @@
 	<a href="/cosi235a/course_intro/">Course Intro</a>
 		<ul>
 			<li>/cosi235a/course_intro/</li>
-			<li>{:filename=>"content/cosi235a/course_intro.md", :content_filename=>"content/cosi235a/course_intro.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/course_intro.md>, :title=>"Course Intro", :section=>"intro", :mtime=>2013-07-05 10:59:16 -0400}</li>
+			<li>{:filename=>"content/cosi235a/course_intro.md", :content_filename=>"content/cosi235a/course_intro.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/course_intro.md>, :title=>"Course Intro", :section=>"intro", :order=>1, :mtime=>2013-07-08 16:25:26 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -93,7 +105,7 @@
 	<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
 		<ul>
 			<li>/cosi235a/detailed_schedule/</li>
-			<li>{:filename=>"content/cosi235a/detailed_schedule.md.erb", :content_filename=>"content/cosi235a/detailed_schedule.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/detailed_schedule.md.erb>, :title=>"Detailed Schedule", :section=>"intro", :mtime=>2013-07-07 20:04:03 -0400}</li>
+			<li>{:filename=>"content/cosi235a/detailed_schedule.md.erb", :content_filename=>"content/cosi235a/detailed_schedule.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/detailed_schedule.md.erb>, :title=>"Detailed Schedule", :section=>"intro", :order=>3, :mtime=>2013-07-08 17:47:25 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -104,7 +116,7 @@
 	<a href="/cosi235a/high_level_overview/">Term Overview</a>
 		<ul>
 			<li>/cosi235a/high_level_overview/</li>
-			<li>{:filename=>"content/cosi235a/high_level_overview.md", :content_filename=>"content/cosi235a/high_level_overview.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/high_level_overview.md>, :title=>"Term Overview", :section=>"intro", :mtime=>2013-07-05 10:59:24 -0400}</li>
+			<li>{:filename=>"content/cosi235a/high_level_overview.md", :content_filename=>"content/cosi235a/high_level_overview.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/high_level_overview.md>, :title=>"Term Overview", :section=>"intro", :order=>2, :mtime=>2013-07-08 16:25:40 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -112,10 +124,21 @@
 	</li>
 	
 	<li>
-	<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
+	<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
 		<ul>
 			<li>/cosi235a/lectures/getting_out_of_building/</li>
-			<li>{:filename=>"content/cosi235a/lectures/getting_out_of_building.md", :content_filename=>"content/cosi235a/lectures/getting_out_of_building.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/getting_out_of_building.md>, :title=>"title", :lecture=>3, :section=>"lectures", :mtime=>2013-07-07 20:04:47 -0400}</li>
+			<li>{:filename=>"content/cosi235a/lectures/getting_out_of_building.md", :content_filename=>"content/cosi235a/lectures/getting_out_of_building.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/getting_out_of_building.md>, :title=>"Getting Out of the Building", :order=>4, :section=>"lectures", :mtime=>2013-07-08 17:43:36 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		<ul>
+			<li>/cosi235a/lectures/growth_engine/</li>
+			<li>{:filename=>"content/cosi235a/lectures/growth_engine.md", :content_filename=>"content/cosi235a/lectures/growth_engine.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/growth_engine.md>, :title=>"Growth Engine", :section=>"lectures", :order=>7, :mtime=>2013-07-08 17:43:33 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -126,7 +149,7 @@
 	<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
 		<ul>
 			<li>/cosi235a/lectures/hypotheses/</li>
-			<li>{:filename=>"content/cosi235a/lectures/hypotheses.md", :content_filename=>"content/cosi235a/lectures/hypotheses.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/hypotheses.md>, :title=>"Hypotheses, Leap of faith and others", :section=>"lectures", :mtime=>2013-07-05 11:11:19 -0400}</li>
+			<li>{:filename=>"content/cosi235a/lectures/hypotheses.md.erb", :content_filename=>"content/cosi235a/lectures/hypotheses.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/lectures/hypotheses.md.erb>, :title=>"Hypotheses, Leap of faith and others", :section=>"lectures", :order=>3, :mtime=>2013-07-08 20:05:04 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -137,7 +160,7 @@
 	<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
 		<ul>
 			<li>/cosi235a/lectures/lean_startup/</li>
-			<li>{:filename=>"content/cosi235a/lectures/lean_startup.md.erb", :content_filename=>"content/cosi235a/lectures/lean_startup.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/lectures/lean_startup.md.erb>, :title=>"Introduction to Lean Startup", :section=>"lectures", :lecture=>2, :mtime=>2013-07-08 10:57:11 -0400}</li>
+			<li>{:filename=>"content/cosi235a/lectures/lean_startup.md.erb", :content_filename=>"content/cosi235a/lectures/lean_startup.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/lectures/lean_startup.md.erb>, :title=>"Introduction to Lean Startup", :section=>"lectures", :order=>2, :mtime=>2013-07-08 18:11:53 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -148,7 +171,40 @@
 	<a href="/cosi235a/lectures/lecture_template/">title</a>
 		<ul>
 			<li>/cosi235a/lectures/lecture_template/</li>
-			<li>{:filename=>"content/cosi235a/lectures/lecture_template.md", :content_filename=>"content/cosi235a/lectures/lecture_template.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/lecture_template.md>, :title=>"title", :lecture=>1234, :section=>"lectures", :status=>"hidden", :mtime=>2013-07-08 14:48:39 -0400}</li>
+			<li>{:filename=>"content/cosi235a/lectures/lecture_template.md", :content_filename=>"content/cosi235a/lectures/lecture_template.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/lecture_template.md>, :title=>"title", :section=>"lectures", :status=>"hidden", :order=>999, :mtime=>2013-07-08 18:14:56 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/lectures/mvp/">MVP</a>
+		<ul>
+			<li>/cosi235a/lectures/mvp/</li>
+			<li>{:filename=>"content/cosi235a/lectures/mvp.md.erb", :content_filename=>"content/cosi235a/lectures/mvp.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/lectures/mvp.md.erb>, :title=>"MVP", :section=>"lectures", :order=>5, :mtime=>2013-07-08 18:19:18 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		<ul>
+			<li>/cosi235a/lectures/pivot/</li>
+			<li>{:filename=>"content/cosi235a/lectures/pivot.md", :content_filename=>"content/cosi235a/lectures/pivot.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/pivot.md>, :title=>"The Pivot", :section=>"lectures", :order=>6, :mtime=>2013-07-08 17:43:00 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		<ul>
+			<li>/cosi235a/lectures/prod_mkt_fit/</li>
+			<li>{:filename=>"content/cosi235a/lectures/prod_mkt_fit.md", :content_filename=>"content/cosi235a/lectures/prod_mkt_fit.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/prod_mkt_fit.md>, :title=>"Product/Market Fit", :section=>"lectures", :order=>8, :mtime=>2013-07-08 17:47:46 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -159,7 +215,7 @@
 	<a href="/cosi235a/lectures/welcome/">Welcome</a>
 		<ul>
 			<li>/cosi235a/lectures/welcome/</li>
-			<li>{:filename=>"content/cosi235a/lectures/welcome.md", :content_filename=>"content/cosi235a/lectures/welcome.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/welcome.md>, :title=>"Welcome", :lecture=>1, :section=>"lectures", :mtime=>2013-07-08 14:42:19 -0400}</li>
+			<li>{:filename=>"content/cosi235a/lectures/welcome.md.erb", :content_filename=>"content/cosi235a/lectures/welcome.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/lectures/welcome.md.erb>, :title=>"Welcome", :order=>1, :section=>"lectures", :mtime=>2013-07-08 20:42:12 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -181,7 +237,7 @@
 	<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
 		<ul>
 			<li>/cosi235a/topics/hypotheses/</li>
-			<li>{:filename=>"content/cosi235a/topics/hypotheses.md", :content_filename=>"content/cosi235a/topics/hypotheses.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/hypotheses.md>, :title=>"Hypotheses", :section=>"topics", :mtime=>2013-07-05 10:58:37 -0400}</li>
+			<li>{:filename=>"content/cosi235a/topics/hypotheses.md", :content_filename=>"content/cosi235a/topics/hypotheses.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/hypotheses.md>, :title=>"Hypotheses", :section=>"topics", :mtime=>2013-07-08 20:07:05 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -214,7 +270,18 @@
 	<a href="/cosi235a/topics/lean_startup/">Lean Startup Overview</a>
 		<ul>
 			<li>/cosi235a/topics/lean_startup/</li>
-			<li>{:filename=>"content/cosi235a/topics/lean_startup.md", :content_filename=>"content/cosi235a/topics/lean_startup.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/lean_startup.md>, :title=>"Lean Startup Overview", :section=>"topics", :mtime=>2013-07-08 10:56:42 -0400}</li>
+			<li>{:filename=>"content/cosi235a/topics/lean_startup.md", :content_filename=>"content/cosi235a/topics/lean_startup.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/lean_startup.md>, :title=>"Lean Startup Overview", :section=>"topics", :mtime=>2013-07-08 18:11:10 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/topics/lsm_validation_board/">LSM Validation Board</a>
+		<ul>
+			<li>/cosi235a/topics/lsm_validation_board/</li>
+			<li>{:filename=>"content/cosi235a/topics/lsm_validation_board.md", :content_filename=>"content/cosi235a/topics/lsm_validation_board.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/lsm_validation_board.md>, :title=>"LSM Validation Board", :section=>"topics", :mtime=>2013-07-08 18:09:00 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -225,7 +292,7 @@
 	<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
 		<ul>
 			<li>/cosi235a/topics/mvp/</li>
-			<li>{:filename=>"content/cosi235a/topics/mvp.md", :content_filename=>"content/cosi235a/topics/mvp.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/mvp.md>, :title=>"Minimum Viable Product", :section=>"topics", :mtime=>2013-07-08 14:41:53 -0400}</li>
+			<li>{:filename=>"content/cosi235a/topics/mvp.md", :content_filename=>"content/cosi235a/topics/mvp.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/mvp.md>, :title=>"Minimum Viable Product", :section=>"topics", :mtime=>2013-07-08 20:05:00 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -248,17 +315,6 @@
 		<ul>
 			<li>/cosi235a/topics/value_proposition/</li>
 			<li>{:filename=>"content/cosi235a/topics/value_proposition.md", :content_filename=>"content/cosi235a/topics/value_proposition.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/value_proposition.md>, :title=>"The Value Proposition", :section=>"topics", :mtime=>2013-07-05 10:59:10 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/css/stylesheet.css"></a>
-		<ul>
-			<li>/css/stylesheet/</li>
-			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-07-07 21:08:21 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -277,98 +333,90 @@
 	</li>
 	
 </ul>
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
@@ -385,7 +433,7 @@
 
 	</li>
 	<% end %>
-</ul>;T:preI"+.<ul>
+</ul>;T:preI"@7<ul>
 	
 	<li>
 	<a href="/cosi235a/background/background_template/">title</a>
@@ -402,7 +450,7 @@
 	<a href="/cosi235a/background/grading/">Grading</a>
 		<ul>
 			<li>/cosi235a/background/grading/</li>
-			<li>{:filename=>"content/cosi235a/background/grading.md", :content_filename=>"content/cosi235a/background/grading.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/grading.md>, :title=>"Grading", :mtime=>2013-07-03 18:07:45 -0400}</li>
+			<li>{:filename=>"content/cosi235a/background/grading.md", :content_filename=>"content/cosi235a/background/grading.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/grading.md>, :title=>"Grading", :section=>"background", :order=>1, :mtime=>2013-07-08 17:57:38 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -413,7 +461,7 @@
 	<a href="/cosi235a/background/homework/">Homework info</a>
 		<ul>
 			<li>/cosi235a/background/homework/</li>
-			<li>{:filename=>"content/cosi235a/background/homework.md", :content_filename=>"content/cosi235a/background/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/homework.md>, :title=>"Homework info", :mtime=>2013-07-02 19:53:47 -0400}</li>
+			<li>{:filename=>"content/cosi235a/background/homework.md", :content_filename=>"content/cosi235a/background/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/homework.md>, :title=>"Homework info", :section=>"background", :order=>2, :mtime=>2013-07-08 17:12:29 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -424,7 +472,7 @@
 	<a href="/cosi235a/background/lexicon/">Lexicon</a>
 		<ul>
 			<li>/cosi235a/background/lexicon/</li>
-			<li>{:filename=>"content/cosi235a/background/lexicon.md", :content_filename=>"content/cosi235a/background/lexicon.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/lexicon.md>, :title=>"Lexicon", :section=>"background", :mtime=>2013-07-07 20:57:03 -0400}</li>
+			<li>{:filename=>"content/cosi235a/background/lexicon.md", :content_filename=>"content/cosi235a/background/lexicon.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/lexicon.md>, :title=>"Lexicon", :section=>"background", :order=>3, :mtime=>2013-07-08 17:39:17 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -435,7 +483,7 @@
 	<a href="/cosi235a/background/obligations/">Student Obligations</a>
 		<ul>
 			<li>/cosi235a/background/obligations/</li>
-			<li>{:filename=>"content/cosi235a/background/obligations.md", :content_filename=>"content/cosi235a/background/obligations.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/obligations.md>, :title=>"Student Obligations", :section=>"background", :mtime=>2013-07-05 09:48:53 -0400}</li>
+			<li>{:filename=>"content/cosi235a/background/obligations.md", :content_filename=>"content/cosi235a/background/obligations.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/obligations.md>, :title=>"Student Obligations", :section=>"background", :order=>4, :mtime=>2013-07-08 20:07:01 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -446,7 +494,7 @@
 	<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
 		<ul>
 			<li>/cosi235a/background/pilot_project_vision/</li>
-			<li>{:filename=>"content/cosi235a/background/pilot_project_vision.md", :content_filename=>"content/cosi235a/background/pilot_project_vision.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/pilot_project_vision.md>, :title=>"Pilot Project Vision", :section=>"background", :status=>"hidden", :mtime=>2013-07-07 21:09:14 -0400}</li>
+			<li>{:filename=>"content/cosi235a/background/pilot_project_vision.md", :content_filename=>"content/cosi235a/background/pilot_project_vision.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/background/pilot_project_vision.md>, :title=>"Pilot Project Vision", :section=>"background", :order=>1, :mtime=>2013-07-08 17:12:48 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -457,7 +505,7 @@
 	<a href="/cosi235a/course_intro/">Course Intro</a>
 		<ul>
 			<li>/cosi235a/course_intro/</li>
-			<li>{:filename=>"content/cosi235a/course_intro.md", :content_filename=>"content/cosi235a/course_intro.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/course_intro.md>, :title=>"Course Intro", :section=>"intro", :mtime=>2013-07-05 10:59:16 -0400}</li>
+			<li>{:filename=>"content/cosi235a/course_intro.md", :content_filename=>"content/cosi235a/course_intro.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/course_intro.md>, :title=>"Course Intro", :section=>"intro", :order=>1, :mtime=>2013-07-08 16:25:26 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -468,7 +516,7 @@
 	<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
 		<ul>
 			<li>/cosi235a/detailed_schedule/</li>
-			<li>{:filename=>"content/cosi235a/detailed_schedule.md.erb", :content_filename=>"content/cosi235a/detailed_schedule.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/detailed_schedule.md.erb>, :title=>"Detailed Schedule", :section=>"intro", :mtime=>2013-07-07 20:04:03 -0400}</li>
+			<li>{:filename=>"content/cosi235a/detailed_schedule.md.erb", :content_filename=>"content/cosi235a/detailed_schedule.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/detailed_schedule.md.erb>, :title=>"Detailed Schedule", :section=>"intro", :order=>3, :mtime=>2013-07-08 17:47:25 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -479,7 +527,7 @@
 	<a href="/cosi235a/high_level_overview/">Term Overview</a>
 		<ul>
 			<li>/cosi235a/high_level_overview/</li>
-			<li>{:filename=>"content/cosi235a/high_level_overview.md", :content_filename=>"content/cosi235a/high_level_overview.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/high_level_overview.md>, :title=>"Term Overview", :section=>"intro", :mtime=>2013-07-05 10:59:24 -0400}</li>
+			<li>{:filename=>"content/cosi235a/high_level_overview.md", :content_filename=>"content/cosi235a/high_level_overview.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/high_level_overview.md>, :title=>"Term Overview", :section=>"intro", :order=>2, :mtime=>2013-07-08 16:25:40 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -487,10 +535,21 @@
 	</li>
 	
 	<li>
-	<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
+	<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
 		<ul>
 			<li>/cosi235a/lectures/getting_out_of_building/</li>
-			<li>{:filename=>"content/cosi235a/lectures/getting_out_of_building.md", :content_filename=>"content/cosi235a/lectures/getting_out_of_building.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/getting_out_of_building.md>, :title=>"title", :lecture=>3, :section=>"lectures", :mtime=>2013-07-07 20:04:47 -0400}</li>
+			<li>{:filename=>"content/cosi235a/lectures/getting_out_of_building.md", :content_filename=>"content/cosi235a/lectures/getting_out_of_building.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/getting_out_of_building.md>, :title=>"Getting Out of the Building", :order=>4, :section=>"lectures", :mtime=>2013-07-08 17:43:36 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		<ul>
+			<li>/cosi235a/lectures/growth_engine/</li>
+			<li>{:filename=>"content/cosi235a/lectures/growth_engine.md", :content_filename=>"content/cosi235a/lectures/growth_engine.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/growth_engine.md>, :title=>"Growth Engine", :section=>"lectures", :order=>7, :mtime=>2013-07-08 17:43:33 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -501,7 +560,7 @@
 	<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
 		<ul>
 			<li>/cosi235a/lectures/hypotheses/</li>
-			<li>{:filename=>"content/cosi235a/lectures/hypotheses.md", :content_filename=>"content/cosi235a/lectures/hypotheses.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/hypotheses.md>, :title=>"Hypotheses, Leap of faith and others", :section=>"lectures", :mtime=>2013-07-05 11:11:19 -0400}</li>
+			<li>{:filename=>"content/cosi235a/lectures/hypotheses.md.erb", :content_filename=>"content/cosi235a/lectures/hypotheses.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/lectures/hypotheses.md.erb>, :title=>"Hypotheses, Leap of faith and others", :section=>"lectures", :order=>3, :mtime=>2013-07-08 20:05:04 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -512,7 +571,7 @@
 	<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
 		<ul>
 			<li>/cosi235a/lectures/lean_startup/</li>
-			<li>{:filename=>"content/cosi235a/lectures/lean_startup.md.erb", :content_filename=>"content/cosi235a/lectures/lean_startup.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/lectures/lean_startup.md.erb>, :title=>"Introduction to Lean Startup", :section=>"lectures", :lecture=>2, :mtime=>2013-07-08 10:57:11 -0400}</li>
+			<li>{:filename=>"content/cosi235a/lectures/lean_startup.md.erb", :content_filename=>"content/cosi235a/lectures/lean_startup.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/lectures/lean_startup.md.erb>, :title=>"Introduction to Lean Startup", :section=>"lectures", :order=>2, :mtime=>2013-07-08 18:11:53 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -523,7 +582,40 @@
 	<a href="/cosi235a/lectures/lecture_template/">title</a>
 		<ul>
 			<li>/cosi235a/lectures/lecture_template/</li>
-			<li>{:filename=>"content/cosi235a/lectures/lecture_template.md", :content_filename=>"content/cosi235a/lectures/lecture_template.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/lecture_template.md>, :title=>"title", :lecture=>1234, :section=>"lectures", :status=>"hidden", :mtime=>2013-07-08 14:48:39 -0400}</li>
+			<li>{:filename=>"content/cosi235a/lectures/lecture_template.md", :content_filename=>"content/cosi235a/lectures/lecture_template.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/lecture_template.md>, :title=>"title", :section=>"lectures", :status=>"hidden", :order=>999, :mtime=>2013-07-08 18:14:56 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/lectures/mvp/">MVP</a>
+		<ul>
+			<li>/cosi235a/lectures/mvp/</li>
+			<li>{:filename=>"content/cosi235a/lectures/mvp.md.erb", :content_filename=>"content/cosi235a/lectures/mvp.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/lectures/mvp.md.erb>, :title=>"MVP", :section=>"lectures", :order=>5, :mtime=>2013-07-08 18:19:18 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		<ul>
+			<li>/cosi235a/lectures/pivot/</li>
+			<li>{:filename=>"content/cosi235a/lectures/pivot.md", :content_filename=>"content/cosi235a/lectures/pivot.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/pivot.md>, :title=>"The Pivot", :section=>"lectures", :order=>6, :mtime=>2013-07-08 17:43:00 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		<ul>
+			<li>/cosi235a/lectures/prod_mkt_fit/</li>
+			<li>{:filename=>"content/cosi235a/lectures/prod_mkt_fit.md", :content_filename=>"content/cosi235a/lectures/prod_mkt_fit.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/prod_mkt_fit.md>, :title=>"Product/Market Fit", :section=>"lectures", :order=>8, :mtime=>2013-07-08 17:47:46 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -534,7 +626,7 @@
 	<a href="/cosi235a/lectures/welcome/">Welcome</a>
 		<ul>
 			<li>/cosi235a/lectures/welcome/</li>
-			<li>{:filename=>"content/cosi235a/lectures/welcome.md", :content_filename=>"content/cosi235a/lectures/welcome.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/lectures/welcome.md>, :title=>"Welcome", :lecture=>1, :section=>"lectures", :mtime=>2013-07-08 14:42:19 -0400}</li>
+			<li>{:filename=>"content/cosi235a/lectures/welcome.md.erb", :content_filename=>"content/cosi235a/lectures/welcome.md.erb", :meta_filename=>nil, :extension=>"md.erb", :file=>#<File:content/cosi235a/lectures/welcome.md.erb>, :title=>"Welcome", :order=>1, :section=>"lectures", :mtime=>2013-07-08 20:42:12 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -556,7 +648,7 @@
 	<a href="/cosi235a/topics/hypotheses/">Hypotheses</a>
 		<ul>
 			<li>/cosi235a/topics/hypotheses/</li>
-			<li>{:filename=>"content/cosi235a/topics/hypotheses.md", :content_filename=>"content/cosi235a/topics/hypotheses.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/hypotheses.md>, :title=>"Hypotheses", :section=>"topics", :mtime=>2013-07-05 10:58:37 -0400}</li>
+			<li>{:filename=>"content/cosi235a/topics/hypotheses.md", :content_filename=>"content/cosi235a/topics/hypotheses.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/hypotheses.md>, :title=>"Hypotheses", :section=>"topics", :mtime=>2013-07-08 20:07:05 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -589,7 +681,18 @@
 	<a href="/cosi235a/topics/lean_startup/">Lean Startup Overview</a>
 		<ul>
 			<li>/cosi235a/topics/lean_startup/</li>
-			<li>{:filename=>"content/cosi235a/topics/lean_startup.md", :content_filename=>"content/cosi235a/topics/lean_startup.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/lean_startup.md>, :title=>"Lean Startup Overview", :section=>"topics", :mtime=>2013-07-08 10:56:42 -0400}</li>
+			<li>{:filename=>"content/cosi235a/topics/lean_startup.md", :content_filename=>"content/cosi235a/topics/lean_startup.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/lean_startup.md>, :title=>"Lean Startup Overview", :section=>"topics", :mtime=>2013-07-08 18:11:10 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi235a/topics/lsm_validation_board/">LSM Validation Board</a>
+		<ul>
+			<li>/cosi235a/topics/lsm_validation_board/</li>
+			<li>{:filename=>"content/cosi235a/topics/lsm_validation_board.md", :content_filename=>"content/cosi235a/topics/lsm_validation_board.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/lsm_validation_board.md>, :title=>"LSM Validation Board", :section=>"topics", :mtime=>2013-07-08 18:09:00 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -600,7 +703,7 @@
 	<a href="/cosi235a/topics/mvp/">Minimum Viable Product</a>
 		<ul>
 			<li>/cosi235a/topics/mvp/</li>
-			<li>{:filename=>"content/cosi235a/topics/mvp.md", :content_filename=>"content/cosi235a/topics/mvp.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/mvp.md>, :title=>"Minimum Viable Product", :section=>"topics", :mtime=>2013-07-08 14:41:53 -0400}</li>
+			<li>{:filename=>"content/cosi235a/topics/mvp.md", :content_filename=>"content/cosi235a/topics/mvp.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/mvp.md>, :title=>"Minimum Viable Product", :section=>"topics", :mtime=>2013-07-08 20:05:00 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -623,17 +726,6 @@
 		<ul>
 			<li>/cosi235a/topics/value_proposition/</li>
 			<li>{:filename=>"content/cosi235a/topics/value_proposition.md", :content_filename=>"content/cosi235a/topics/value_proposition.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi235a/topics/value_proposition.md>, :title=>"The Value Proposition", :section=>"topics", :mtime=>2013-07-05 10:59:10 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/css/stylesheet.css"></a>
-		<ul>
-			<li>/css/stylesheet/</li>
-			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-07-07 21:08:21 -0400}</li>
 			<li>Parent: </li>
 			<li>Children: [] </li>
 		</ul>
@@ -3975,19 +4067,31 @@ I"Ã<h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
   <li>Testable: You need to know how you would test it</li>
   <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
 </ul>
-;T;@êI"/cosi235a/course_intro/;T{;{	;I"á<!DOCTYPE HTML>
+;T;@êI"/cosi235a/course_intro/;T{;{	;I"4<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Course Intro (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Course Intro</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h3 id="welcome-to-cosi-235a---it-entrepreneurship">Welcome to COSI 235A - IT Entrepreneurship</h3>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h3 id="welcome-to-cosi-235a---it-entrepreneurship">Welcome to COSI 235A - IT Entrepreneurship</h3>
 
 <p>The course this fall has been fully updated and incorporates two key new components. </p>
 
@@ -4009,98 +4113,90 @@ I"Ã<h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
 
 <h4 id="requirements">Requirements</h4>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
@@ -4306,19 +4402,31 @@ I"4<h3 id="grading">Grading</h3>
     <p>yyy (20%)</p>
   </li>
 </ol>
-;T;@úI"#/cosi235a/high_level_overview/;T{;{	;I"ò<!DOCTYPE HTML>
+;T;@úI"#/cosi235a/high_level_overview/;T{;{	;I"E<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Term Overview (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Term Overview</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h3 id="high-level-overview">High Level Overview</h3>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h3 id="high-level-overview">High Level Overview</h3>
 
 <p>The semester is organized as follows:</p>
 
@@ -4331,98 +4439,90 @@ I"4<h3 id="grading">Grading</h3>
   <li>Week 13,14,15: <em>Frame 3</em> During this final frame we pull everything together. Student teams refine their product business plans and prepare the final deliverables in preparation for the <em>Product Showcase</em>.</li>
 </ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
@@ -4921,117 +5021,198 @@ I"¯<h3 id="detailed-framework">Detailed Framework</h3>
   <li>asds</li>
   <li>Final Review of Product Showcase presentations</li>
 </ol>
-;T;@ÆI"#/cosi235a/lectures/hypotheses/;T{;{	;I"·<!DOCTYPE HTML>
+;T;@ÆI"#/cosi235a/lectures/hypotheses/;T{;{	;I"®<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Hypotheses, Leap of faith and others (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Hypotheses, Leap of faith and others</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <p>Hypotheses, Leap of faith and others</p>
 
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
     </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h3 id="hypotheses-leap-of-faith-and-others">Hypotheses, Leap of faith and others</h3>
 
+<h4 id="homework-due-for-today">Homework due for today</h4>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
-	
-	
+<ol>
+  <li><strong>Pilot Teams</strong> Each team brainstorm and capture hypotheses for the pilot project.</li>
+  <li><strong>Read</strong> Lean Startup Chapters</li>
+</ol>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
+<h4 id="topics-for-today">Topics for today</h4>
 
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
+<ul>
+  <li>Reading Discussion</li>
+</ul>
+<ul>
+  <li>
+    <p>The LS notion of hypotheses</p>
 
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
+    <ul>
+      <li>
+        <p>Also ‚Äòassumptions‚Äô, but I like the term hypothesis better because it emphasizes that we don‚Äôt take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
 
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
+        <ul>
+          <li>Testable: You need to know how you would test it</li>
+          <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
+<ul>
+  <li>Discussion: Possible Hypotheses for the Pilot Project. Let‚Äôs write them down on post-it notes on our Validation Board.</li>
+</ul>
 
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
 	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
 	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
+          <h5>Background</h5>
+<ul>
 	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
-;T;	I")Hypotheses, Leap of faith and others;T;
-I"1<p>Hypotheses, Leap of faith and others</p>
+;T;	I"â### Hypotheses, Leap of faith and others
+
+#### Homework due for today
+
+1. **Pilot Teams** Each team brainstorm and capture hypotheses for the pilot project.
+1. **Read** Lean Startup Chapters
+
+#### Topics for today
+
+* Reading Discussion
+<%= incorporate_topic :hypotheses %>
+* Discussion: Possible Hypotheses for the Pilot Project. Let's write them down on post-it notes on our Validation Board.;T;
+I"F<h3 id="hypotheses-leap-of-faith-and-others">Hypotheses, Leap of faith and others</h3>
+
+<h4 id="homework-due-for-today">Homework due for today</h4>
+
+<ol>
+  <li><strong>Pilot Teams</strong> Each team brainstorm and capture hypotheses for the pilot project.</li>
+  <li><strong>Read</strong> Lean Startup Chapters</li>
+</ol>
+
+<h4 id="topics-for-today">Topics for today</h4>
+
+<ul>
+  <li>Reading Discussion</li>
+</ul>
+<ul>
+  <li>
+    <p>The LS notion of hypotheses</p>
+
+    <ul>
+      <li>
+        <p>Also ‚Äòassumptions‚Äô, but I like the term hypothesis better because it emphasizes that we don‚Äôt take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
+
+        <ul>
+          <li>Testable: You need to know how you would test it</li>
+          <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Discussion: Possible Hypotheses for the Pilot Project. Let‚Äôs write them down on post-it notes on our Validation Board.</li>
+</ul>
 ;T;@¥I"(/cosi235a/lectures/hypothesis_test/;T{;{	;I"Ä<!DOCTYPE HTML>
 <html lang="en">
   <head>
@@ -5192,147 +5373,198 @@ I"Ü<h2 id="hypothesis-testing">Hypothesis Testing</h2>
   </li>
   <li>Target varies depending on the type of question!</li>
 </ul>
-;T;@∫I"/cosi235a/lectures/mvp/;T{;{	;I"˛<!DOCTYPE HTML>
+;T;@∫I"/cosi235a/lectures/mvp/;T{;{	;I"-<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>MVP (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Minimum Viable Product</title>
-    <link rel="stylesheet" href="/style.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h3 id="the-mvpminimum-viable-product">The MVP/Minimum Viable Product</h3>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h2 id="minimum-viable-product-mvp">Minimum Viable Product (MVP)</h2>
+
+<h4 id="homework-due-for-today">Homework due for today</h4>
+
+<ol>
+  <li><strong>Reading</strong> ‚ÄúLean Startup Chapter 6‚Äù</li>
+  <li><strong>hw2</strong></li>
+</ol>
+
+<h4 id="topics">Topics</h4>
 
 <ul>
-  <li>‚ÄúIt‚Äôs not necessarily minimal nor a product‚Äù</li>
-  <li>Smallest increment of work that will test a hypothesis</li>
-  <li>What forms can it take?
+  <li>Class discussion on reading</li>
+</ul>
+<ul>
+  <li><em>The MVP or Minimum Viable Product</em>
     <ul>
-      <li>Concierge MVP</li>
-      <li>Pricing scheme</li>
-      <li>Problem description</li>
-      <li>Solution description</li>
-      <li>Paper mockup</li>
-      <li>Actual Prototype</li>
+      <li>‚ÄúIt‚Äôs not necessarily minimal nor a product‚Äù</li>
+      <li>Smallest increment of work that will test a hypothesis</li>
+      <li>What forms can it take?
+        <ul>
+          <li>Concierge MVP</li>
+          <li>Pricing scheme</li>
+          <li>Problem description</li>
+          <li>Solution description</li>
+          <li>Paper mockup</li>
+          <li>Actual Prototype</li>
+        </ul>
+      </li>
+      <li>The key is that it is <em>MINIUM!</em></li>
+      <li>How Minimum? ‚ÄúConcierge MVP‚Äù</li>
+      <li>Discussion: Does MVP mean that quality is not important?</li>
     </ul>
   </li>
-  <li>The key is that it is <em>MINIUM!</em></li>
 </ul>
 
-    <p>Tags: (none)</p>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
+          <h5>Background</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
-	
-	
-
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/mvp/">Minimum Viable Product</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypothesis_test/">Testing Hypotheses</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/value_proposition/">The Value Proposition</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
-;T;	I"=### The MVP/Minimum Viable Product
+;T;	I"∫## Minimum Viable Product (MVP)
 
-*	"It's not necessarily minimal nor a product"
-*	Smallest increment of work that will test a hypothesis
-*	What forms can it take?
-	*	Concierge MVP
-	*	Pricing scheme
-	*	Problem description
-	*	Solution description
-	*	Paper mockup
-	*	Actual Prototype
-* The key is that it is *MINIUM!*;T;
-I" <h3 id="the-mvpminimum-viable-product">The MVP/Minimum Viable Product</h3>
+#### Homework due for today
+
+1. **Reading** "Lean Startup Chapter 6"
+1. **hw2**
+
+#### Topics
+
+* Class discussion on reading
+<%= incorporate_topic :mvp %>;T;
+I"Ï<h2 id="minimum-viable-product-mvp">Minimum Viable Product (MVP)</h2>
+
+<h4 id="homework-due-for-today">Homework due for today</h4>
+
+<ol>
+  <li><strong>Reading</strong> ‚ÄúLean Startup Chapter 6‚Äù</li>
+  <li><strong>hw2</strong></li>
+</ol>
+
+<h4 id="topics">Topics</h4>
 
 <ul>
-  <li>‚ÄúIt‚Äôs not necessarily minimal nor a product‚Äù</li>
-  <li>Smallest increment of work that will test a hypothesis</li>
-  <li>What forms can it take?
+  <li>Class discussion on reading</li>
+</ul>
+<ul>
+  <li><em>The MVP or Minimum Viable Product</em>
     <ul>
-      <li>Concierge MVP</li>
-      <li>Pricing scheme</li>
-      <li>Problem description</li>
-      <li>Solution description</li>
-      <li>Paper mockup</li>
-      <li>Actual Prototype</li>
+      <li>‚ÄúIt‚Äôs not necessarily minimal nor a product‚Äù</li>
+      <li>Smallest increment of work that will test a hypothesis</li>
+      <li>What forms can it take?
+        <ul>
+          <li>Concierge MVP</li>
+          <li>Pricing scheme</li>
+          <li>Problem description</li>
+          <li>Solution description</li>
+          <li>Paper mockup</li>
+          <li>Actual Prototype</li>
+        </ul>
+      </li>
+      <li>The key is that it is <em>MINIUM!</em></li>
+      <li>How Minimum? ‚ÄúConcierge MVP‚Äù</li>
+      <li>Discussion: Does MVP mean that quality is not important?</li>
     </ul>
   </li>
-  <li>The key is that it is <em>MINIUM!</em></li>
 </ul>
 ;T;@¿I"*/cosi235a/lectures/value_proposition/;T{;{	;I"ê
 <!DOCTYPE HTML>
@@ -5520,23 +5752,34 @@ I"ì<h3 id="value-proposition">Value Proposition</h3>
 <h4 id="elevator-pitch">Elevator Pitch</h4>
 
 <p>An elevator pitch is meant to be spoken or read to a potential investor or board member.</p>
-;T;@∆I"!/cosi235a/detailed_schedule/;T{;{	;I"ˇ<!DOCTYPE HTML>
+;T;@∆I"!/cosi235a/detailed_schedule/;T{;{	;I"
+<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Detailed Schedule (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Detailed Schedule</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h3 id="detailed-framework">Detailed Framework</h3>
 
-<p>The term is divided into chunks which I call frames (play on the word ‚Äúframework‚Äù). There are four major frames. In the Pilot frame we will rapidly go through the leann startup process as applied to the Pilot product, ‚ÄúPeer-to-peer Location Aware Travel Guide‚Äù. </p>
 
-<p>Then we will break into teams of 2 or 3 and work on individual projects of your own invention. That work will be structured and guided in 3 frames.</p>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h3 id="detailed-framework">Detailed Framework</h3>
+
+<p>The term is divided into 1-4 week chunks of related topics. Below is the current schedule. </p>
 
 <h4 id="welcome-1-week">Welcome (1 week)</h4>
 
@@ -5549,11 +5792,11 @@ I"ì<h3 id="value-proposition">Value Proposition</h3>
 <ol>
   <li><a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a></li>
   <li><a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a></li>
-  <li><a href="/cosi235a/lectures/getting_out_of_building/">title</a></li>
-  <li>Minimum Viable Product</li>
-  <li>The Pivot</li>
-  <li>Engine of Growth</li>
-  <li>Product Market Fit</li>
+  <li><a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a></li>
+  <li><a href="/cosi235a/lectures/mvp/">MVP</a></li>
+  <li><a href="/cosi235a/lectures/pivot/">The Pivot</a></li>
+  <li><a href="/cosi235a/lectures/growth_engine/">Growth Engine</a></li>
+  <li><a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a></li>
 </ol>
 
 <h4 id="ideation-and-team-selection-1-week">Ideation and team selection (1 week)</h4>
@@ -5596,107 +5839,96 @@ I"ì<h3 id="value-proposition">Value Proposition</h3>
   <li>Final Review of Product Showcase presentations</li>
 </ol>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
-;T;	I"ÿ### Detailed Framework
+;T;	I"◊### Detailed Framework
 
-The term is divided into chunks which I call frames (play on the word "framework"). There are four major frames. In the Pilot frame we will rapidly go through the leann startup process as applied to the Pilot product, "Peer-to-peer Location Aware Travel Guide". 
-
-Then we will break into teams of 2 or 3 and work on individual projects of your own invention. That work will be structured and guided in 3 frames.
-
+The term is divided into 1-4 week chunks of related topics. Below is the current schedule. 
 
 #### Welcome (1 week)
 
@@ -5707,10 +5939,10 @@ Then we will break into teams of 2 or 3 and work on individual projects of your 
 1. <%= link_to_lecture :lean_startup %>
 1. <%= link_to_lecture :hypotheses %>
 1. <%= link_to_lecture :getting_out_of_building %>
-1. Minimum Viable Product
-1. The Pivot
-1. Engine of Growth
-1. Product Market Fit
+1. <%= link_to_lecture :mvp %>
+1. <%= link_to_lecture :pivot %>
+1. <%= link_to_lecture :growth_engine %>
+1. <%= link_to_lecture :prod_mkt_fit %>
 
 #### Ideation and team selection (1 week)
 
@@ -5743,11 +5975,9 @@ Then we will break into teams of 2 or 3 and work on individual projects of your 
 1. asds
 1. asds
 1. Final Review of Product Showcase presentations;T;
-I"]<h3 id="detailed-framework">Detailed Framework</h3>
+I"ª<h3 id="detailed-framework">Detailed Framework</h3>
 
-<p>The term is divided into chunks which I call frames (play on the word ‚Äúframework‚Äù). There are four major frames. In the Pilot frame we will rapidly go through the leann startup process as applied to the Pilot product, ‚ÄúPeer-to-peer Location Aware Travel Guide‚Äù. </p>
-
-<p>Then we will break into teams of 2 or 3 and work on individual projects of your own invention. That work will be structured and guided in 3 frames.</p>
+<p>The term is divided into 1-4 week chunks of related topics. Below is the current schedule. </p>
 
 <h4 id="welcome-1-week">Welcome (1 week)</h4>
 
@@ -5760,11 +5990,11 @@ I"]<h3 id="detailed-framework">Detailed Framework</h3>
 <ol>
   <li><a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a></li>
   <li><a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a></li>
-  <li><a href="/cosi235a/lectures/getting_out_of_building/">title</a></li>
-  <li>Minimum Viable Product</li>
-  <li>The Pivot</li>
-  <li>Engine of Growth</li>
-  <li>Product Market Fit</li>
+  <li><a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a></li>
+  <li><a href="/cosi235a/lectures/mvp/">MVP</a></li>
+  <li><a href="/cosi235a/lectures/pivot/">The Pivot</a></li>
+  <li><a href="/cosi235a/lectures/growth_engine/">Growth Engine</a></li>
+  <li><a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a></li>
 </ol>
 
 <h4 id="ideation-and-team-selection-1-week">Ideation and team selection (1 week)</h4>
@@ -5806,149 +6036,181 @@ I"]<h3 id="detailed-framework">Detailed Framework</h3>
   <li>asds</li>
   <li>Final Review of Product Showcase presentations</li>
 </ol>
-;T;@ÃI"!/cosi235a/topics/hypotheses/;T{;{	;I"g<!DOCTYPE HTML>
+;T;@ÃI"!/cosi235a/topics/hypotheses/;T{;{	;I"a<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Hypotheses (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Hypotheses</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
 
-<p>Also ‚Äòassumptions‚Äô, but I like the term hypothesis better because it emphasizes that we don‚Äôt take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
 
-<ul>
-  <li>Testable: You need to know how you would test it</li>
-  <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <ul>
+  <li>
+    <p>The LS notion of hypotheses</p>
+
+    <ul>
+      <li>
+        <p>Also ‚Äòassumptions‚Äô, but I like the term hypothesis better because it emphasizes that we don‚Äôt take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
+
+        <ul>
+          <li>Testable: You need to know how you would test it</li>
+          <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
-;T;	I"{### The LS notion of hypotheses
+;T;	I"Ä* The LS notion of hypotheses
 
-Also 'assumptions', but I like the term hypothesis better because it emphasizes that we don't take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.
+	* Also 'assumptions', but I like the term hypothesis better because it emphasizes that we don't take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.
 
-*	Testable: You need to know how you would test it
-*	Explicit: You need to be able to state it succinctly (on a post-it note);T;
-I"Ã<h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
+		*	Testable: You need to know how you would test it
+		*	Explicit: You need to be able to state it succinctly (on a post-it note);T;
+I"<ul>
+  <li>
+    <p>The LS notion of hypotheses</p>
 
-<p>Also ‚Äòassumptions‚Äô, but I like the term hypothesis better because it emphasizes that we don‚Äôt take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
+    <ul>
+      <li>
+        <p>Also ‚Äòassumptions‚Äô, but I like the term hypothesis better because it emphasizes that we don‚Äôt take a side as to whether it is true or not. We specifically want to generate evidence that will either prove or disprove it.</p>
 
-<ul>
-  <li>Testable: You need to know how you would test it</li>
-  <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+        <ul>
+          <li>Testable: You need to know how you would test it</li>
+          <li>Explicit: You need to be able to state it succinctly (on a post-it note)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
-;T;@“I"&/cosi235a/topics/hypothesis_test/;T{;{	;I")<!DOCTYPE HTML>
+;T;@“I"&/cosi235a/topics/hypothesis_test/;T{;{	;I"÷<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Testing Hypotheses (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Testing Hypotheses</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h2 id="hypothesis-testing">Hypothesis Testing</h2>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h2 id="hypothesis-testing">Hypothesis Testing</h2>
 
 <ul>
   <li>Getting out of the building</li>
@@ -5973,98 +6235,90 @@ I"Ã<h3 id="the-ls-notion-of-hypotheses">The LS notion of hypotheses</h3>
   <li>Target varies depending on the type of question!</li>
 </ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
@@ -6108,20 +6362,32 @@ I"Ü<h2 id="hypothesis-testing">Hypothesis Testing</h2>
   </li>
   <li>Target varies depending on the type of question!</li>
 </ul>
-;T;@ÿI"/cosi235a/topics/mvp/;T{;{	;I"“<!DOCTYPE HTML>
+;T;@ÿI"/cosi235a/topics/mvp/;T{;{	;I" <!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Minimum Viable Product (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Minimum Viable Product</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <ul>
-  <li>The MVP or Minimum Viable Product
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <ul>
+  <li><em>The MVP or Minimum Viable Product</em>
     <ul>
       <li>‚ÄúIt‚Äôs not necessarily minimal nor a product‚Äù</li>
       <li>Smallest increment of work that will test a hypothesis</li>
@@ -6136,106 +6402,100 @@ I"Ü<h2 id="hypothesis-testing">Hypothesis Testing</h2>
         </ul>
       </li>
       <li>The key is that it is <em>MINIUM!</em></li>
+      <li>How Minimum? ‚ÄúConcierge MVP‚Äù</li>
+      <li>Discussion: Does MVP mean that quality is not important?</li>
     </ul>
   </li>
 </ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
-;T;	I"G* The MVP or Minimum Viable Product
+;T;	I"•* *The MVP or Minimum Viable Product*
 	* "It's not necessarily minimal nor a product"
 	* Smallest increment of work that will test a hypothesis
 	* What forms can it take?
@@ -6245,9 +6505,11 @@ I"Ü<h2 id="hypothesis-testing">Hypothesis Testing</h2>
 		* Solution description
 		* Paper mockup
 		* Actual Prototype
-	* The key is that it is *MINIUM!*;T;
-I"+<ul>
-  <li>The MVP or Minimum Viable Product
+	* The key is that it is *MINIUM!*
+	* How Minimum? "Concierge MVP"
+	* Discussion: Does MVP mean that quality is not important?;T;
+I"¨<ul>
+  <li><em>The MVP or Minimum Viable Product</em>
     <ul>
       <li>‚ÄúIt‚Äôs not necessarily minimal nor a product‚Äù</li>
       <li>Smallest increment of work that will test a hypothesis</li>
@@ -6262,22 +6524,36 @@ I"+<ul>
         </ul>
       </li>
       <li>The key is that it is <em>MINIUM!</em></li>
+      <li>How Minimum? ‚ÄúConcierge MVP‚Äù</li>
+      <li>Discussion: Does MVP mean that quality is not important?</li>
     </ul>
   </li>
 </ul>
-;T;@ﬁI"(/cosi235a/topics/value_proposition/;T{;{	;I"9<!DOCTYPE HTML>
+;T;@ﬁI"(/cosi235a/topics/value_proposition/;T{;{	;I"Ê<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>The Value Proposition (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - The Value Proposition</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h3 id="value-proposition">Value Proposition</h3>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h3 id="value-proposition">Value Proposition</h3>
 
 <ul>
   <li>Positioning and Value Proposition and Elevator Pitch</li>
@@ -6310,98 +6586,90 @@ I"+<ul>
 
 <p>An elevator pitch is meant to be spoken or read to a potential investor or board member.</p>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
@@ -6462,19 +6730,31 @@ I"ì<h3 id="value-proposition">Value Proposition</h3>
 <h4 id="elevator-pitch">Elevator Pitch</h4>
 
 <p>An elevator pitch is meant to be spoken or read to a potential investor or board member.</p>
-;T;@‰I" /cosi235a/lectures/welcome/;T{;{	;I"3<!DOCTYPE HTML>
+;T;@‰I" /cosi235a/lectures/welcome/;T{;{	;I"L<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Welcome (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Welcome</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h2 id="welcome">Welcome</h2>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h2 id="welcome">Welcome</h2>
 
 <h4 id="homework-due-for-today">Homework due for today</h4>
 
@@ -6485,7 +6765,7 @@ I"ì<h3 id="value-proposition">Value Proposition</h3>
   <li><strong>Personal Statement</strong>: Why are you taking this class? Why are you getting a COSI degree? What do you see yourself doing after graduating? What excites you about this field? Do you think of yourself as an entrepreneur?</li>
 </ol>
 
-<p><em>Please give this a little thought. It will become important when I challenge you to come up with a product or service idea. It will also be important to me to understand how to lead the class. Submit this as a  post.</em></p>
+<p><em>Please give this a little thought. It will become important when I challenge you to come up with a product or service idea. It will also be important to me to understand how to lead the class. Submit this as a  post on Piazza.</em></p>
 
 <h4 id="topics-for-today">Topics for today</h4>
 
@@ -6493,11 +6773,10 @@ I"ì<h3 id="value-proposition">Value Proposition</h3>
   <li>Introduce Pito, where I came from, and why I am excitied about this course</li>
   <li>Go around and introduce yourself name, year, why you are here Point to next person</li>
   <li>Mugshots are collected!</li>
-  <li>
-    <p>Tour around this web page:</p>
-
+  <li>Tour around this web page:
     <ul>
-      <li>How the classroom works</li>
+      <li><a href="/cosi235a/background/grading/">Grading</a></li>
+      <li><a href="/cosi235a/background/obligations/">Student Obligations</a></li>
       <li>Blogging and Piazza</li>
       <li>Logistics</li>
       <li>Homework How To</li>
@@ -6506,102 +6785,94 @@ I"ì<h3 id="value-proposition">Value Proposition</h3>
   <li>Review how grading will work</li>
 </ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
-;T;	I"a## Welcome
+;T;	I"û## Welcome
 
 
 #### Homework due for today
@@ -6611,7 +6882,7 @@ I"ì<h3 id="value-proposition">Value Proposition</h3>
 1. **Piazza Blog Post**: Read article by Paul Graham about [How to get startup ideas](http://paulgraham.com/startupideas.html). Write a blog post reflecting on the article, what you liked, or didn't. (3 paragraphs max)
 2. **Personal Statement**: Why are you taking this class? Why are you getting a COSI degree? What do you see yourself doing after graduating? What excites you about this field? Do you think of yourself as an entrepreneur?
 
-*Please give this a little thought. It will become important when I challenge you to come up with a product or service idea. It will also be important to me to understand how to lead the class. Submit this as a  post.*
+*Please give this a little thought. It will become important when I challenge you to come up with a product or service idea. It will also be important to me to understand how to lead the class. Submit this as a  post on Piazza.*
 
 #### Topics for today
 
@@ -6619,14 +6890,14 @@ I"ì<h3 id="value-proposition">Value Proposition</h3>
 * Go around and introduce yourself name, year, why you are here Point to next person
 * Mugshots are collected!
 * Tour around this web page:
-
-	* How the classroom works
+	* <%= link_to_background :grading %>
+	* <%= link_to_background :obligations %>
 	* Blogging and Piazza
 	* Logistics
 	* Homework How To
-	
+
 * Review how grading will work;T;
-I"õ<h2 id="welcome">Welcome</h2>
+I"<h2 id="welcome">Welcome</h2>
 
 <h4 id="homework-due-for-today">Homework due for today</h4>
 
@@ -6637,7 +6908,7 @@ I"õ<h2 id="welcome">Welcome</h2>
   <li><strong>Personal Statement</strong>: Why are you taking this class? Why are you getting a COSI degree? What do you see yourself doing after graduating? What excites you about this field? Do you think of yourself as an entrepreneur?</li>
 </ol>
 
-<p><em>Please give this a little thought. It will become important when I challenge you to come up with a product or service idea. It will also be important to me to understand how to lead the class. Submit this as a  post.</em></p>
+<p><em>Please give this a little thought. It will become important when I challenge you to come up with a product or service idea. It will also be important to me to understand how to lead the class. Submit this as a  post on Piazza.</em></p>
 
 <h4 id="topics-for-today">Topics for today</h4>
 
@@ -6645,11 +6916,10 @@ I"õ<h2 id="welcome">Welcome</h2>
   <li>Introduce Pito, where I came from, and why I am excitied about this course</li>
   <li>Go around and introduce yourself name, year, why you are here Point to next person</li>
   <li>Mugshots are collected!</li>
-  <li>
-    <p>Tour around this web page:</p>
-
+  <li>Tour around this web page:
     <ul>
-      <li>How the classroom works</li>
+      <li><a href="/cosi235a/background/grading/">Grading</a></li>
+      <li><a href="/cosi235a/background/obligations/">Student Obligations</a></li>
       <li>Blogging and Piazza</li>
       <li>Logistics</li>
       <li>Homework How To</li>
@@ -6657,19 +6927,31 @@ I"õ<h2 id="welcome">Welcome</h2>
   </li>
   <li>Review how grading will work</li>
 </ul>
-;T;@ÍI"#/cosi235a/topics/lean_startup/;T{;{	;I"]	<!DOCTYPE HTML>
+;T;@ÍI"#/cosi235a/topics/lean_startup/;T{;{	;I"H<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Lean Startup Overview (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Lean Startup Overview</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <ul>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <ul>
   <li><em>‚ÄúLean‚Äù term stolen from ‚ÄúLean Manufacturing‚Äù (Toyota et al)</em>
     <ul>
       <li>Some key characteristics:
@@ -6686,121 +6968,112 @@ I"õ<h2 id="welcome">Welcome</h2>
           <li>And with the same objectives</li>
         </ul>
       </li>
-      <li>Lean Startup
-        <ul>
-          <li>Yes, just another buzzword</li>
-          <li>Some might say ‚Äúthere‚Äôs nothing new under the sun‚Äù</li>
-        </ul>
-      </li>
-      <li>Some keys
-        <ul>
-          <li>Build (MVP)</li>
-          <li>Measure (Innovation accounting)</li>
-          <li>Learn (Pivoting)</li>
-        </ul>
-      </li>
+    </ul>
+  </li>
+  <li><em>Lean Startup</em>
+    <ul>
+      <li>Yes, just another buzzword</li>
+      <li>Some might say ‚Äúthere‚Äôs nothing new under the sun‚Äù</li>
+    </ul>
+  </li>
+  <li><em>Some ideas that we‚Äôll explore more in the next few weeks</em>
+    <ul>
+      <li>Hypotheses and assumptions</li>
+      <li>Minimum Viable Product</li>
+      <li>Customer Development</li>
+      <li>Lean Startup Validation Board</li>
     </ul>
   </li>
 </ul>
 
-<hr />
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
+          <h5>Background</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
-	
-	
-
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
-;T;	I"* *"Lean" term stolen from "Lean Manufacturing" (Toyota et al)*
+;T;	I"e* *"Lean" term stolen from "Lean Manufacturing" (Toyota et al)*
 	* Some key characteristics:
 		* Small Batches vs. Large Batches
 		* Changes in plan are expected and embraced
@@ -6809,16 +7082,15 @@ I"õ<h2 id="welcome">Welcome</h2>
 	* Agile Software Development (next term :)
 		* Also based on the same principles
 		* And with the same objectives
-	* Lean Startup
-		* Yes, just another buzzword
-		* Some might say "there's nothing new under the sun"
-	* Some keys
-		* Build (MVP)
-		* Measure (Innovation accounting)
-		* Learn (Pivoting)
-
----;T;
-I"∑<ul>
+* *Lean Startup*
+	* Yes, just another buzzword
+	* Some might say "there's nothing new under the sun"
+* *Some ideas that we'll explore more in the next few weeks*
+	* Hypotheses and assumptions
+	* Minimum Viable Product
+	* Customer Development
+	* Lean Startup Validation Board;T;
+I"ı<ul>
   <li><em>‚ÄúLean‚Äù term stolen from ‚ÄúLean Manufacturing‚Äù (Toyota et al)</em>
     <ul>
       <li>Some key characteristics:
@@ -6835,24 +7107,23 @@ I"∑<ul>
           <li>And with the same objectives</li>
         </ul>
       </li>
-      <li>Lean Startup
-        <ul>
-          <li>Yes, just another buzzword</li>
-          <li>Some might say ‚Äúthere‚Äôs nothing new under the sun‚Äù</li>
-        </ul>
-      </li>
-      <li>Some keys
-        <ul>
-          <li>Build (MVP)</li>
-          <li>Measure (Innovation accounting)</li>
-          <li>Learn (Pivoting)</li>
-        </ul>
-      </li>
+    </ul>
+  </li>
+  <li><em>Lean Startup</em>
+    <ul>
+      <li>Yes, just another buzzword</li>
+      <li>Some might say ‚Äúthere‚Äôs nothing new under the sun‚Äù</li>
+    </ul>
+  </li>
+  <li><em>Some ideas that we‚Äôll explore more in the next few weeks</em>
+    <ul>
+      <li>Hypotheses and assumptions</li>
+      <li>Minimum Viable Product</li>
+      <li>Customer Development</li>
+      <li>Lean Startup Validation Board</li>
     </ul>
   </li>
 </ul>
-
-<hr />
 ;T;@I"/cosi235a/topics/template/;T{;{	;I"v<!DOCTYPE HTML>
 <html lang="en">
   <head>
@@ -7011,19 +7282,31 @@ I"è<h4 id="homework-due-for-today">Homework due for today</h4>
 </ol>
 
 <h4 id="topics">Topics</h4>
-;T;@ˆI""/cosi235a/background/grading/;T{;{	;I"Ã<!DOCTYPE HTML>
+;T;@ˆI""/cosi235a/background/grading/;T{;{	;I"ó<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Grading (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Grading</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h3 id="grading">Grading</h3>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h4 id="grading">Grading</h4>
 
 <p>I will try to give everyone constant and actionable feedback. I also expect you to be proactive if you are unclear about something or want to talk about anything. </p>
 
@@ -7042,102 +7325,166 @@ I"è<h4 id="homework-due-for-today">Homework due for today</h4>
   </li>
 </ol>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+<h4 id="letter-grades">Letter Grades</h4>
 
+<p>At the middle and end of the term you will receive letter grades. It‚Äôs important to remember that a ‚ÄúB‚Äù is a totally reasonable grade (everyone always seems to forget this!) To help with that, here‚Äôs a brief summary of how I think about each grade:</p>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
-	
-	
+<h4 id="in-class-participation">In class Participation</h4>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
+<ul>
+  <li>‚ÄúA‚Äù participation:
+    <ul>
+      <li>participates actively in class, without dominating the discussion asks insightful questions, makes illuminating remarks, listens to others and responds appropriately</li>
+      <li>works responsibly as a member of a group (e.g. in Incubator, takes interesting stories from queue and  completes them promptly,  takes responsibility for making the  project succeed, takes initiative)</li>
+      <li>makes excellent presentation to class about homework solutions</li>
+      <li>asks questions of teacher and other students that lead to deeper insights</li>
+    </ul>
+  </li>
+  <li>‚ÄúB‚Äù participation:
+    <ul>
+      <li>participates in class, sometimes needs to be asked to contribute</li>
+      <li>completes group work as required, but doesn‚Äôt take responsibility for making sure the group projects gets completed well</li>
+      <li>makes clear presentations to class, but not inspiring presentations</li>
+    </ul>
+  </li>
+  <li>‚ÄúC‚Äù participation:
+    <ul>
+      <li>for the most part only participates if asked by a teacher</li>
+      <li>does not reliably complete work on group projects, blames others</li>
+      <li>class presentations of homework are somewhat confusing</li>
+      <li>asks questions that are off-topic or display lack of attention the discussion, distracts the class</li>
+      <li>Is often late, or not attending to what‚Äôs going on in class</li>
+    </ul>
+  </li>
+  <li>‚ÄúD‚Äù participation:
+    <ul>
+      <li>we‚Äôll let you know if you are performing at a D or lower level!!!</li>
+    </ul>
+  </li>
+</ul>
 
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
+<h4 id="for-homework">For Homework</h4>
 
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
+<ul>
+  <li>‚ÄúA‚Äù homeworks
+    <ul>
+      <li>completes all of the homework assignments on time</li>
+      <li>blog posts are well-written and insightful, often linking with other closely related resources</li>
+      <li>code examples are clean and well-commented, illustrating clever algorithms clearly described and coded</li>
+      <li>Doesn‚Äôt let obstacles get in the way, creatively and effectively searches for solutions and shares with the class</li>
+    </ul>
+  </li>
+  <li>‚ÄúB‚Äù homeworks
+    <ul>
+      <li>completes homework generally completed on time</li>
+      <li>blog posts address the issues but don‚Äôt make bigger connections</li>
+      <li>code examples work correctly but are not elegant and beautifully commented</li>
+      <li>Often uses own resourcefulness to overcome obstacles, but may need to be prodded</li>
+    </ul>
+  </li>
+  <li>‚ÄúC‚Äù homeworks
+    <ul>
+      <li>homeworks are often late</li>
+      <li>blog posts are poorly written or miss the point of the article</li>
+      <li>code examples often have bugs and/or are poorly commented</li>
+      <li>Needs a lot of handholding to overcome obstacles for which solutions are readily available</li>
+    </ul>
+  </li>
+  <li>‚ÄúD‚Äù homeworks
+    <ul>
+      <li>we‚Äôll let you know if you are performing a ‚ÄúD‚Äù or lower level!</li>
+    </ul>
+  </li>
+</ul>
 
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
 	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
+          <h5>Background</h5>
+<ul>
 	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
-;T;	I"∂### Grading
+;T;	I"	#### Grading
 
 I will try to give everyone constant and actionable feedback. I also expect you to be proactive if you are unclear about something or want to talk about anything. 
 
@@ -7147,8 +7494,58 @@ I will try to give everyone constant and actionable feedback. I also expect you 
 
 3. xxx (20%)
 
-4. yyy (20%);T;
-I"4<h3 id="grading">Grading</h3>
+4. yyy (20%)
+
+#### Letter Grades
+
+At the middle and end of the term you will receive letter grades. It's important to remember that a "B" is a totally reasonable grade (everyone always seems to forget this!) To help with that, here's a brief summary of how I think about each grade:
+
+#### In class Participation
+
+* "A" participation:
+	* participates actively in class, without dominating the discussion asks insightful questions, makes illuminating remarks, listens to others and responds appropriately
+	* works responsibly as a member of a group (e.g. in Incubator, takes interesting stories from queue and  completes them promptly,  takes responsibility for making the  project succeed, takes initiative)
+	* makes excellent presentation to class about homework solutions
+	* asks questions of teacher and other students that lead to deeper insights
+
+* "B" participation:
+	* participates in class, sometimes needs to be asked to contribute
+	* completes group work as required, but doesn't take responsibility for making sure the group projects gets completed well
+	* makes clear presentations to class, but not inspiring presentations
+
+* "C" participation:
+	* for the most part only participates if asked by a teacher
+	* does not reliably complete work on group projects, blames others
+	* class presentations of homework are somewhat confusing
+	* asks questions that are off-topic or display lack of attention the discussion, distracts the class
+	* Is often late, or not attending to what's going on in class
+
+* "D" participation:
+	* we'll let you know if you are performing at a D or lower level!!!
+
+#### For Homework
+
+* "A" homeworks
+	* completes all of the homework assignments on time
+	* blog posts are well-written and insightful, often linking with other closely related resources
+	* code examples are clean and well-commented, illustrating clever algorithms clearly described and coded
+	* Doesn't let obstacles get in the way, creatively and effectively searches for solutions and shares with the class
+
+* "B" homeworks
+	* completes homework generally completed on time
+	* blog posts address the issues but don't make bigger connections
+	* code examples work correctly but are not elegant and beautifully commented
+	* Often uses own resourcefulness to overcome obstacles, but may need to be prodded
+
+* "C" homeworks
+	* homeworks are often late
+	* blog posts are poorly written or miss the point of the article
+	* code examples often have bugs and/or are poorly commented
+	* Needs a lot of handholding to overcome obstacles for which solutions are readily available
+
+* "D" homeworks
+	* we'll let you know if you are performing a "D" or lower level!;T;
+I"R<h4 id="grading">Grading</h4>
 
 <p>I will try to give everyone constant and actionable feedback. I also expect you to be proactive if you are unclear about something or want to talk about anything. </p>
 
@@ -7166,19 +7563,103 @@ I"4<h3 id="grading">Grading</h3>
     <p>yyy (20%)</p>
   </li>
 </ol>
-;T;@¸I"#/cosi235a/background/homework/;T{;{	;I"ã<!DOCTYPE HTML>
+
+<h4 id="letter-grades">Letter Grades</h4>
+
+<p>At the middle and end of the term you will receive letter grades. It‚Äôs important to remember that a ‚ÄúB‚Äù is a totally reasonable grade (everyone always seems to forget this!) To help with that, here‚Äôs a brief summary of how I think about each grade:</p>
+
+<h4 id="in-class-participation">In class Participation</h4>
+
+<ul>
+  <li>‚ÄúA‚Äù participation:
+    <ul>
+      <li>participates actively in class, without dominating the discussion asks insightful questions, makes illuminating remarks, listens to others and responds appropriately</li>
+      <li>works responsibly as a member of a group (e.g. in Incubator, takes interesting stories from queue and  completes them promptly,  takes responsibility for making the  project succeed, takes initiative)</li>
+      <li>makes excellent presentation to class about homework solutions</li>
+      <li>asks questions of teacher and other students that lead to deeper insights</li>
+    </ul>
+  </li>
+  <li>‚ÄúB‚Äù participation:
+    <ul>
+      <li>participates in class, sometimes needs to be asked to contribute</li>
+      <li>completes group work as required, but doesn‚Äôt take responsibility for making sure the group projects gets completed well</li>
+      <li>makes clear presentations to class, but not inspiring presentations</li>
+    </ul>
+  </li>
+  <li>‚ÄúC‚Äù participation:
+    <ul>
+      <li>for the most part only participates if asked by a teacher</li>
+      <li>does not reliably complete work on group projects, blames others</li>
+      <li>class presentations of homework are somewhat confusing</li>
+      <li>asks questions that are off-topic or display lack of attention the discussion, distracts the class</li>
+      <li>Is often late, or not attending to what‚Äôs going on in class</li>
+    </ul>
+  </li>
+  <li>‚ÄúD‚Äù participation:
+    <ul>
+      <li>we‚Äôll let you know if you are performing at a D or lower level!!!</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="for-homework">For Homework</h4>
+
+<ul>
+  <li>‚ÄúA‚Äù homeworks
+    <ul>
+      <li>completes all of the homework assignments on time</li>
+      <li>blog posts are well-written and insightful, often linking with other closely related resources</li>
+      <li>code examples are clean and well-commented, illustrating clever algorithms clearly described and coded</li>
+      <li>Doesn‚Äôt let obstacles get in the way, creatively and effectively searches for solutions and shares with the class</li>
+    </ul>
+  </li>
+  <li>‚ÄúB‚Äù homeworks
+    <ul>
+      <li>completes homework generally completed on time</li>
+      <li>blog posts address the issues but don‚Äôt make bigger connections</li>
+      <li>code examples work correctly but are not elegant and beautifully commented</li>
+      <li>Often uses own resourcefulness to overcome obstacles, but may need to be prodded</li>
+    </ul>
+  </li>
+  <li>‚ÄúC‚Äù homeworks
+    <ul>
+      <li>homeworks are often late</li>
+      <li>blog posts are poorly written or miss the point of the article</li>
+      <li>code examples often have bugs and/or are poorly commented</li>
+      <li>Needs a lot of handholding to overcome obstacles for which solutions are readily available</li>
+    </ul>
+  </li>
+  <li>‚ÄúD‚Äù homeworks
+    <ul>
+      <li>we‚Äôll let you know if you are performing a ‚ÄúD‚Äù or lower level!</li>
+    </ul>
+  </li>
+</ul>
+;T;@¸I"#/cosi235a/background/homework/;T{;{	;I"8<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Homework info (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Homework info</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h2 id="homework">Homework</h2>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h2 id="homework">Homework</h2>
 
 <ul>
   <li>The homework due for a particular lecture is always listed at the top of the page for that day.</li>
@@ -7192,98 +7673,90 @@ I"4<h3 id="grading">Grading</h3>
   <li>Watch an episode ‚ÄúShark Tank‚Äù. What are some things that you think are realistic and some that you think are unrealistic. Take apart one of the pitches done by one of the entrepreneurs either because you think it is good or because it is really bad.</li>
 </ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
@@ -7309,19 +7782,31 @@ I"Ì<h2 id="homework">Homework</h2>
 <ul>
   <li>Watch an episode ‚ÄúShark Tank‚Äù. What are some things that you think are realistic and some that you think are unrealistic. Take apart one of the pitches done by one of the entrepreneurs either because you think it is good or because it is really bad.</li>
 </ul>
-;T;@I"&/cosi235a/background/obligations/;T{;{	;I"<!DOCTYPE HTML>
+;T;@I"&/cosi235a/background/obligations/;T{;{	;I"«<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Student Obligations (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Student Obligations</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h4 id="expectations">Expectations</h4>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h4 id="expectationsobligations">Expectations/Obligations</h4>
 
 <ol>
   <li>Show up: Please, arrive in class on time and prepared. </li>
@@ -7331,109 +7816,101 @@ I"Ì<h2 id="homework">Homework</h2>
   <li>Cell phones: Please refrain using your phones during class.</li>
 </ol>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
-;T;	I"#### Expectations
+;T;	I"#### Expectations/Obligations
 
 1. Show up: Please, arrive in class on time and prepared. 
 1. Participate: listen respectfully to others' questions, think and contribute your own ideas, ask questions when you are stuck, be a leader and set a positive example for your classmates. The same applies for online discussions within the class.
 1. Food: Please, no eating in class; drinking is ok; 
 1. Computers: I appreciate it if computers stay closed unless needed in current activity.
 1. Cell phones: Please refrain using your phones during class.;T;
-I"_<h4 id="expectations">Expectations</h4>
+I"v<h4 id="expectationsobligations">Expectations/Obligations</h4>
 
 <ol>
   <li>Show up: Please, arrive in class on time and prepared. </li>
@@ -7442,19 +7919,31 @@ I"_<h4 id="expectations">Expectations</h4>
   <li>Computers: I appreciate it if computers stay closed unless needed in current activity.</li>
   <li>Cell phones: Please refrain using your phones during class.</li>
 </ol>
-;T;@I"%/cosi235a/lectures/lean_startup/;T{;{	;I"ê<!DOCTYPE HTML>
+;T;@I"%/cosi235a/lectures/lean_startup/;T{;{	;I"π<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Introduction to Lean Startup (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Introduction to Lean Startup</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h3 id="introduction-to-lean-startup">Introduction to Lean Startup</h3>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h3 id="introduction-to-lean-startup">Introduction to Lean Startup</h3>
 
 <h4 id="homework-due-for-today">Homework due for today</h4>
 
@@ -7510,122 +7999,116 @@ I"_<h4 id="expectations">Expectations</h4>
           <li>And with the same objectives</li>
         </ul>
       </li>
-      <li>Lean Startup
-        <ul>
-          <li>Yes, just another buzzword</li>
-          <li>Some might say ‚Äúthere‚Äôs nothing new under the sun‚Äù</li>
-        </ul>
-      </li>
-      <li>Some keys
-        <ul>
-          <li>Build (MVP)</li>
-          <li>Measure (Innovation accounting)</li>
-          <li>Learn (Pivoting)</li>
-        </ul>
-      </li>
+    </ul>
+  </li>
+  <li><em>Lean Startup</em>
+    <ul>
+      <li>Yes, just another buzzword</li>
+      <li>Some might say ‚Äúthere‚Äôs nothing new under the sun‚Äù</li>
+    </ul>
+  </li>
+  <li><em>Some ideas that we‚Äôll explore more in the next few weeks</em>
+    <ul>
+      <li>Hypotheses and assumptions</li>
+      <li>Minimum Viable Product</li>
+      <li>Customer Development</li>
+      <li>Lean Startup Validation Board</li>
     </ul>
   </li>
 </ul>
 
-<hr />
+<ul>
+  <li><em>Discussion about Pilot Project</em></li>
+</ul>
 
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
+          <h5>Background</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
-	
-	
-
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
-;T;	I"ﬂ### Introduction to Lean Startup
+;T;	I"### Introduction to Lean Startup
 
 #### Homework due for today
 
@@ -7638,8 +8121,9 @@ I"_<h4 id="expectations">Expectations</h4>
 
 * *Discussion about reading*
 <%= incorporate_topic :ideas_are_cheap %>
-<%= incorporate_topic :lean_startup %>;T;
-I"„<h3 id="introduction-to-lean-startup">Introduction to Lean Startup</h3>
+<%= incorporate_topic :lean_startup %>
+* *Discussion about Pilot Project*;T;
+I"_	<h3 id="introduction-to-lean-startup">Introduction to Lean Startup</h3>
 
 <h4 id="homework-due-for-today">Homework due for today</h4>
 
@@ -7695,38 +8179,53 @@ I"„<h3 id="introduction-to-lean-startup">Introduction to Lean Startup</h3>
           <li>And with the same objectives</li>
         </ul>
       </li>
-      <li>Lean Startup
-        <ul>
-          <li>Yes, just another buzzword</li>
-          <li>Some might say ‚Äúthere‚Äôs nothing new under the sun‚Äù</li>
-        </ul>
-      </li>
-      <li>Some keys
-        <ul>
-          <li>Build (MVP)</li>
-          <li>Measure (Innovation accounting)</li>
-          <li>Learn (Pivoting)</li>
-        </ul>
-      </li>
+    </ul>
+  </li>
+  <li><em>Lean Startup</em>
+    <ul>
+      <li>Yes, just another buzzword</li>
+      <li>Some might say ‚Äúthere‚Äôs nothing new under the sun‚Äù</li>
+    </ul>
+  </li>
+  <li><em>Some ideas that we‚Äôll explore more in the next few weeks</em>
+    <ul>
+      <li>Hypotheses and assumptions</li>
+      <li>Minimum Viable Product</li>
+      <li>Customer Development</li>
+      <li>Lean Startup Validation Board</li>
     </ul>
   </li>
 </ul>
 
-<hr />
-
-;T;@I")/cosi235a/lectures/lecture_template/;T{;{	;I"u<!DOCTYPE HTML>
+<ul>
+  <li><em>Discussion about Pilot Project</em></li>
+</ul>
+;T;@I")/cosi235a/lectures/lecture_template/;T{;{	;I""
+<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>title (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - title</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h2 id="title">title</h2>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h2 id="title">title</h2>
 
 <h4 id="homework-due-for-today">Homework due for today</h4>
 
@@ -7741,98 +8240,90 @@ I"„<h3 id="introduction-to-lean-startup">Introduction to Lean Startup</h3>
   <li>Topic 1</li>
 </ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
@@ -7860,19 +8351,31 @@ I"ﬂ<h2 id="title">title</h2>
 <ul>
   <li>Topic 1</li>
 </ul>
-;T;@I"&/cosi235a/topics/ideas_are_cheap/;T{;{	;I"O<!DOCTYPE HTML>
+;T;@I"&/cosi235a/topics/ideas_are_cheap/;T{;{	;I"¸<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Ideas are cheap (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Ideas are cheap</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <ul>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <ul>
   <li><em>Ideas are cheap</em>
     <ul>
       <li>Everyone has a million ideas</li>
@@ -7892,98 +8395,90 @@ I"ﬂ<h2 id="title">title</h2>
   </li>
 </ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
@@ -8014,113 +8509,117 @@ I"Ø<ul>
     </ul>
   </li>
 </ul>
-;T;@I"%/cosi235a/topics/topic_template/;T{;{	;I"∆<!DOCTYPE HTML>
+;T;@I"%/cosi235a/topics/topic_template/;T{;{	;I"s	<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>template (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - template</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h3 id="title">Title</h3>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h3 id="title">Title</h3>
 <p>#### Topics</p>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
@@ -8128,20 +8627,31 @@ I"Ø<ul>
 #### Topics;T;
 I"2<h3 id="title">Title</h3>
 <p>#### Topics</p>
-;T;@ I"*/cosi235a/topics/getting_conversions/;T{;{	;I"&
-<!DOCTYPE HTML>
+;T;@ I"*/cosi235a/topics/getting_conversions/;T{;{	;I"”<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Conversions (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Conversions</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h3 id="conversions">Conversions</h3>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h3 id="conversions">Conversions</h3>
 
 <ul>
   <li>When you design your web presence, you need to decide clearly what <em>action</em> you want the visitor to take when they get there.</li>
@@ -8169,98 +8679,90 @@ I"2<h3 id="title">Title</h3>
   <li>‚ÄúA Good User Interface has high conversion rates and is easy to use. In other words, it‚Äôs nice to both the business side as well as the people using it.‚Äù Read this: <a href="http://goodui.org">A good UI</a></li>
 </ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
@@ -8307,19 +8809,32 @@ I"ä<h3 id="conversions">Conversions</h3>
   </li>
   <li>‚ÄúA Good User Interface has high conversion rates and is easy to use. In other words, it‚Äôs nice to both the business side as well as the people using it.‚Äù Read this: <a href="http://goodui.org">A good UI</a></li>
 </ul>
-;T;@&I"0/cosi235a/lectures/getting_out_of_building/;T{;{	;I"u<!DOCTYPE HTML>
+;T;@&I"0/cosi235a/lectures/getting_out_of_building/;T{;{	;I"d
+<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Getting Out of the Building (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - title</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h2 id="title">title</h2>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h2 id="getting-out-of-the-building">Getting out of the building</h2>
 
 <h4 id="homework-due-for-today">Homework due for today</h4>
 
@@ -8334,102 +8849,94 @@ I"ä<h3 id="conversions">Conversions</h3>
   <li>Topic 1</li>
 </ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
-;T;	I"Y## title
+;T;	I"o## Getting out of the building
 
 #### Homework due for today
 
@@ -8439,7 +8946,7 @@ I"ä<h3 id="conversions">Conversions</h3>
 #### Topics
 
 * Topic 1;T;
-I"ﬂ<h2 id="title">title</h2>
+I"<h2 id="getting-out-of-the-building">Getting out of the building</h2>
 
 <h4 id="homework-due-for-today">Homework due for today</h4>
 
@@ -8453,130 +8960,146 @@ I"ﬂ<h2 id="title">title</h2>
 <ul>
   <li>Topic 1</li>
 </ul>
-;T;@,I"./cosi235a/background/background_template/;T{;{	;I"∆<!DOCTYPE HTML>
+;T;@,I"./cosi235a/background/background_template/;T{;{	;I"s	<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>title (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - title</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h2 id="background-title">Background title</h2>
 
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
     </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h2 id="background-title">Background title</h2>
 
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Lectures</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
 ;T;	I"## Background title;T;
 I"5<h2 id="background-title">Background title</h2>
-;T;@2I"//cosi235a/background/pilot_project_vision/;T{;{	;I"t	<!DOCTYPE HTML>
+;T;@2I"//cosi235a/background/pilot_project_vision/;T{;{	;I"!<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Pilot Project Vision (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Pilot Project Vision</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h2 id="vision-for-pilot-project">Vision for ‚ÄúPilot Project‚Äù</h2>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h2 id="vision-for-pilot-project">Vision for ‚ÄúPilot Project‚Äù</h2>
 
 <p>For the first 5 weeks of the course we will focused on the ‚ÄúLean Startup‚Äù approach to validating a vision for a project, pivoting as necessary to achieve a product-market fit. We will divide students into two groups and each group will work independently to use the process on the vision for a product called ‚ÄúP2PTours‚Äù</p>
 
@@ -8590,98 +9113,90 @@ I"5<h2 id="background-title">Background title</h2>
   <p><em>Simply walk into St. Peter‚Äôs Square and choose which local expert you want to listen to: a historian? A priest? An architect? A chef? Each one will have their unique perspective and will enhance your visit in their own unique way!</em></p>
 </blockquote>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
@@ -8707,125 +9222,726 @@ I"œ<h2 id="vision-for-pilot-project">Vision for ‚ÄúPilot Project‚Äù</h2>
 <blockquote>
   <p><em>Simply walk into St. Peter‚Äôs Square and choose which local expert you want to listen to: a historian? A priest? An architect? A chef? Each one will have their unique perspective and will enhance your visit in their own unique way!</em></p>
 </blockquote>
-;T;@8I""/cosi235a/background/lexicon/;T{;{	;I"‹<!DOCTYPE HTML>
+;T;@8I""/cosi235a/background/lexicon/;T{;{	;I"√	<!DOCTYPE HTML>
 <html lang="en">
   <head>
+    <title>Lexicon (Cosi235a)</title>
     <meta charset="utf-8">
-    <title>COSI 235a - Lexicon</title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
-    <div id="main">
-      <h2 id="lexicon">Lexicon</h2>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h2 id="lexicon">Lexicon</h2>
 
 <ul>
-  <li>Crowdsourcing:</li>
+  <li>Crowdsourcing: </li>
+  <li>Agile Software Development:</li>
+  <li>Scrum:</li>
 </ul>
 
-    </div>
-    <div id="sidebar">
-      <h2>Navigate</h2>
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
 
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
 
-	<ul>
-	<li>
-		<a href="/">Dump of all pages</a>
-	</li>
+          <h5>Background</h5>
+<ul>
 	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
 	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
 
-	<ul><ul><ul>
-	<li>
-		<a href="/cosi235a/course_intro/">Course Intro</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/high_level_overview/">Term Overview</a>
-	</li>
-	
-	
-
-	<ul>
-	<li>
-		<a href="/cosi235a/background/grading/">Grading</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/homework/">Homework info</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/lexicon/">Lexicon</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/background/obligations/">Student Obligations</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/welcome/">Welcome</a>
-	</li>
-	
-	
-
-	
-	<li>
-		<a href="/cosi235a/lectures/getting_out_of_building/">title</a>
-	</li>
-	
-	
-
-</ul></ul></ul></ul>
-
-
+        </div>
+      </div>
     </div>
   </body>
 </html>
-;T;	I"!## Lexicon
+;T;	I"I## Lexicon
 
-* Crowdsourcing:;T;
-I"I<h2 id="lexicon">Lexicon</h2>
+* Crowdsourcing: 
+* Agile Software Development:
+* Scrum:;T;
+I"~<h2 id="lexicon">Lexicon</h2>
 
 <ul>
-  <li>Crowdsourcing:</li>
+  <li>Crowdsourcing: </li>
+  <li>Agile Software Development:</li>
+  <li>Scrum:</li>
 </ul>
-;T;@>:versioni
+;T;@>I"&/cosi235a/lectures/growth_engine/;T{;{	;I"0
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <title>Growth Engine (Cosi235a)</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h2 id="titleddd">titleDDD</h2>
+
+<h4 id="homework-due-for-today">Homework due for today</h4>
+
+<ol>
+  <li><strong>hw1</strong></li>
+  <li><strong>hw2</strong></li>
+</ol>
+
+<h4 id="topics">Topics</h4>
+
+<ul>
+  <li>Topic 1</li>
+</ul>
+
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
+
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
+
+          <h5>Background</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
+
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+;T;	I"\## titleDDD
+
+#### Homework due for today
+
+1. **hw1**
+1. **hw2**
+
+#### Topics
+
+* Topic 1;T;
+I"Â<h2 id="titleddd">titleDDD</h2>
+
+<h4 id="homework-due-for-today">Homework due for today</h4>
+
+<ol>
+  <li><strong>hw1</strong></li>
+  <li><strong>hw2</strong></li>
+</ol>
+
+<h4 id="topics">Topics</h4>
+
+<ul>
+  <li>Topic 1</li>
+</ul>
+;T;@DI"/cosi235a/lectures/pivot/;T{;{	;I",
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <title>The Pivot (Cosi235a)</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h2 id="titleddd">titleDDD</h2>
+
+<h4 id="homework-due-for-today">Homework due for today</h4>
+
+<ol>
+  <li><strong>hw1</strong></li>
+  <li><strong>hw2</strong></li>
+</ol>
+
+<h4 id="topics">Topics</h4>
+
+<ul>
+  <li>Topic 1</li>
+</ul>
+
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
+
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
+
+          <h5>Background</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
+
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+;T;	I"\## titleDDD
+
+#### Homework due for today
+
+1. **hw1**
+1. **hw2**
+
+#### Topics
+
+* Topic 1;T;
+I"Â<h2 id="titleddd">titleDDD</h2>
+
+<h4 id="homework-due-for-today">Homework due for today</h4>
+
+<ol>
+  <li><strong>hw1</strong></li>
+  <li><strong>hw2</strong></li>
+</ol>
+
+<h4 id="topics">Topics</h4>
+
+<ul>
+  <li>Topic 1</li>
+</ul>
+;T;@JI"%/cosi235a/lectures/prod_mkt_fit/;T{;{	;I"I
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <title>Product/Market Fit (Cosi235a)</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h2 id="product-market-fit">Product Market Fit</h2>
+
+<h4 id="homework-due-for-today">Homework due for today</h4>
+
+<ol>
+  <li><strong>hw1</strong></li>
+  <li><strong>hw2</strong></li>
+</ol>
+
+<h4 id="topics">Topics</h4>
+
+<ul>
+  <li>Topic 1</li>
+</ul>
+
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
+
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
+
+          <h5>Background</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
+
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+;T;	I"f## Product Market Fit
+
+#### Homework due for today
+
+1. **hw1**
+1. **hw2**
+
+#### Topics
+
+* Topic 1;T;
+I"˘<h2 id="product-market-fit">Product Market Fit</h2>
+
+<h4 id="homework-due-for-today">Homework due for today</h4>
+
+<ol>
+  <li><strong>hw1</strong></li>
+  <li><strong>hw2</strong></li>
+</ol>
+
+<h4 id="topics">Topics</h4>
+
+<ul>
+  <li>Topic 1</li>
+</ul>
+;T;@PI"+/cosi235a/topics/lsm_validation_board/;T{;{	;I"¯
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <title>LSM Validation Board (Cosi235a)</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Cosi 235a - IT Entrepreneurship</a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span7">
+          <h3 id="lean-startup-machines-validation-board">Lean Startup Machine‚Äôs Validation Board</h3>
+<ul>
+  <li>LSM puts on weekend lean startup trainings
+    <ul>
+      <li>Their Validation Board is one of many tools</li>
+      <li>Let‚Äôs see how we can use it for tracking our assumptions</li>
+      <li>Get one for yourself (Validation Board)(http://www.leanstartupmachine.com/validationboard/)</li>
+    </ul>
+  </li>
+</ul>
+
+        </div>
+        <div class="offset1 span3">
+          
+          <h5>Intro</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/course_intro/">Course Intro</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/high_level_overview/">Term Overview</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/detailed_schedule/">Detailed Schedule</a>
+		</li>
+	
+</ul>
+
+          <h5>Lectures</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/lectures/welcome/">Welcome</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/lean_startup/">Introduction to Lean Startup</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/hypotheses/">Hypotheses, Leap of faith and others</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/getting_out_of_building/">Getting Out of the Building</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/mvp/">MVP</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/pivot/">The Pivot</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/growth_engine/">Growth Engine</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/lectures/prod_mkt_fit/">Product/Market Fit</a>
+		</li>
+	
+</ul>
+
+          <h5>Background</h5>
+<ul>
+	
+		<li>
+			<a href="/cosi235a/background/grading/">Grading</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/pilot_project_vision/">Pilot Project Vision</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/homework/">Homework info</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/lexicon/">Lexicon</a>
+		</li>
+	
+		<li>
+			<a href="/cosi235a/background/obligations/">Student Obligations</a>
+		</li>
+	
+</ul>
+
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+;T;	I""### Lean Startup Machine's Validation Board
+* LSM puts on weekend lean startup trainings
+	* Their Validation Board is one of many tools
+	* Let's see how we can use it for tracking our assumptions
+	* Get one for yourself (Validation Board)(http://www.leanstartupmachine.com/validationboard/);T;
+I"¶<h3 id="lean-startup-machines-validation-board">Lean Startup Machine‚Äôs Validation Board</h3>
+<ul>
+  <li>LSM puts on weekend lean startup trainings
+    <ul>
+      <li>Their Validation Board is one of many tools</li>
+      <li>Let‚Äôs see how we can use it for tracking our assumptions</li>
+      <li>Get one for yourself (Validation Board)(http://www.leanstartupmachine.com/validationboard/)</li>
+    </ul>
+  </li>
+</ul>
+;T;@V:versioni

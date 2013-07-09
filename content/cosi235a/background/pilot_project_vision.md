@@ -1,7 +1,7 @@
 ---
 title: Pilot Project Vision
 section: background
-status: hidden
+order: 1
 ---
 
 ## Vision for "Pilot Project"

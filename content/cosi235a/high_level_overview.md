@@ -1,6 +1,7 @@
 ---
 title: Term Overview
 section: intro
+order: 2
 ---
 
 ### High Level Overview

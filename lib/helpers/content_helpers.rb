@@ -30,4 +30,8 @@ module ContentHelpers
         end
         the_item[0]
     end
+
+    def toc_link_to item
+        link_to item.attributes[:title], item
+    end
 end

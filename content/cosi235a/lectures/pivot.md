@@ -1,11 +1,10 @@
 ---
-title: title
+title: The Pivot
 section: lectures
-status: hidden
-order: 999
+order: 6
 ---
 
-## title
+## titleDDD
 
 #### Homework due for today
 
