@@ -25,7 +25,6 @@ compile '*' do
     filter :erb
   end
   layout 'course'
-#  log_item_info
 end
 
 route '/css/stylesheet/' do

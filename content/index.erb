@@ -1,18 +1,5 @@
 ---
-title: Course List (index.erb)
-role: root
+title: Welcome to IT Entrepreneurship
 ---
-<ul>
-	<% items.each do |item| %>
-	<li>
-	<%= link_to(item.attributes[:title], item.identifier) %>
-		<ul>
-			<li><%= item.identifier %></li>
-			<li><%= item.attributes %></li>
-			<li>Parent: <%= item.parent.identifier unless item.parent.nil? %></li>
-			<li>Children: <%= item.children.map { |x| x.identifier} %> </li>
-		</ul>
 
-	</li>
-	<% end %>
-</ul>
+Awesome!

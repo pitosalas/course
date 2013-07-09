@@ -1,117 +1,16 @@
-{:	data{I"/:ET{:default{	:	lastI"k<!DOCTYPE HTML>
+{:	data{I"/:ET{:default{	:	lastI"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Course List (index.erb)</title>
-    <link rel="stylesheet" href="/style.css">
+    <title>IT Entrepreneurship - Welcome to IT Entrepreneurship</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
     <div id="main">
-      <ul>
-	
-	<li>
-	<a href="/cosi123/homework/">Homework info (homework.md)</a>
-		<ul>
-			<li>/cosi123/homework/</li>
-			<li>{:filename=>"content/cosi123/homework.md", :content_filename=>"content/cosi123/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/homework.md>, :title=>"Homework info (homework.md)", :mtime=>2013-06-30 10:40:54 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
-		<ul>
-			<li>/cosi123/intro123/</li>
-			<li>{:filename=>"content/cosi123/intro123.md", :content_filename=>"content/cosi123/intro123.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/intro123.md>, :title=>"Intro to cosi 123 (intro123.html)", :role=>"course", :mtime=>2013-06-30 10:37:11 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/lectures/">index of lecture (index.html)</a>
-		<ul>
-			<li>/cosi123/lectures/</li>
-			<li>{:filename=>"content/cosi123/lectures/index.html", :content_filename=>"content/cosi123/lectures/index.html", :meta_filename=>nil, :extension=>"html", :file=>#<File:content/cosi123/lectures/index.html>, :title=>"index of lecture (index.html)", :mtime=>2013-06-30 10:47:33 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: ["/cosi123/lectures/tm001/", "/cosi123/lectures/tm002/", "/cosi123/lectures/tm003/", "/cosi123/lectures/tm004/"] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
-		<ul>
-			<li>/cosi123/lectures/tm001/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm001.md", :content_filename=>"content/cosi123/lectures/tm001.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm001.md>, :title=>"Lecture 1 (tm001.md)", :mtime=>2013-06-30 10:34:42 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
-		<ul>
-			<li>/cosi123/lectures/tm002/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm002.md", :content_filename=>"content/cosi123/lectures/tm002.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm002.md>, :title=>"Lecture 2 (tm002.md)", :mtime=>2013-06-30 10:34:51 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
-		<ul>
-			<li>/cosi123/lectures/tm003/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm003.md", :content_filename=>"content/cosi123/lectures/tm003.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm003.md>, :title=>"Lecture 3 (tm003.md)", :mtime=>2013-06-30 10:35:00 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
-		<ul>
-			<li>/cosi123/lectures/tm004/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm004.md", :content_filename=>"content/cosi123/lectures/tm004.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm004.md>, :title=>"Lecture 4 (tm004)", :mtime=>2013-06-30 10:35:12 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/css/stylesheet/"></a>
-		<ul>
-			<li>/css/stylesheet/</li>
-			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-06-28 20:33:02 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/">Course List (index.erb)</a>
-		<ul>
-			<li>/</li>
-			<li>{:filename=>"content/index.erb", :content_filename=>"content/index.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/index.erb>, :title=>"Course List (index.erb)", :role=>"root", :mtime=>2013-06-30 10:56:59 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-</ul>
+      Awesome!
     <p>Tags: (none)</p>
 
     </div>
@@ -121,14 +20,35 @@
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Welcome to IT Entrepreneurship</a>
 	</li>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
 	</li>
 	
 	
@@ -175,127 +95,27 @@
 	
 	
 
-</ul></ul></ul></ul>
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
 
 
     </div>
   </body>
 </html>
-;T:rawI"\<ul>
-	<% items.each do |item| %>
-	<li>
-	<%= link_to(item.attributes[:title], item.identifier) %>
-		<ul>
-			<li><%= item.identifier %></li>
-			<li><%= item.attributes %></li>
-			<li>Parent: <%= item.parent.identifier unless item.parent.nil? %></li>
-			<li>Children: <%= item.children.map { |x| x.identifier} %> </li>
-		</ul>
-
-	</li>
-	<% end %>
-</ul>;T:preI"<ul>
-	
-	<li>
-	<a href="/cosi123/homework/">Homework info (homework.md)</a>
-		<ul>
-			<li>/cosi123/homework/</li>
-			<li>{:filename=>"content/cosi123/homework.md", :content_filename=>"content/cosi123/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/homework.md>, :title=>"Homework info (homework.md)", :mtime=>2013-06-30 10:40:54 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
-		<ul>
-			<li>/cosi123/intro123/</li>
-			<li>{:filename=>"content/cosi123/intro123.md", :content_filename=>"content/cosi123/intro123.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/intro123.md>, :title=>"Intro to cosi 123 (intro123.html)", :role=>"course", :mtime=>2013-06-30 10:37:11 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/lectures/">index of lecture (index.html)</a>
-		<ul>
-			<li>/cosi123/lectures/</li>
-			<li>{:filename=>"content/cosi123/lectures/index.html", :content_filename=>"content/cosi123/lectures/index.html", :meta_filename=>nil, :extension=>"html", :file=>#<File:content/cosi123/lectures/index.html>, :title=>"index of lecture (index.html)", :mtime=>2013-06-30 10:47:33 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: ["/cosi123/lectures/tm001/", "/cosi123/lectures/tm002/", "/cosi123/lectures/tm003/", "/cosi123/lectures/tm004/"] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
-		<ul>
-			<li>/cosi123/lectures/tm001/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm001.md", :content_filename=>"content/cosi123/lectures/tm001.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm001.md>, :title=>"Lecture 1 (tm001.md)", :mtime=>2013-06-30 10:34:42 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
-		<ul>
-			<li>/cosi123/lectures/tm002/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm002.md", :content_filename=>"content/cosi123/lectures/tm002.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm002.md>, :title=>"Lecture 2 (tm002.md)", :mtime=>2013-06-30 10:34:51 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
-		<ul>
-			<li>/cosi123/lectures/tm003/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm003.md", :content_filename=>"content/cosi123/lectures/tm003.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm003.md>, :title=>"Lecture 3 (tm003.md)", :mtime=>2013-06-30 10:35:00 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
-		<ul>
-			<li>/cosi123/lectures/tm004/</li>
-			<li>{:filename=>"content/cosi123/lectures/tm004.md", :content_filename=>"content/cosi123/lectures/tm004.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm004.md>, :title=>"Lecture 4 (tm004)", :mtime=>2013-06-30 10:35:12 -0400}</li>
-			<li>Parent: /cosi123/lectures/</li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/css/stylesheet/"></a>
-		<ul>
-			<li>/css/stylesheet/</li>
-			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-06-28 20:33:02 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-	<li>
-	<a href="/">Course List (index.erb)</a>
-		<ul>
-			<li>/</li>
-			<li>{:filename=>"content/index.erb", :content_filename=>"content/index.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/index.erb>, :title=>"Course List (index.erb)", :role=>"root", :mtime=>2013-06-30 10:56:59 -0400}</li>
-			<li>Parent: </li>
-			<li>Children: [] </li>
-		</ul>
-
-	</li>
-	
-</ul>;T:	post@
+;T:rawI"Awesome!;T:preI"Awesome!;T:	post@
 I"/stylesheet/;T{;{	;I"ú<!DOCTYPE HTML>
 <html lang="en">
   <head>
@@ -657,12 +477,12 @@ the quick brown fox
 ### Three
 
 #### Four;T;
-@;@I"/cosi123/intro123/;T{;{	;I"ß<!DOCTYPE HTML>
+@;@I"/cosi123/intro123/;T{;{	;I"!<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Intro to cosi 123 (intro123.html)</title>
-    <link rel="stylesheet" href="/style.css">
+    <title>IT Entrepreneurship - Intro to cosi 123 (intro123.html)</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
@@ -680,14 +500,35 @@ the quick brown fox
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Welcome to IT Entrepreneurship</a>
 	</li>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
 	</li>
 	
 	
@@ -734,7 +575,21 @@ the quick brown fox
 	
 	
 
-</ul></ul></ul></ul>
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
 
 
     </div>
@@ -1042,12 +897,12 @@ This is such an awesome course I can't believe it!;T;
 I"`<h3 id="welcome">Welcome</h3>
 
 <p>This is such an awesome course I can‚Äôt believe it!</p>
-;T;@2I"/cosi123/lectures/tm001/;T{;{	;I"”<!DOCTYPE HTML>
+;T;@2I"/cosi123/lectures/tm001/;T{;{	;I"M<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Lecture 1 (tm001.md)</title>
-    <link rel="stylesheet" href="/style.css">
+    <title>IT Entrepreneurship - Lecture 1 (tm001.md)</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
@@ -1067,14 +922,35 @@ I"`<h3 id="welcome">Welcome</h3>
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Welcome to IT Entrepreneurship</a>
 	</li>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
 	</li>
 	
 	
@@ -1121,7 +997,21 @@ I"`<h3 id="welcome">Welcome</h3>
 	
 	
 
-</ul></ul></ul></ul>
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
 
 
     </div>
@@ -1134,12 +1024,12 @@ This is such an awesome course I can't believe it!;T;
 I"`<h1 id="welcome">Welcome</h1>
 
 <p>This is such an awesome course I can‚Äôt believe it!</p>
-;T;@8I"/cosi123/lectures/tm002/;T{;{	;I"b<!DOCTYPE HTML>
+;T;@8I"/cosi123/lectures/tm002/;T{;{	;I"‹<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Lecture 2 (tm002.md)</title>
-    <link rel="stylesheet" href="/style.css">
+    <title>IT Entrepreneurship - Lecture 2 (tm002.md)</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
@@ -1163,14 +1053,35 @@ I"`<h1 id="welcome">Welcome</h1>
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Welcome to IT Entrepreneurship</a>
 	</li>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
 	</li>
 	
 	
@@ -1217,7 +1128,21 @@ I"`<h1 id="welcome">Welcome</h1>
 	
 	
 
-</ul></ul></ul></ul>
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
 
 
     </div>
@@ -1236,12 +1161,12 @@ I"Í<h2 id="welcome">Welcome</h2>
   <li>This is such an awesome course I can‚Äôt believe it!</li>
   <li>This is such an awesome course I can‚Äôt believe it!</li>
 </ul>
-;T;@>I"/cosi123/lectures/tm003/;T{;{	;I"”<!DOCTYPE HTML>
+;T;@>I"/cosi123/lectures/tm003/;T{;{	;I"M<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Lecture 3 (tm003.md)</title>
-    <link rel="stylesheet" href="/style.css">
+    <title>IT Entrepreneurship - Lecture 3 (tm003.md)</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
@@ -1261,14 +1186,35 @@ I"Í<h2 id="welcome">Welcome</h2>
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Welcome to IT Entrepreneurship</a>
 	</li>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
 	</li>
 	
 	
@@ -1315,7 +1261,21 @@ I"Í<h2 id="welcome">Welcome</h2>
 	
 	
 
-</ul></ul></ul></ul>
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
 
 
     </div>
@@ -1327,12 +1287,12 @@ This is such an awesome course I can't believe it!;T;
 I"`<h1 id="welcome">Welcome</h1>
 
 <p>This is such an awesome course I can‚Äôt believe it!</p>
-;T;@DI"/cosi123/lectures/tm004/;T{;{	;I"–<!DOCTYPE HTML>
+;T;@DI"/cosi123/lectures/tm004/;T{;{	;I"J<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Lecture 4 (tm004)</title>
-    <link rel="stylesheet" href="/style.css">
+    <title>IT Entrepreneurship - Lecture 4 (tm004)</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
@@ -1352,14 +1312,35 @@ I"`<h1 id="welcome">Welcome</h1>
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Welcome to IT Entrepreneurship</a>
 	</li>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
 	</li>
 	
 	
@@ -1406,7 +1387,21 @@ I"`<h1 id="welcome">Welcome</h1>
 	
 	
 
-</ul></ul></ul></ul>
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
 
 
     </div>
@@ -1418,19 +1413,21 @@ This is such an awesome course I can't believe it!;T;
 I"`<h3 id="welcome">Welcome</h3>
 
 <p>This is such an awesome course I can‚Äôt believe it!</p>
-;T;@JI"/cosi123/homework/;T{;{	;I"°<!DOCTYPE HTML>
+;T;@JI"/cosi123/homework/;T{;{	;I"x<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - Homework info (homework.md)</title>
-    <link rel="stylesheet" href="/style.css">
+    <title>IT Entrepreneurship - Homework info</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
   </head>
   <body>
     <div id="main">
-      <p>** Introduction to COSI123</p>
+      <h2 id="introduction-to-cosi123">Introduction to COSI123</h2>
+
+<p>This is a new course, as you probably know. It is designed according t</p>
 
     <p>Tags: (none)</p>
 
@@ -1441,14 +1438,35 @@ I"`<h3 id="welcome">Welcome</h3>
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Welcome to IT Entrepreneurship</a>
 	</li>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
 	</li>
 	
 	
@@ -1495,20 +1513,38 @@ I"`<h3 id="welcome">Welcome</h3>
 	
 	
 
-</ul></ul></ul></ul>
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
 
 
     </div>
   </body>
 </html>
-;T;	I"** Introduction to COSI123;T;
-I"'<p>** Introduction to COSI123</p>
-;T;@PI"/cosi123/lectures/;T{;{	;I"¶<!DOCTYPE HTML>
+;T;	I"g## Introduction to COSI123
+
+This is a new course, as you probably know. It is designed according t;T;
+I"ç<h2 id="introduction-to-cosi123">Introduction to COSI123</h2>
+
+<p>This is a new course, as you probably know. It is designed according t</p>
+;T;@PI"/cosi123/lectures/;T{;{	;I" <!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - index of lecture (index.html)</title>
-    <link rel="stylesheet" href="/style.css">
+    <title>IT Entrepreneurship - index of lecture (index.html)</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc 3.6.4"> 
@@ -1525,14 +1561,35 @@ I"'<p>** Introduction to COSI123</p>
 
 	<ul>
 	<li>
-		<a href="/">Course List (index.erb)</a>
+		<a href="/">Welcome to IT Entrepreneurship</a>
 	</li>
 	
 	
 
-	<ul><ul><ul>
+	<ul><ul>
 	<li>
-		<a href="/cosi123/homework/">Homework info (homework.md)</a>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
 	</li>
 	
 	
@@ -1579,7 +1636,21 @@ I"'<p>** Introduction to COSI123</p>
 	
 	
 
-</ul></ul></ul></ul>
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
 
 
     </div>
@@ -1688,4 +1759,955 @@ a:hover {
   line-height: 20px;
 }
 ;T;	@[;
-@[:versioni
+@[I"/play/;T{;{	;I"∞<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>IT Entrepreneurship - Play Junk</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      {:filename=>"content/play.erb", :content_filename=>"content/play.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/play.erb>, :title=>"Play Junk", :mtime=>2013-06-30 17:41:34 -0400}
+
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Course</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Welcome to IT Entrepreneurship</a>
+	</li>
+	
+	
+
+	<ul><ul>
+	<li>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"\<%= @item.attributes %>
+
+<%= toc_for(@item, :collection_class => "nav nav-list toc") %>;T;
+I"…{:filename=>"content/play.erb", :content_filename=>"content/play.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/play.erb>, :title=>"Play Junk", :mtime=>2013-06-30 17:41:34 -0400}
+
+;T;@_I"/speakers/;T{;{	;I"Q<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>IT Entrepreneurship - Speakers</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h3 id="speakers">Speakers</h3>
+
+<ul>
+  <li>Patrick Campbell <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#112;&#097;&#116;&#114;&#105;&#099;&#107;&#064;&#112;&#114;&#105;&#099;&#101;&#105;&#110;&#116;&#101;&#108;&#108;&#105;&#103;&#101;&#110;&#116;&#108;&#121;&#046;&#099;&#111;&#109;">&#112;&#097;&#116;&#114;&#105;&#099;&#107;&#064;&#112;&#114;&#105;&#099;&#101;&#105;&#110;&#116;&#101;&#108;&#108;&#105;&#103;&#101;&#110;&#116;&#108;&#121;&#046;&#099;&#111;&#109;</a></li>
+</ul>
+
+    <p>Tags: <a href="http://technorati.com/tag/speakers" rel="tag">speakers</a>, <a href="http://technorati.com/tag/background" rel="tag">background</a></p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Course</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Welcome to IT Entrepreneurship</a>
+	</li>
+	
+	
+
+	<ul><ul>
+	<li>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"F### Speakers
+
+* Patrick Campbell <patrick@priceintelligently.com>;T;
+I"Â<h3 id="speakers">Speakers</h3>
+
+<ul>
+  <li>Patrick Campbell <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#112;&#097;&#116;&#114;&#105;&#099;&#107;&#064;&#112;&#114;&#105;&#099;&#101;&#105;&#110;&#116;&#101;&#108;&#108;&#105;&#103;&#101;&#110;&#116;&#108;&#121;&#046;&#099;&#111;&#109;">&#112;&#097;&#116;&#114;&#105;&#099;&#107;&#064;&#112;&#114;&#105;&#099;&#101;&#105;&#110;&#116;&#101;&#108;&#108;&#105;&#103;&#101;&#110;&#116;&#108;&#121;&#046;&#099;&#111;&#109;</a></li>
+</ul>
+;T;@eI"/debug/;T{;{	;I"<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>IT Entrepreneurship - Debug</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <ul>
+	
+	<li>
+	<a href="/cosi123/homework/">Homework info</a>
+		<ul>
+			<li>/cosi123/homework/</li>
+			<li>{:filename=>"content/cosi123/homework.md", :content_filename=>"content/cosi123/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/homework.md>, :title=>"Homework info", :mtime=>2013-06-30 23:14:04 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+		<ul>
+			<li>/cosi123/intro123/</li>
+			<li>{:filename=>"content/cosi123/intro123.md", :content_filename=>"content/cosi123/intro123.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/intro123.md>, :title=>"Intro to cosi 123 (intro123.html)", :role=>"course", :mtime=>2013-06-30 10:37:11 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+		<ul>
+			<li>/cosi123/lectures/</li>
+			<li>{:filename=>"content/cosi123/lectures/index.html", :content_filename=>"content/cosi123/lectures/index.html", :meta_filename=>nil, :extension=>"html", :file=>#<File:content/cosi123/lectures/index.html>, :title=>"index of lecture (index.html)", :mtime=>2013-06-30 10:47:33 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: ["/cosi123/lectures/tm001/", "/cosi123/lectures/tm002/", "/cosi123/lectures/tm003/", "/cosi123/lectures/tm004/"] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+		<ul>
+			<li>/cosi123/lectures/lecture1/tm998/</li>
+			<li>{:filename=>"content/cosi123/lectures/lecture1/tm998.md", :content_filename=>"content/cosi123/lectures/lecture1/tm998.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/lecture1/tm998.md>, :title=>"Lecture 998 (lecture1/tm001.md)", :mtime=>2013-07-01 09:37:07 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+		<ul>
+			<li>/cosi123/lectures/lecture1/tm999/</li>
+			<li>{:filename=>"content/cosi123/lectures/lecture1/tm999.md", :content_filename=>"content/cosi123/lectures/lecture1/tm999.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/lecture1/tm999.md>, :title=>"Lecture 999 (lecture1/tm999.md)", :mtime=>2013-07-01 09:37:23 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+		<ul>
+			<li>/cosi123/lectures/tm001/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm001.md", :content_filename=>"content/cosi123/lectures/tm001.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm001.md>, :title=>"Lecture 1 (tm001.md)", :mtime=>2013-06-30 10:34:42 -0400}</li>
+			<li>Parent: /cosi123/lectures/</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+		<ul>
+			<li>/cosi123/lectures/tm002/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm002.md", :content_filename=>"content/cosi123/lectures/tm002.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm002.md>, :title=>"Lecture 2 (tm002.md)", :mtime=>2013-06-30 10:34:51 -0400}</li>
+			<li>Parent: /cosi123/lectures/</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+		<ul>
+			<li>/cosi123/lectures/tm003/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm003.md", :content_filename=>"content/cosi123/lectures/tm003.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm003.md>, :title=>"Lecture 3 (tm003.md)", :mtime=>2013-06-30 10:35:00 -0400}</li>
+			<li>Parent: /cosi123/lectures/</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+		<ul>
+			<li>/cosi123/lectures/tm004/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm004.md", :content_filename=>"content/cosi123/lectures/tm004.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm004.md>, :title=>"Lecture 4 (tm004)", :mtime=>2013-06-30 10:35:12 -0400}</li>
+			<li>Parent: /cosi123/lectures/</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/css/stylesheet/"></a>
+		<ul>
+			<li>/css/stylesheet/</li>
+			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-06-28 20:33:02 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/debug/">Debug</a>
+		<ul>
+			<li>/debug/</li>
+			<li>{:filename=>"content/debug.erb", :content_filename=>"content/debug.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/debug.erb>, :title=>"Debug", :mtime=>2013-06-30 17:45:49 -0400}</li>
+			<li>Parent: /</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/">Welcome to IT Entrepreneurship</a>
+		<ul>
+			<li>/</li>
+			<li>{:filename=>"content/index.erb", :content_filename=>"content/index.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/index.erb>, :title=>"Welcome to IT Entrepreneurship", :mtime=>2013-06-30 17:46:52 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: ["/debug/", "/play/", "/speakers/"] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/play/">Play Junk</a>
+		<ul>
+			<li>/play/</li>
+			<li>{:filename=>"content/play.erb", :content_filename=>"content/play.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/play.erb>, :title=>"Play Junk", :mtime=>2013-06-30 17:41:34 -0400}</li>
+			<li>Parent: /</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/speakers/">Speakers</a>
+		<ul>
+			<li>/speakers/</li>
+			<li>{:filename=>"content/speakers.md", :content_filename=>"content/speakers.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/speakers.md>, :title=>"Speakers", :tags=>["speakers", "background"], :mtime=>2013-06-30 23:12:48 -0400}</li>
+			<li>Parent: /</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+</ul>
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Course</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Welcome to IT Entrepreneurship</a>
+	</li>
+	
+	
+
+	<ul><ul>
+	<li>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"\<ul>
+	<% items.each do |item| %>
+	<li>
+	<%= link_to(item.attributes[:title], item.identifier) %>
+		<ul>
+			<li><%= item.identifier %></li>
+			<li><%= item.attributes %></li>
+			<li>Parent: <%= item.parent.identifier unless item.parent.nil? %></li>
+			<li>Children: <%= item.children.map { |x| x.identifier} %> </li>
+		</ul>
+
+	</li>
+	<% end %>
+</ul>;T;
+I",<ul>
+	
+	<li>
+	<a href="/cosi123/homework/">Homework info</a>
+		<ul>
+			<li>/cosi123/homework/</li>
+			<li>{:filename=>"content/cosi123/homework.md", :content_filename=>"content/cosi123/homework.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/homework.md>, :title=>"Homework info", :mtime=>2013-06-30 23:14:04 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+		<ul>
+			<li>/cosi123/intro123/</li>
+			<li>{:filename=>"content/cosi123/intro123.md", :content_filename=>"content/cosi123/intro123.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/intro123.md>, :title=>"Intro to cosi 123 (intro123.html)", :role=>"course", :mtime=>2013-06-30 10:37:11 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+		<ul>
+			<li>/cosi123/lectures/</li>
+			<li>{:filename=>"content/cosi123/lectures/index.html", :content_filename=>"content/cosi123/lectures/index.html", :meta_filename=>nil, :extension=>"html", :file=>#<File:content/cosi123/lectures/index.html>, :title=>"index of lecture (index.html)", :mtime=>2013-06-30 10:47:33 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: ["/cosi123/lectures/tm001/", "/cosi123/lectures/tm002/", "/cosi123/lectures/tm003/", "/cosi123/lectures/tm004/"] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+		<ul>
+			<li>/cosi123/lectures/lecture1/tm998/</li>
+			<li>{:filename=>"content/cosi123/lectures/lecture1/tm998.md", :content_filename=>"content/cosi123/lectures/lecture1/tm998.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/lecture1/tm998.md>, :title=>"Lecture 998 (lecture1/tm001.md)", :mtime=>2013-07-01 09:37:07 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+		<ul>
+			<li>/cosi123/lectures/lecture1/tm999/</li>
+			<li>{:filename=>"content/cosi123/lectures/lecture1/tm999.md", :content_filename=>"content/cosi123/lectures/lecture1/tm999.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/lecture1/tm999.md>, :title=>"Lecture 999 (lecture1/tm999.md)", :mtime=>2013-07-01 09:37:23 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+		<ul>
+			<li>/cosi123/lectures/tm001/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm001.md", :content_filename=>"content/cosi123/lectures/tm001.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm001.md>, :title=>"Lecture 1 (tm001.md)", :mtime=>2013-06-30 10:34:42 -0400}</li>
+			<li>Parent: /cosi123/lectures/</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+		<ul>
+			<li>/cosi123/lectures/tm002/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm002.md", :content_filename=>"content/cosi123/lectures/tm002.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm002.md>, :title=>"Lecture 2 (tm002.md)", :mtime=>2013-06-30 10:34:51 -0400}</li>
+			<li>Parent: /cosi123/lectures/</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+		<ul>
+			<li>/cosi123/lectures/tm003/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm003.md", :content_filename=>"content/cosi123/lectures/tm003.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm003.md>, :title=>"Lecture 3 (tm003.md)", :mtime=>2013-06-30 10:35:00 -0400}</li>
+			<li>Parent: /cosi123/lectures/</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+		<ul>
+			<li>/cosi123/lectures/tm004/</li>
+			<li>{:filename=>"content/cosi123/lectures/tm004.md", :content_filename=>"content/cosi123/lectures/tm004.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/cosi123/lectures/tm004.md>, :title=>"Lecture 4 (tm004)", :mtime=>2013-06-30 10:35:12 -0400}</li>
+			<li>Parent: /cosi123/lectures/</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/css/stylesheet/"></a>
+		<ul>
+			<li>/css/stylesheet/</li>
+			<li>{:filename=>"content/css/stylesheet.css", :content_filename=>"content/css/stylesheet.css", :meta_filename=>nil, :extension=>"css", :file=>#<File:content/css/stylesheet.css>, :mtime=>2013-06-28 20:33:02 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/debug/">Debug</a>
+		<ul>
+			<li>/debug/</li>
+			<li>{:filename=>"content/debug.erb", :content_filename=>"content/debug.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/debug.erb>, :title=>"Debug", :mtime=>2013-06-30 17:45:49 -0400}</li>
+			<li>Parent: /</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/">Welcome to IT Entrepreneurship</a>
+		<ul>
+			<li>/</li>
+			<li>{:filename=>"content/index.erb", :content_filename=>"content/index.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/index.erb>, :title=>"Welcome to IT Entrepreneurship", :mtime=>2013-06-30 17:46:52 -0400}</li>
+			<li>Parent: </li>
+			<li>Children: ["/debug/", "/play/", "/speakers/"] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/play/">Play Junk</a>
+		<ul>
+			<li>/play/</li>
+			<li>{:filename=>"content/play.erb", :content_filename=>"content/play.erb", :meta_filename=>nil, :extension=>"erb", :file=>#<File:content/play.erb>, :title=>"Play Junk", :mtime=>2013-06-30 17:41:34 -0400}</li>
+			<li>Parent: /</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+	<li>
+	<a href="/speakers/">Speakers</a>
+		<ul>
+			<li>/speakers/</li>
+			<li>{:filename=>"content/speakers.md", :content_filename=>"content/speakers.md", :meta_filename=>nil, :extension=>"md", :file=>#<File:content/speakers.md>, :title=>"Speakers", :tags=>["speakers", "background"], :mtime=>2013-06-30 23:12:48 -0400}</li>
+			<li>Parent: /</li>
+			<li>Children: [] </li>
+		</ul>
+
+	</li>
+	
+</ul>;T;@kI"&/cosi123/lectures/lecture1/tm998/;T{;{	;I"X<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>IT Entrepreneurship - Lecture 998 (lecture1/tm001.md)</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h1 id="welcome">Welcome</h1>
+
+<p>This is such an awesome course I can‚Äôt believe it!</p>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Course</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Welcome to IT Entrepreneurship</a>
+	</li>
+	
+	
+
+	<ul><ul>
+	<li>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"HWelcome
+=======
+
+This is such an awesome course I can't believe it!;T;
+I"`<h1 id="welcome">Welcome</h1>
+
+<p>This is such an awesome course I can‚Äôt believe it!</p>
+;T;@qI"&/cosi123/lectures/lecture1/tm999/;T{;{	;I"X<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>IT Entrepreneurship - Lecture 999 (lecture1/tm999.md)</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      <h1 id="welcome">Welcome</h1>
+
+<p>This is such an awesome course I can‚Äôt believe it!</p>
+
+    <p>Tags: (none)</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Course</h2>
+
+
+	<ul>
+	<li>
+		<a href="/">Welcome to IT Entrepreneurship</a>
+	</li>
+	
+	
+
+	<ul><ul>
+	<li>
+		<a href="/debug/">Debug</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/play/">Play Junk</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/speakers/">Speakers</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/homework/">Homework info</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/intro123/">Intro to cosi 123 (intro123.html)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/">index of lecture (index.html)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/tm001/">Lecture 1 (tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm002/">Lecture 2 (tm002.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm003/">Lecture 3 (tm003.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/tm004/">Lecture 4 (tm004)</a>
+	</li>
+	
+	
+
+	<ul>
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm998/">Lecture 998 (lecture1/tm001.md)</a>
+	</li>
+	
+	
+
+	
+	<li>
+		<a href="/cosi123/lectures/lecture1/tm999/">Lecture 999 (lecture1/tm999.md)</a>
+	</li>
+	
+	
+
+</ul></ul></ul></ul></ul>
+
+
+    </div>
+  </body>
+</html>
+;T;	I"HWelcome
+=======
+
+This is such an awesome course I can't believe it!;T;
+I"`<h1 id="welcome">Welcome</h1>
+
+<p>This is such an awesome course I can‚Äôt believe it!</p>
+;T;@w:versioni
