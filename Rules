@@ -13,8 +13,8 @@
 #   item, use the pattern “/about/*/”; “/about/*” will also select the parent,
 #   because “*” matches zero or more characters.
 
-compile '/css/stylesheet/' do
-  # don’t filter or layout
+compile '/bootstrap/*' do
+  nil
 end
 
 
@@ -31,18 +31,9 @@ compile '*' do
   layout 'course'
 end
 
-route '/css/stylesheet' do
-  '/css/stylesheet.css'
-end
-
 route '/bootstrap/*' do
   @item.identifier.chop + '.' + @item[:extension]
 end
-
-
-#route '/*/topics/*' do
-#   nil
-# end
 
 route '*' do
   if item.binary?
