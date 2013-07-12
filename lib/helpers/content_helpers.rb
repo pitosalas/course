@@ -11,9 +11,13 @@ module ContentHelpers
         link_to_generic item_symbol, :background
     end
 
+    def link_to_intro item_symbol
+        link_to_generic item_symbol, :background
+    end
+
     def link_to_generic item_symbol, section_symbol
         the_item = symbol_to_item item_symbol, section_symbol
-		link_to(the_item.attributes[:title], the_item.identifier)
+		link_to_unless_current(the_item.attributes[:title], the_item.identifier)
     end
 
     def incorporate_topic item_symbol
@@ -32,6 +36,6 @@ module ContentHelpers
     end
 
     def toc_link_to item
-        link_to item.attributes[:title], item
+        link_to_unless_current item.attributes[:title], item
     end
 end

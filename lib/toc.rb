@@ -1,49 +1,39 @@
 class Toc
-	ItemInfo = Struct.new(:item, :depth, :start_block, :end_block, :block_change)
 	include Enumerable
 
 	def initialize items
-		build_toc items
+		@tocs = {}
+		%i(topics intro background lectures).each { |section| @tocs[section] = build_section_toc(section, items) }
 	end
 
-	def build_toc items
-		@toc = items.map{ |i| ItemInfo.new(i, 0) }
-		@toc.delete_if { |info| %w(css min.css js min.js png).include? info.item.attributes[:extension] }
-		@toc.delete_if { |info| info.item.attributes[:status] ==  "hidden" }
-		@toc.delete_if { |info| info.item.attributes[:section] == "topics" }
-
-		@toc.each { |info| info.depth = info.item.identifier.split("/").count}
-		@toc.sort! do |a,b|
-			res = a.depth <=> b.depth
-			# Catch badly formatted content.
-			if a.item.nil? || b.item.nil? || a.item.attributes[:title].class != String || b.item.attributes[:title].class != String
-				binding.pry
-			else
-				res == 0 ? a.item.attributes[:title] <=> b.item.attributes[:title] : res
-			end
+	def build_section_toc section, items
+		section_toc = items.find_all do |item|
+			item.attributes[:section] == section.to_s && !exclude_from_toc?(item)
 		end
-
-		depth = -1
-		@toc.each do |info|
-			info.start_block = (info.depth > depth)
-			info.end_block = (info.depth < depth)
-			info.block_change = (info.depth - depth)
-			depth = info.depth
-		end
+ 		section_toc.sort { |a,b| a.attributes[:order] <=> b.attributes[:order] }
 	end
 
-  def each(&block)
-    @toc.each do |member|
-      block.call(member)
-    end
+	def exclude_from_toc? item
+		item.attributes[:status] == "hidden" || %w(css min.css js png).include?(item.attributes[:extension])
+	end
+
+  def each_by(section, &block)
+  	sub_toc = @tocs[section]
+ 		sub_toc.each do |member|
+	 		block.call(member)
+	 	end
   end
 
-  def each_by(type, &block)
-  	sub_toc = @toc.reject { |info| info.item.attributes[:section] != type.to_s}
- 		sub_toc = sub_toc.sort { |a,b| a.item.attributes[:order] <=> b.item.attributes[:order]}
- 		sub_toc.each do |member|
- 		block.call(member)
- 	end
+  def find_next_for(item)
+  	sub_toc = @tocs[item.attributes[:section].to_sym]
+  	index = sub_toc.find_index(item)
+  	sub_toc[index == sub_toc.length - 1 ? index : index + 1]
+  end
+
+  def find_previous_for(item)
+  	sub_toc = @tocs[item.attributes[:section].to_sym]
+  	index = sub_toc.find_index(item)
+		sub_toc[index == 0 ? 0 : index - 1]
   end
 end
 

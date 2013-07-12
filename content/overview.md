@@ -1,5 +1,5 @@
 ---
-title: Course Intro
+title: Course Overview
 section: intro
 order: 1
 ---

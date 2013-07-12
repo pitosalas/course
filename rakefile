@@ -2,7 +2,7 @@
 
 AWS_BUCKET = "cosi235a.courses.salas.com"
 
-desc "Deploy the website to AWS. Use 'go=1' to do a dry-run."
+desc "Deploy the website to AWS, Use 'go=1' to do a dry-run."
 task :deploy do
 	sh "s3cmd sync --delete-removed output/ s3://#{AWS_BUCKET}/" + (ENV["go"] ? "" : " --dry-run")
 end

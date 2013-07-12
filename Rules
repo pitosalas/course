@@ -19,16 +19,20 @@ end
 
 
 compile '*' do
-  item[:extension].split('.').reverse.each do 
-    |f|
-    case f
-    when 'md', 'markdown'
-      filter :kramdown
-    when 'erb'
-      filter :erb
+  if item[:status] == "hidden"
+    nil
+  else
+    item[:extension].split('.').reverse.each do 
+      |f|
+      case f
+      when 'md', 'markdown'
+        filter :kramdown
+      when 'erb'
+        filter :erb
+      end
     end
+    layout 'course'
   end
-  layout 'course'
 end
 
 route '/bootstrap/*' do
@@ -39,6 +43,8 @@ route '*' do
   if item.binary?
     # Write item with identifier /foo/ to /foo.ext
     item.identifier.chop + '.' + item[:extension]
+  elsif item.attributes[:status] == "hidden"
+    nil
   elsif item.attributes[:extension] != "css"
     # Write item with identifier /foo/ to /foo/index.html
     item.identifier + 'index.html'

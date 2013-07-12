@@ -1,11 +1,8 @@
 ---
-title: Student Obligations
+title: Student Expectations
 section: background
 order: 1
 ---
-
-#### Expectations/Obligations
-
 1. Show up: Please, arrive in class on time and prepared. 
 1. Participate: listen respectfully to others' questions, think and contribute your own ideas, ask questions when you are stuck, be a leader and set a positive example for your classmates. The same applies for online discussions within the class.
 1. Food: Please, no eating in class; drinking is ok; 

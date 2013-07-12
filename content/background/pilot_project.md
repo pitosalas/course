@@ -3,9 +3,6 @@ title: Pilot Project
 section: background
 order: 2
 ---
-
-#### "Pilot Project"
-
 For the first 5 weeks of the course we will focused on the "Lean Startup" approach to validating a vision for a project, pivoting as necessary to achieve a product-market fit. We will divide students into two(?) groups and each group will work independently to use the process on the vision for a product called "P2PTours"
 
 This vision is purposely vague and allows many different implementations and instantiations.
