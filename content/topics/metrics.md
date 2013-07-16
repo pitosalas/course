@@ -18,4 +18,3 @@ state: hidden
 		* How do I change it. What changes will affect what metrics?
 		* You can make changes, but will they matter to customers?
 	* How do you decide what metrics matter?
-
