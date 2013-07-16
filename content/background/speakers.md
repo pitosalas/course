@@ -1,6 +1,7 @@
 ---
 title: Speakers
-tags: [ 'speakers', 'background']
+section: background
+order: 9
 ---
 
 ### Speakers

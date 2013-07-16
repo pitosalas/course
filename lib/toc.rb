@@ -31,7 +31,7 @@ class Toc
   end
 
   def find_previous_for(item)
-  	sub_toc = @tocs[item.attributes[:section].to_sym]
+  	sub_toc = @tocs[item.attributes[:section].to_sym] rescue binding.pry
   	index = sub_toc.find_index(item)
 		sub_toc[index == 0 ? 0 : index - 1]
   end
