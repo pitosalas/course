@@ -21,7 +21,9 @@ module ContentHelpers
     end
 
     def incorporate_topic item_symbol
-        a = items[symbol_to_item(item_symbol, :topics).identifier].compiled_content
+        incorporated_topic = symbol_to_item(item_symbol, :topics)
+        #incorporated_topic.attributes[:found_in] = item
+        a = items[incorporated_topic.identifier].compiled_content
     end
 
     def symbol_to_item item_symbol, section_symbol

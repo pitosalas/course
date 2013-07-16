@@ -13,6 +13,11 @@
 #   item, use the pattern “/about/*/”; “/about/*” will also select the parent,
 #   because “*” matches zero or more characters.
 
+preprocess do
+  Toc.new @items
+end
+
+
 compile '/bootstrap/*' do
   nil
 end

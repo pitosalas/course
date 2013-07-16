@@ -1,9 +1,25 @@
+
 class Toc
 	include Enumerable
 
+	@singleton == nil
+
 	def initialize items
-		@tocs = {}
-		%i(topics intro background lectures).each { |section| @tocs[section] = build_section_toc(section, items) }
+		if Toc.toc.nil?
+			@tocs = {}
+			%i(topics intro background lectures).each { |section| @tocs[section] = build_section_toc(section, items) }
+			Toc.toc = self
+		end
+		raise "no singleton to be seen!" if Toc.toc.nil?
+		Toc.toc
+	end
+
+	def self.toc
+		@singleton
+	end
+
+	def self.toc=(value)
+		@singleton = value
 	end
 
 	def build_section_toc section, items
@@ -25,7 +41,7 @@ class Toc
   end
 
   def find_next_for(item)
-  	sub_toc = @tocs[item.attributes[:section].to_sym]
+  	sub_toc = @tocs[item.attributes[:section].to_sym] rescue binding.pry
   	index = sub_toc.find_index(item)
   	sub_toc[index == sub_toc.length - 1 ? index : index + 1]
   end

@@ -5,7 +5,6 @@ module NavigationHelpers
 
 	def link_to_prev toc, item
 		nav_markup "prev", toc.find_previous_for(item).path, "icon-arrow-left"
-#		link_to "prev", toc.find_previous_for(item)
 	end
 
 	private

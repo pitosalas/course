@@ -1,7 +1,7 @@
 ---
 title: template
 section: topics
-state: hidden
+status: hidden
 ---
 
 * *point one*
