@@ -1,4 +1,7 @@
 <%= link_to_prev toc, item %> <%= link_to_next toc, item %>
 <h4>
 	<%= @item[:title] %>
+	<% if @item[:section] == "lectures" %>
+		<small class="pull-right">(<%= @item[:order] %>)</small>
+	<% end %>
 </h4>

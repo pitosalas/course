@@ -5,8 +5,6 @@ status: hidden
 order: 999
 ---
 
-#### title
-
 ##### Homework due for today
 
 1. **hw1**

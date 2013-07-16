@@ -12,7 +12,7 @@ module ContentHelpers
     end
 
     def link_to_intro item_symbol
-        link_to_generic item_symbol, :background
+        link_to_generic item_symbol, :intro
     end
 
     def link_to_generic item_symbol, section_symbol

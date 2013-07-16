@@ -17,5 +17,7 @@ section: topics
 		* Google form/survey
 		* LinkedIn groups
 		* Find out who you know and who they know
+		* Email to ask for a 20 minute phone call
 		* Think about: where do they congregate?
+		* Who are _they_?
 	* Target varies depending on the type of question!
