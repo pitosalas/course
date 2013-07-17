@@ -14,7 +14,7 @@
 #   because “*” matches zero or more characters.
 
 preprocess do
-  Toc.new @items
+  Toc.instance.prepare @items
 end
 
 

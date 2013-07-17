@@ -4,8 +4,8 @@ section: background
 order: 999
 ---
 <ul>
-	<% Toc.toc.each_by(:topics) do |t| %>
-	<li><%= link_to t.attributes[:title], t.identifier %></li>
+	<% Toc.instance.each_by(:topics) do |t| %>
+	<li><%= link_to t.attributes[:title], t.identifier %><%= link_to_inclusion t %></li>
 <% end %>
 </ul>
 

@@ -7,6 +7,15 @@ module NavigationHelpers
 		nav_markup "prev", toc.find_previous_for(item).path, "icon-arrow-left"
 	end
 
+	def link_to_inclusion item
+		inclusion = Toc.instance.lookup_inclusion(item)
+		if inclusion.nil?
+			" (none)"
+		else
+			" (#{inclusion.identifier})"
+		end
+	end
+
 	private
 
 	def nav_markup text, path, icon

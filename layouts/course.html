@@ -42,13 +42,13 @@
     <div class="container">
       <div class="row">
         <div class="span7">
-          <%= render "body_header", toc: Toc.toc, item: item %>
+          <%= render "body_header", toc: Toc.instance, item: item %>
           <%= yield %>
         </div>
         <div class="offset1 span3">
-          <%= render "intro_sidebar", toc: Toc.toc %>
-          <%= render "lectures_sidebar", toc: Toc.toc %>
-          <%= render "background_sidebar", toc: Toc.toc %>
+          <%= render "intro_sidebar", toc: Toc.instance %>
+          <%= render "lectures_sidebar", toc: Toc.instance %>
+          <%= render "background_sidebar", toc: Toc.instance %>
         </div>
       </div>
       <%= render "body_footer" %>

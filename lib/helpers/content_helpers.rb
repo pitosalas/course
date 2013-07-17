@@ -20,10 +20,10 @@ module ContentHelpers
 		link_to_unless_current(the_item.attributes[:title], the_item.identifier)
     end
 
-    def incorporate_topic item_symbol
+    def include_topic item_symbol
         incorporated_topic = symbol_to_item(item_symbol, :topics)
-        #incorporated_topic.attributes[:found_in] = item
-        a = items[incorporated_topic.identifier].compiled_content
+        Toc.instance.record_inclusion @item, incorporated_topic
+        items[incorporated_topic.identifier].compiled_content
     end
 
     def symbol_to_item item_symbol, section_symbol

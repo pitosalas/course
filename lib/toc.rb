@@ -1,25 +1,14 @@
+require 'singleton'
 
 class Toc
 	include Enumerable
+	include Singleton
 
-	@singleton == nil
-
-	def initialize items
-		if Toc.toc.nil?
-			@tocs = {}
-			%i(topics intro background lectures).each { |section| @tocs[section] = build_section_toc(section, items) }
-			Toc.toc = self
-		end
-		raise "no singleton to be seen!" if Toc.toc.nil?
-		Toc.toc
-	end
-
-	def self.toc
-		@singleton
-	end
-
-	def self.toc=(value)
-		@singleton = value
+	def prepare items
+		raise "Toc.prepare called twice!" unless @tocs.nil?
+		@tocs = {}
+		@info = {}
+		%i(topics intro background lectures).each { |section| @tocs[section] = build_section_toc(section, items) }
 	end
 
 	def build_section_toc section, items
@@ -50,6 +39,16 @@ class Toc
   	sub_toc = @tocs[item.attributes[:section].to_sym] rescue binding.pry
   	index = sub_toc.find_index(item)
 		sub_toc[index == 0 ? 0 : index - 1]
+  end
+
+  def record_inclusion host_item, included_item
+  	binding.pry
+  	@info[included_item.identifier] = host_item
+  end
+
+  def lookup_inclusion included_item
+  	binding.pry
+  	@info[included_item.identifier]
   end
 end
 
