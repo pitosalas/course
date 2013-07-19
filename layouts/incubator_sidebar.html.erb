@@ -1,0 +1,8 @@
+<h5>Incubator</h5>
+<ul>
+	<% toc.each_by(:incubator) do |item| %>
+		<li>
+			<%= toc_link_to item %>
+		</li>
+	<% end %>
+</ul>

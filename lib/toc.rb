@@ -8,7 +8,7 @@ class Toc
 		raise "Toc.prepare called twice!" unless @tocs.nil?
 		@tocs = {}
 		@info = {}
-		%i(topics intro background lectures).each { |section| @tocs[section] = build_section_toc(section, items) }
+		%i(topics intro incubator background lectures).each { |section| @tocs[section] = build_section_toc(section, items) }
 	end
 
 	def build_section_toc section, items
@@ -42,12 +42,10 @@ class Toc
   end
 
   def record_inclusion host_item, included_item
-  	binding.pry
   	@info[included_item.identifier] = host_item
   end
 
   def lookup_inclusion included_item
-  	binding.pry
   	@info[included_item.identifier]
   end
 end

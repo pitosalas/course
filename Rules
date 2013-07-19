@@ -17,7 +17,6 @@ preprocess do
   Toc.instance.prepare @items
 end
 
-
 compile '/bootstrap/*' do
   nil
 end

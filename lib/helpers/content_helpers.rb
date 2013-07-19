@@ -1,24 +1,4 @@
 module ContentHelpers
-    def link_to_lecture item_symbol
-        link_to_generic item_symbol, :lectures
-    end
-
-    def link_to_topic item_symbol
-        link_to_generic item_symbol, :topics
-    end
-
-    def link_to_background item_symbol
-        link_to_generic item_symbol, :background
-    end
-
-    def link_to_intro item_symbol
-        link_to_generic item_symbol, :intro
-    end
-
-    def link_to_generic item_symbol, section_symbol
-        the_item = symbol_to_item item_symbol, section_symbol
-		link_to_unless_current(the_item.attributes[:title], the_item.identifier)
-    end
 
     def include_topic item_symbol
         incorporated_topic = symbol_to_item(item_symbol, :topics)
@@ -40,4 +20,12 @@ module ContentHelpers
     def toc_link_to item
         link_to_unless_current item.attributes[:title], item
     end
+
+    def bold_red string
+        "**#{string}**{: style=\"color: red\"}"
+    end
+
+
 end
+
+## **Note for first day of class:**{: style="color: red"} Each day of class has a page on this web site. The first section of that page is always the homework due on that very day. So in other words, the homework listed here is actually "pre-work" for day one. We will go over this in a little more detail during class.

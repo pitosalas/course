@@ -8,4 +8,5 @@ order: 8
 * [12 Pieces of Advice on Startuping](https://medium.com/p/aa2c14912eea)
 * [Do things that don't scale (Paul Graham)](http://paulgraham.com/ds.html)
 * [What is Customer Development?](http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html)
+* [The history of app pricing and why apps are free](http://blog.flurry.com/bid/99013/The-History-of-App-Pricing-And-Why-Most-Apps-Are-Free)
 
