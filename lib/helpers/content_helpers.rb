@@ -11,8 +11,8 @@ module ContentHelpers
             |i| i.identifier.split("/").last == item_symbol.to_s && i.attributes[:section] == section_symbol.to_s
         end
         if the_item.nil? || the_item.length != 1
-            raise "invalid identifier in link_to or incorporate #{section_symbol}: #{item_symbol.to_s}" if the_item.nil? || the_item == []
-            raise "duplicate identifier in link_to_#{section_symbol}: #{item_symbol.to_s}" if the_item.length != 1          
+            raise "#{item.identifier}: invalid  link_to or incorporate #{section_symbol}: #{item_symbol.to_s}" if the_item.nil? || the_item == []
+            raise "#{item.identifier}: duplicate identifier in link_to_#{section_symbol}: #{item_symbol.to_s}" if the_item.length != 1          
         end
         the_item[0]
     end

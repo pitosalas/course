@@ -9,4 +9,5 @@ order: 8
 * [Do things that don't scale (Paul Graham)](http://paulgraham.com/ds.html)
 * [What is Customer Development?](http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html)
 * [The history of app pricing and why apps are free](http://blog.flurry.com/bid/99013/The-History-of-App-Pricing-And-Why-Most-Apps-Are-Free)
+* [A single startup metric](http://blog.kissmetrics.com/single-startup-metric/)
 

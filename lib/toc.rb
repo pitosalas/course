@@ -24,9 +24,9 @@ class Toc
 
   def each_by(section, &block)
   	sub_toc = @tocs[section]
- 		sub_toc.each do |member|
-	 		block.call(member)
-	 	end
+	sub_toc.each do |member|
+		block.call(member)
+	end
   end
 
   def find_next_for(item)

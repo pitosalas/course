@@ -3,11 +3,11 @@ title: List of all topics
 section: background
 order: 999
 ---
-<% @items.each {|x| x[:blurp] } %>
-
-<ul>
+<ol>
 	<% Toc.instance.each_by(:topics) do |t| %>
-	<li><%= link_to t.attributes[:title], t.identifier %><%= link_to_inclusion t %></li>
+	<li>
+		<%= link_to t.attributes[:title], t.identifier %>
+	</li>
 <% end %>
-</ul>
+</ol>
 
