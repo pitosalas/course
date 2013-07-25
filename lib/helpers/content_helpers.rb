@@ -11,8 +11,8 @@ module ContentHelpers
             |i| i.identifier.split("/").last == item_symbol.to_s && i.attributes[:section] == section_symbol.to_s
         end
         if the_item.nil? || the_item.length != 1
-            raise "#{item.identifier}: invalid  link_to or incorporate #{section_symbol}: #{item_symbol.to_s}" if the_item.nil? || the_item == []
-            raise "#{item.identifier}: duplicate identifier in link_to_#{section_symbol}: #{item_symbol.to_s}" if the_item.length != 1          
+            raise "#{item.identifier}: invalid item referenced for #{section_symbol}: #{item_symbol.to_s}" if the_item.nil? || the_item == []
+            raise "#{item.identifier}: duplicate item referenced for #{section_symbol}: #{item_symbol.to_s}" if the_item.length != 1          
         end
         the_item[0]
     end
@@ -23,6 +23,10 @@ module ContentHelpers
 
     def bold_red string
         "**#{string}**{: style=\"color: red\"}"
+    end
+
+    def deliverable string
+        "*Deliverable:*{: style=\"color: red\"} *#{string}*"
     end
 
 
