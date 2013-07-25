@@ -23,7 +23,7 @@ end
 
 
 compile '*' do
-  if item[:status] == "hidden"
+  if item.binary? || item[:status] == "hidden"
     nil
   else
     item[:extension].split('.').reverse.each do 

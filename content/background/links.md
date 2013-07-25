@@ -10,4 +10,6 @@ order: 8
 * [What is Customer Development?](http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html)
 * [The history of app pricing and why apps are free](http://blog.flurry.com/bid/99013/The-History-of-App-Pricing-And-Why-Most-Apps-Are-Free)
 * [A single startup metric](http://blog.kissmetrics.com/single-startup-metric/)
+* [How to help your app stand out](http://www.businessinsider.com/how-to-help-your-app-stand-out-2013-7)
+* [4 steps to building a compelling value proposition](http://www.linkedin.com/today/post/article/20130703160340-1893586-4-steps-to-building-a-compelling-value-proposition)
 

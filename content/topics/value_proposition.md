@@ -24,8 +24,6 @@ section: topics
 
 Notice that this is an 'internal' statement, never meant to be shown to customers or even investors.
 
-In this case we have two sentences because there are two distinctive markets. This raises very interesting pricing questions.
-
 ##### Positioning
 * A pithy statement that summarizes the way you want people to think about your product or service.
 * Look at this site for lots and lots of sample positionings: [Beta List](betali.st)
