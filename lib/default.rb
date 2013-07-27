@@ -4,4 +4,5 @@
 require 'awesome_print'
 require 'nanoc/toolbox'
 require 'pry'
+require 'active_support/inflector'
 

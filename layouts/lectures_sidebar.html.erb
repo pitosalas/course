@@ -1,8 +1,15 @@
 <h5>Lectures</h5>
-<ol>
-	<% toc.each_by(:lectures) do |item| %>
-		<li>
-			<%= toc_link_to item %>
-		</li>
+<ul>
+	<% toc.subsections(:lectures) do |subs| %>
+		<% if !subs[0].empty? %>
+			<h6><%= subs[0].titleize %></h6>
+			<ol>
+		<% end %>
+		<% subs[1].sort { |a,b| a[:order] <=> b[:order] }.each do |item| %>
+				<li><%= toc_link_to item %></li>
+		<% end %>
+		<% if !subs[0].empty? %>
+			</ol>
+		<% end %>
 	<% end %>
-</ol>
+</ul>
