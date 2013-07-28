@@ -29,7 +29,35 @@ module ContentHelpers
         "*Deliverable:*{: style=\"color: red\"} *#{string}*"
     end
 
+    def discussion string
+        "*Discussion:*{: style=\"color: white; background: LightSteelBlue\"} *#{string}*"
+    end
 
+    def include_image string
+        "<img src=\"/graphics/#{string}\" class=\"img-polaroid\">"
+    end
+
+    def carousel(filenames)
+        body = %~<div id="myCarousel" class="carousel slide" style="width: 500px; margin: 0 auto;">
+                <div class="carousel-inner" style="margin: 20px; ">~
+        counter = 0
+        filenames.each do 
+            |nam|
+            if counter == 0
+                body << %~<div class="item active">~
+            else
+                body << %~<div class="item">~
+            end
+            body << %~<img src="~
+            body << "/graphics/#{nam}"
+            body << %~" class="img-polaroid" alt=""></div>~
+            counter += 1
+        end
+        body << %~</div> <a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
+                    <a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
+                </div>~
+        body
+    end
 end
 
 ## **Note for first day of class:**{: style="color: red"} Each day of class has a page on this web site. The first section of that page is always the homework due on that very day. So in other words, the homework listed here is actually "pre-work" for day one. We will go over this in a little more detail during class.

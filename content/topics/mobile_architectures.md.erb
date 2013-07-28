@@ -1,0 +1,40 @@
+---
+title: Mobile Architectures
+section: topics
+---
+
+##### Taxonomy of mobile applications
+
+Depending on need, mobile apps can be structured quite differently
+
+* Untethered
+	* Example: Angry Birds game
+	* Server: never or rarely requires one
+	* UI paradigm: must be a Local App
+	* Difficulty: Can be the easiest, although there are super complex and rich games
+
+* Mashup like
+	* Example: iPhone stock application
+	* Server: uses other people's servers, using web services. 
+	* Connection required, either constantly or to cache information
+	* Login/Authentication. Privacy.
+
+* UI paradigm: local or web based UI
+	* Difficulty: additional complexity because your app is talking to someone else's server
+	* Pure web-ui
+	* Example: GMail application on iPhone
+	* Server: requires your own server, and connected all the time
+	* UI paradigm: web based UI, by definition
+	* Difficulty: You save a lot of trouble by not having to develop local app. Much less mobile platform dependence
+
+* Mobile front end to rich web app
+	* Example: Facebook app on iPhone and Android
+	* Server: your own server, providing it's own user experience, plus a connection to the mobile app
+	* UI paradigm: web based or local app
+	* Difficulty: One of the most difficult. You need to design two separate and complete user experiences
+
+* Rich app
+	* Example: Instagram
+	* Server: requires your own server, with intermittent or constant connection
+	* UI paradigm: local App by definition. There is no user interface for the 'server' or 'service'
+	* Difficulty: Significant challenge to provide all the functionality over limited device.

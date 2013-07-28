@@ -4,13 +4,15 @@ section: background
 order: 2
 ---
 * The homework due for a particular lecture is always listed at the top of the page for that day.
-* Written homework is submitted as a blog post on Piazza, categorized as "blog" (duh)
-* Project progress reports are due weekly. Those are also posted on Piazza, categorized as "progress"
+* Some homework is designated "Team Deliverable:" which means that a single deliverable is due for the team and all team members get credit for it.
 
-#### Homework rough sketches (which I will move somewhere better)
+#### Piazza
+* You will have received an account on Piazza
+* Individual blog Post homework is submitted as a posted "note" on piazza with a "homework" tag.
+* Each team is required to write a brief product update every week. These are piazza "notes" with a "project update" tag.
 
-* Watch an episode "Shark Tank". What are some things that you think are realistic and some that you think are unrealistic. Take apart one of the pitches done by one of the entrepreneurs either because you think it is good or because it is really bad.
-
-<iframe src="http://www.slideshare.net/slideshow/embed_code/89026?rel=0" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version" title="Startup Metrics for Pirates" target="_blank">Startup Metrics for Pirates</a> </strong> from <strong><a href="http://www.slideshare.net/dmc500hats" target="_blank">Dave McClure</a></strong> </div>
+#### Google Drive
+* I will create a google drive folder and invite all students into it.
+* Deliverables that are presentations or spreadsheets should be done in Google Docs and moved into the class google drive folder.
 
 
