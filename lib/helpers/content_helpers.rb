@@ -30,7 +30,7 @@ module ContentHelpers
     end
 
     def discussion string
-        "*Discussion:*{: style=\"color: white; background: LightSteelBlue\"} *#{string}*"
+        "*Discussion:*{: style=\"color: blue\"} *#{string}*"
     end
 
     def include_image string

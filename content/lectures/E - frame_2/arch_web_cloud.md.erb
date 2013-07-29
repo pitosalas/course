@@ -6,9 +6,55 @@ order: 20
 
 ##### Homework due for today
 
-1. <%= deliverable "one" %>
-1. <%= deliverable "two" %>
+1. Study and read up on the [Nest Thremostat](http://www.nest.com). Look for articles describing the user interface of the device and play with the demo on their site. <%= deliverable "Write a piazza post giving your assessment of the Nest User Experience." %>
 
-##### Topics
+##### Excercise
 
-* Topic 1
+* [Nest Thremostat](http://www.nest.com) Technical Architecture
+	* Break into 3 teams randomly and work on this for 10 minutes
+	* Discuss and come up with a block diagram which reflects *all* the major elements of the architecture of the whole NEST system, not just the thermostat alone, and not just what is installed in the owner's home. Also draw lines between the elements that indicate how they talk to each other.
+	* Present your findings to the class (3 minutes each team.)
+
+##### Architecture's role in this stage
+
+* It's a hypothesis like any other solution hypothesis
+* For example
+	* can it be built? ("the product can be built.")
+	* How long will it take? ("the product can be built to release 1 in 3 months")
+	* Will it perform? ("the product will be able to support 10,000 users in the first release")
+	* Should we use Android or iPhone, etc.  ("it is safe to ignore the iPhone platform")
+	* What would it cost to manufacture?  ("The first 100 units can be manufactured for $10 per")
+	* ... etc.
+* These kinds of hypotheses need to be answered from a technical/technologoical perspective
+* How would you test the hypothesis?
+	* Check with some experts to corroborate your hypothesis
+	* Show them your design concept
+	* Build a prototype/experiment/mvp to validate *that assumption* specifically
+* For example distinguish between:
+	* Customers will require that we support both iPhone and Android
+	* Our architecture can work on iPhone and Android
+	* Different questions, requiring different experiments to check
+* Common Fundamental Architectural and Technology questions
+	* Scale: How do we support the required number of users
+	* Deployment vehicle: Cloud, Web, Mobile or Device
+	* <%= discussion "Did I leave any out?" %>
+* What about the 'secret sauce?'
+	* Your app may or may not require some
+	* You might consider it your competitive advantage and even patent it
+	* Most of your work (80% overall) will not be advanced computer science or new invention
+	* For a real commercial product, most of the work will be hard engineering
+
+##### Web and Cloud Architecture
+* <%= discussion "Is there a difference? What are some of the tradeoffs?" %>
+* A lot in common
+	* Acessed using HTTP/REST protocols (typically)
+	* Acceessed with a web browser or mobile app (typically)
+* Overview of deployment
+	* Web: means you own, or control, and manage, a complete set of servers for your application
+	* Cloud: means you rent nodes in a cloud (e.g. Amazon Web Services)
+	* What are web services?
+
+##### Scaling
+
+##### Data Modeling
+* Crucial step in design
