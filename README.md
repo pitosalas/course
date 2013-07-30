@@ -42,4 +42,38 @@ Pages are styled with Twitter Bootstrap. Right now the theme (such as it is) is 
 * topics - these are small bits of content corresponding maybe to a unit of teaching. Typically a lecture may contain zero or more included topics. The intent is that you may write and reuse topics between different courses. You could use someone else's topics in your courses, and so on.
 * lectures - a nested set of .md files corresponding to your series of lectures however you chose to organize them. Today only one level of nesting is supported,
 
-# More to come
+# How to run
+
+This is high level, for now, assuming you understand some of the jargon
+
+* How to view the current state of things
+	1. Git clone the repository
+	1. bundle	_(assumes you have ruby and the bundler gem installed)
+	1. nanoc view _(which runs the local server)
+	1. In your browser, look at 0.0.0.0:3000
+
+* As you work on content you may need these commands
+	* nanoc compile _(which will generate the site, once)
+	* guard -i _(which will watch for file changes and recompile as needed)
+	* nanoc purge --yes _(which will reset the output directory for a full regen)
+
+* I have noticed that sometimes I see old pages, and nanoc purge --yes doesn't _seem_ to clean up everything. You may try clearing your browser cache or any other witchcraft you can think of the get rid of the old page.
+
+# How to use for your own, new course
+
+I haven't tested this sequence but I will, at some point.
+
+	* git clone
+	* delete all files in output/
+	* delete *.md and *.md.erb in content/ and its subdirectories.
+	* also delete the subdirectories that you see under content/lectures
+	* Your files should be called *.md or *.md.erb in all the available directories
+	* For now, only in the lectures/ directory will subdirectories be automatically reflected in the sidebar
+	* For now, only the existing top level directories under lectures/ will be used
+
+# Feedback and patches
+
+* Send me email at pitosalas@gmail.com with any feedback or suggestions
+* Make your own improvements and send me a pull request when and if appropriate
+
+
