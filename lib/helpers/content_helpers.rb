@@ -17,12 +17,20 @@ module ContentHelpers
         the_item[0]
     end
 
+    def link_to_doc label, file_name
+        "<a href=\"/docs/#{file_name}\">#{label}</a>"
+    end
+
     def toc_link_to item
         link_to_unless_current item.attributes[:title], item
     end
 
     def bold_red string
         "**#{string}**{: style=\"color: red\"}"
+    end
+
+    def important string
+        "**Important: #{string}**{: style=\"color: red\"}"
     end
 
     def deliverable string
