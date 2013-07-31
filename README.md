@@ -8,7 +8,7 @@ This tool is very much under development so things may change without warning. H
 
 ## Purpose
 
-* To create course curriculum web sites that look like [this](bit.ly/cosi235a)
+* To create course curriculum web sites that look like [http://cosi235a.courses.salas.com.s3-website-us-west-2.amazonaws.com
 * Permit editing of content through a simple text editor, while not connected to web
 * Permit the whole site and contennt to be managed on source control (such as github)
 * Generate a static web site that can be hosted for free, for example on Amazon S3
@@ -63,13 +63,13 @@ This is high level, for now, assuming you understand some of the jargon
 
 I haven't tested this sequence but I will, at some point.
 
-	* git clone
-	* delete all files in output/
-	* delete *.md and *.md.erb in content/ and its subdirectories.
-	* also delete the subdirectories that you see under content/lectures
-	* Your files should be called *.md or *.md.erb in all the available directories
-	* For now, only in the lectures/ directory will subdirectories be automatically reflected in the sidebar
-	* For now, only the existing top level directories under lectures/ will be used
+* git clone
+* delete all files in output/
+* delete *.md and *.md.erb in content/ and its subdirectories.
+* also delete the subdirectories that you see under content/lectures
+* Your files should be called *.md or *.md.erb in all the available directories
+* For now, only in the lectures/ directory will subdirectories be automatically reflected in the sidebar
+* For now, only the existing top level directories under lectures/ will be used
 
 # Feedback and patches
 
