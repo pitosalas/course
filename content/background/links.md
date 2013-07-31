@@ -3,6 +3,8 @@ title: Interesting links
 section: background
 order: 8
 ---
+##### Links to articles related to entrepreneurship
+
 * [Is startup validation bullshit?](http://thedannorris.com/is-startup-validation-bullshit/?inf_contact_key=faad23147b634d5d9de0739198a0cdeb902b7d9130ecff2014f45a9183714451#)
 * [Pivoting in Product Development](http://www.infoq.com/news/2013/07/pivoting-product-development)
 * [12 Pieces of Advice on Startuping](https://medium.com/p/aa2c14912eea)
@@ -16,6 +18,9 @@ order: 8
 * [Supercharge your Value Proposition](http://businessmodelalchemist.com/2012/09/test-your-value-proposition-supercharge-lean-startup-and-custdev-principles.html)
 * [Examples of paper prototyping here](http://www.google.com/search?q=paper+prototyping&hl=en&safe=off&client=safari&rls=en&prmd=imvnsb&tbm=isch&tbo=u&source=univ&sa=X&ei=slDNT5TgBIW16AHc293MAg&ved=0CGYQsAQ&biw=1251&bih=840)
 * [Paper Prototyping](http://www.alistapart.com/articles/paperprototyping/)
+
+##### Great Entrepreneurship Blogs
+
 * [Jason Calacanis Launch Blog](http://blog.launch.co and http://launch.co/#/rooms/Ticker)
 * [Both Sides of the table - Mark Suster's Blog](http://www.bothsidesofthetable.com)
 * [A VC: Fred Wilson Blog](http://www.avc.com/a_vc/)
