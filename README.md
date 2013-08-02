@@ -57,6 +57,10 @@ This is high level, for now, assuming you understand some of the jargon
 	* guard -i _(which will watch for file changes and recompile as needed)
 	* nanoc purge --yes _(which will reset the output directory for a full regen)
 
+# Known Issues
+
+* Biggest one: this is a work in progress. The paint is wet, everywhere. I am changing it every day. But it is usable if you are somewhat enterprising.
+
 * I have noticed that sometimes I see old pages, and nanoc purge --yes doesn't _seem_ to clean up everything. You may try clearing your browser cache or any other witchcraft you can think of the get rid of the old page.
 
 # How to use for your own, new course

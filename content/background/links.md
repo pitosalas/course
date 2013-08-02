@@ -18,6 +18,8 @@ order: 8
 * [Supercharge your Value Proposition](http://businessmodelalchemist.com/2012/09/test-your-value-proposition-supercharge-lean-startup-and-custdev-principles.html)
 * [Examples of paper prototyping here](http://www.google.com/search?q=paper+prototyping&hl=en&safe=off&client=safari&rls=en&prmd=imvnsb&tbm=isch&tbo=u&source=univ&sa=X&ei=slDNT5TgBIW16AHc293MAg&ved=0CGYQsAQ&biw=1251&bih=840)
 * [Paper Prototyping](http://www.alistapart.com/articles/paperprototyping/)
+* [Why you should find product Market Fit ... ](http://www.fastcolabs.com/3014841/why-you-should-find-product-market-fit-before-sniffing-around-for-venture-money)
+* [Good job, but what if the vcs don't come?](http://www.techcabal.com/dear-startup-great-job-but-what-if-the-vcs-dont-come/)
 
 ##### Great Entrepreneurship Blogs
 
