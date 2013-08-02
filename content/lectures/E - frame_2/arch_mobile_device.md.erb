@@ -6,10 +6,9 @@ order: 21
 
 ##### Homework due for today
 
-1. <%= deliverable "one" %>
-1. <%= deliverable "two" %>
+1. Investigate the recent change in Instagram where in addition to photos they decided to start allowing 15 second videos. Read blogs or news reports. Why do you think they waited this long? What do you think the challenges (strategic and technological) that they had to overcome. Any competitive issues? <%= deliverable "A piazza blog post. Also prepare for an in class discussion. One student will be asked to present the background to the scenario." %>
 
-##### Scenario discussion
+##### Instagram discussion
 * Go over the recent introduction of 15 second movies into Instagram
 * What was hard and what was easy?
 * How did they decide to do it?
@@ -29,24 +28,22 @@ order: 21
 
 <%= include_topic :mobile_architectures %>
 
-##### Mobile Architectures
-Most of the concerns we talked about for web and cloud apply almost equally for mobile, with the major addition of communications:
+<%= include_topic :mobile_architecture_issues %>
 
-* What kind of information needs to be sent between mobile app and server?
-* Characteristics:
-	* How much of it is there? 
-	* How fast does it have to go? 
-	* What is acceptable latency?
-* Firewalls
-	* Are there likely to be firewalls in the way?
-	* Does the client have to reach the server, or vice versa or both?
-* Protocols
-	* Commonplace today is "REST" over "HTTP". But all is changing all the time!
+##### Devises and appliances
 
+* <%= discussion "Devices and appliances" %>
+	* What do we mean here?
+	* Examples: Nest, ...
+	* What are the idenfitiable distinctions betweem a device and a mobile app?
+	* What are the similarities?
+	* How would you decide to make your product into an appiance vs. a mobile app?
 
-
-
-
-
-
+* Considerations in deciding to deliver your app as an appliance
+	* It might be the only way to do it
+	* There are now real variable costs to delivery
+	* Likely there will be certification issues
+	* Much more difficult to upgrade functionality
+	* Buyer much more likely to be willing to pay
+	* But profit will be less.
 
