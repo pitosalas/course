@@ -30,7 +30,7 @@ class Toc
 
   def each_by(section, &block)
   	sub_toc = @tocs[section]
-		sub_toc.each do |member|
+		sub_toc.sort! { |a,b| a[:order] <=> b[:order] }.each do |member|
 			block.call(member)
 		end
   end

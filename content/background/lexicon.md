@@ -1,7 +1,7 @@
 ---
 title: Lexicon
 section: background
-order: 3
+order: 6
 ---
 * Agile Software Development:
 * Crowdsourcing: 
