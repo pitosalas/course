@@ -33,6 +33,10 @@ module ContentHelpers
         "**Important: #{string}**{: style=\"color: red\"}"
     end
 
+    def tbd string=""
+        "*[TO BE DETERMINED#{string}]*{: style=\"color: red\"}"
+    end
+
     def deliverable string
         "*Deliverable:*{: style=\"color: red\"} *#{string}*"
     end
