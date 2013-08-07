@@ -21,6 +21,7 @@ order: 8
 * [Why you should find product Market Fit ... ](http://www.fastcolabs.com/3014841/why-you-should-find-product-market-fit-before-sniffing-around-for-venture-money)
 * [Good job, but what if the vcs don't come?](http://www.techcabal.com/dear-startup-great-job-but-what-if-the-vcs-dont-come/)
 * [The Lucky-take-all society](http://www.economist.com/blogs/freeexchange/2013/07/popularity-luck-and-herding?fsrc=rss)
+* [5 Steps to $5000 per month in monthly recurring revenue](http://blog.statuspage.io/5-steps-to-5000-in-monthly-recurring-revenue)
 
 ##### Great Entrepreneurship Blogs
 
