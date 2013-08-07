@@ -8,9 +8,10 @@ task :deploy do
 end
 
 #desc "add and commit latest, arg m=\"message for commit\""
-task :git_add_commit, [:m] do |t, args|
-	puts args.m
-	raise "missing parameter m='message'" if args.m.nil?
-	sh "git add --all; git commit -m \"#{args.m}\""
+task :git_add_commit do |t|
+	message = ENV["m"]
+	puts message
+	raise "missing parameter m='message'" if message.nil?
+	sh "git add --all; git commit -m \"#{message}\""
 end
 
