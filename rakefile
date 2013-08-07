@@ -7,10 +7,10 @@ task :deploy do
 	sh "s3cmd sync --delete-removed output/ s3://#{AWS_BUCKET}/" + (ENV["go"] ? "" : " --dry-run")
 end
 
-desc "Add and commit the latest changes to the local git repo"
+#desc "add and commit latest, arg m=\"message for commit\""
 task :git_add_commit, [:m] do |t, args|
 	puts args.m
-	sh "git add --all; git commit -m \"" + (ENV["m"]) + "\""
+	raise "missing parameter m='message'" if args.m.nil?
+	sh "git add --all; git commit -m \"#{args.m}\""
 end
 
-task :name, [:first_name, :last_name]
