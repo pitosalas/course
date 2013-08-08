@@ -8,10 +8,19 @@ task :deploy do
 end
 
 desc "add and commit latest, arg m=\"message for commit\""
-task :git_add_commit do |t|
+task :git_commit_all do |t|
 	message = ENV["m"]
 	puts message
 	raise "missing parameter m='message'" if message.nil?
 	sh "git add --all; git commit -m \"#{message}\""
 end
 
+desc "compile site"
+task :compile do
+	sh "nanoc compile"
+end
+
+desc "push to git"
+task :push do
+	sh "git push origin master"
+end
