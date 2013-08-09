@@ -24,3 +24,18 @@ desc "push to git"
 task :push do
 	sh "git push origin master"
 end
+
+desc "run local server"
+task :serve do
+	sh "nanoc view"
+end
+
+desc "recompile automatically"
+task :guard do
+	sh "guard -i"
+end
+
+desc "view in browser"
+task :view do
+	sh "open http://0.0.0.0:3000"
+end

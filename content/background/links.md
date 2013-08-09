@@ -22,6 +22,7 @@ order: 8
 * [Good job, but what if the vcs don't come?](http://www.techcabal.com/dear-startup-great-job-but-what-if-the-vcs-dont-come/)
 * [The Lucky-take-all society](http://www.economist.com/blogs/freeexchange/2013/07/popularity-luck-and-herding?fsrc=rss)
 * [5 Steps to $5000 per month in monthly recurring revenue](http://blog.statuspage.io/5-steps-to-5000-in-monthly-recurring-revenue)
+* [Business school rankings need a startup upgrade!](http://blog.koalab.com/2013/08/08/business-school-rankings-need-a-start-up-upgrade/)
 
 ##### Great Entrepreneurship Blogs
 
