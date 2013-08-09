@@ -8,7 +8,7 @@ task :deploy do
 end
 
 desc "add and commit latest, arg m=\"message for commit\""
-task :git_commit_all do |t|
+task :commit_all do |t|
 	message = ENV["m"]
 	puts message
 	raise "missing parameter m='message'" if message.nil?
