@@ -22,7 +22,7 @@ module NavigationHelpers
 
   def link_to_generic item_symbol, section_symbol
     the_item = symbol_to_item item_symbol, section_symbol
-		link_to_unless_current(the_item.attributes[:title], the_item.identifier)
+		link_to_unless_current(the_item[:title], the_item.identifier)
   end
 
 	def link_to_next toc, item

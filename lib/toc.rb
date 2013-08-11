@@ -25,7 +25,7 @@ class Toc
   end
 
   def exclude_from_toc? item
-    item.attributes[:status] == "hidden" || %w(css min.css js png).include?(item.attributes[:extension])
+    item[:status] == "hidden" || %w(css min.css js png).include?(item[:extension])
   end
 
   def each_by(section, &block)
@@ -37,7 +37,7 @@ class Toc
 
   def select_items_for_section sect, items
     items.find_all do |item|
-      item.attributes[:section] == sect.to_s && !exclude_from_toc?(item)
+      item[:section] == sect.to_s && !exclude_from_toc?(item)
     end
   end
 
@@ -105,7 +105,7 @@ class Toc
   end
 
   def section_for_item item
-    item.attributes[:section].to_sym rescue binding.pry
+    item[:section].to_sym rescue binding.pry
   end
 
   def index_in_section item

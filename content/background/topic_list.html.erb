@@ -6,7 +6,7 @@ order: 999
 <ol>
 	<% Toc.instance.each_by(:topics) do |t| %>
 	<li>
-		<%= link_to t.attributes[:title], t.identifier %>
+		<%= link_to t[:title], t.identifier %>
 	</li>
 <% end %>
 </ol>
