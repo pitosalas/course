@@ -46,7 +46,7 @@ Pages are styled with Twitter Bootstrap. Right now the theme (such as it is) is 
 ### Use Markdown
 ### "Macros"
 
-# How to run
+## How to run
 
 This is high level, for now, assuming you understand some of the jargon
 
@@ -61,9 +61,15 @@ This is high level, for now, assuming you understand some of the jargon
 	* guard -i _(which will watch for file changes and recompile as needed)
 	* nanoc purge --yes _(which will reset the output directory for a full regen)
 
+## Known Issues
+
+* Biggest one: this is a work in progress. The paint is wet, everywhere. I am changing it every day. But it is usable if you are somewhat enterprising.
+
 * I have noticed that sometimes I see old pages, and nanoc purge --yes doesn't _seem_ to clean up everything. You may try clearing your browser cache or any other witchcraft you can think of the get rid of the old page.
 
-# How to use for your own, new course
+* rake deploy is hardwired to deploy to my one and only server so far.
+
+## How to use for your own, new course
 
 I haven't tested this sequence but I will, at some point.
 
@@ -73,9 +79,18 @@ I haven't tested this sequence but I will, at some point.
 * also delete the subdirectories that you see under content/lectures
 * Your files should be called *.md or *.md.erb in all the available directories
 * For now, only in the lectures/ directory will subdirectories be automatically reflected in the sidebar
-* For now, only the existing top level directories under lectures/ will be used
+* For now, only the existing __top__ level directories under lectures/ will be used
+* Run nanoc compile or guard -i to compile and remove errors from your content
+* Whenever you are ready, deploy to a simple web server by copying ./output and all its directories and files.
 
-# Feedback and patches
+## Deploying onto AWS S3
+* This is what I do:
+	* Create a free bucket on S3
+	* Mark it as a "static web site"
+	* Use a free app called S3CMD to copy all the files
+	* rake deploy to deploy
+
+## Feedback and patches
 
 * Send me email at pitosalas@gmail.com with any feedback or suggestions
 * Make your own improvements and send me a pull request when and if appropriate

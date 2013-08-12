@@ -6,3 +6,35 @@ desc "Deploy the website to AWS, Use 'go=1' to do a dry-run."
 task :deploy do
 	sh "s3cmd sync --delete-removed output/ s3://#{AWS_BUCKET}/" + (ENV["go"] ? "" : " --dry-run")
 end
+
+desc "add and commit latest, arg m=\"message for commit\""
+task :commit_all do |t|
+	message = ENV["m"]
+	raise "missing parameter m='message'" if message.nil?
+	sh "git add --all; git commit -m \"#{message}\""
+end
+
+desc "compile site"
+task :compile do
+	sh "nanoc compile"
+end
+
+desc "push to git"
+task :push do
+	sh "git push origin master"
+end
+
+desc "run local server"
+task :serve do
+	sh "nanoc view"
+end
+
+desc "recompile automatically"
+task :guard do
+	sh "guard -i"
+end
+
+desc "view in browser"
+task :view do
+	sh "open http://0.0.0.0:3000"
+end

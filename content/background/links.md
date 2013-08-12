@@ -19,6 +19,11 @@ order: 8
 * [Examples of paper prototyping here](http://www.google.com/search?q=paper+prototyping&hl=en&safe=off&client=safari&rls=en&prmd=imvnsb&tbm=isch&tbo=u&source=univ&sa=X&ei=slDNT5TgBIW16AHc293MAg&ved=0CGYQsAQ&biw=1251&bih=840)
 * [Paper Prototyping](http://www.alistapart.com/articles/paperprototyping/)
 * [Romancing the pitch](http://www.rajeshsetty.com/2013/07/14/romancing-the-pitch/)
+* [Why you should find product Market Fit ... ](http://www.fastcolabs.com/3014841/why-you-should-find-product-market-fit-before-sniffing-around-for-venture-money)
+* [Good job, but what if the vcs don't come?](http://www.techcabal.com/dear-startup-great-job-but-what-if-the-vcs-dont-come/)
+* [The Lucky-take-all society](http://www.economist.com/blogs/freeexchange/2013/07/popularity-luck-and-herding?fsrc=rss)
+* [5 Steps to $5000 per month in monthly recurring revenue](http://blog.statuspage.io/5-steps-to-5000-in-monthly-recurring-revenue)
+* [Business school rankings need a startup upgrade!](http://blog.koalab.com/2013/08/08/business-school-rankings-need-a-start-up-upgrade/)
 
 ##### Great Entrepreneurship Blogs
 
