@@ -18,6 +18,7 @@ order: 8
 * [Supercharge your Value Proposition](http://businessmodelalchemist.com/2012/09/test-your-value-proposition-supercharge-lean-startup-and-custdev-principles.html)
 * [Examples of paper prototyping here](http://www.google.com/search?q=paper+prototyping&hl=en&safe=off&client=safari&rls=en&prmd=imvnsb&tbm=isch&tbo=u&source=univ&sa=X&ei=slDNT5TgBIW16AHc293MAg&ved=0CGYQsAQ&biw=1251&bih=840)
 * [Paper Prototyping](http://www.alistapart.com/articles/paperprototyping/)
+* [Romancing the pitch](http://www.rajeshsetty.com/2013/07/14/romancing-the-pitch/)
 
 ##### Great Entrepreneurship Blogs
 

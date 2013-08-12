@@ -5,11 +5,19 @@ order: 10
 ---
 * Lean Startup Growth Engine Educational "game/simulator"
 * FlowPlanner: General visual discrete simulations
+* Service for retail establishments to get professional photos and videos for yelp, tripadvisor,etc. Start with restaurants, then inns, hotels, and move from there.
 * Personal Training Service via Skype
-* Classroom "clicker" app for smart phone
+* Classroom "clicker" app for smart phone. 
 * Tweeting tree asks for water. Chris Osgood of City of Boston says: Drought and high heat are two of the major summer stresses for our street trees, and we don’t have the ability to water every tree in the summer when they need it. To encourage residents to help out – to adopt-a-tree – we thought it would be compelling if adopted trees could tweet @ their adopter when thirsty (a.k.a. low moisture levels.)We’ve been looking for a partner who can build something for us to pilot this with."
+* ExcuseMe? (mobile app for people in a gathering to allow the participants to react to what is being presented).
+* Online book club
+* Open Source OnStar
+* Mobile flashmob generator
+* Skillshare - I have this skill
+* Pandora-style Upcoming concerts
+* Find recycling + haz. waste disposal location
 * Aquarium Game
-* Roommate Helper
+* Roommate Helper. Site to help roommates survive with each other.
 * One Sentence Definition
 * Computer 'self destruct'
 * Create groups quickly, many groups, location based?
@@ -27,13 +35,9 @@ order: 10
 * PortableFakeBook Just the chord changes (legal stuff) - and pick the key (auto-transpose) ...
 * Vocal note entry ("Ab quarter note")
 * Don't wake me up - time zone checker
-* Skillshare - I have this skill
 * Brandeis Mobile Photo
 * Productivity: where are you, how much is done, movement, plant dying showing
-* Online book club
 * Stop me from texting while driving
-* Open Source OnStar
-* Pandora-style Upcoming concerts
 * ConcertFinder
 * Social Filtering of courses
 * Physical Disability Google Maps - pathfinder
@@ -57,7 +61,6 @@ order: 10
 * Brandeis Monopoly (realistic version of monopoly)
 * PEN (HORSE-like game by flipping a pen by virtual/physical movements of your phone)
 * Remember Me? (which friends live in a city; acquaintances social network)
-* ExcuseMe? (mobile app for people in a gathering to allow the participants to react to what is being presented).
 * RecipeApp (insert ingredients, says what you can make with that)
 * Virtual Tron (running around, gps sees where you are and build walls)
 * Turn-based-starcraft tactile envtironment
@@ -86,7 +89,6 @@ order: 10
 * Brandeis King of the Hill
 * General platform for mobile multi-player
 * Crowd-source chess/other game
-* Mobile flashmob generator
 * Protest app where you select how long/loudly your protest
 * Group hug (flashmob)
 * Dodgeball anywhere
@@ -97,4 +99,3 @@ order: 10
 	* deposit books virtually
 * Location-based anonymous chat
 * Enhanced reality for travelers
-* Find recycling + haz. waste disposal location
