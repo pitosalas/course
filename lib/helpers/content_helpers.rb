@@ -41,6 +41,10 @@ module ContentHelpers
         "*Deliverable:*{: style=\"color: red\"} *#{string}*"
     end
 
+    def team_deliverable string
+        "*Team Deliverable:*{: style=\"color: red\"} *#{string}*"
+    end
+
     def discussion string
         "*Discussion:*{: style=\"color: blue\"} *#{string}*"
     end
