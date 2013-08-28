@@ -1,5 +1,11 @@
-# Deploys the site to Amazon S3 using `s3cmd`
+task :default => [:help]
 
+desc "Give help text"
+task :help do
+	puts `rake -T`
+end
+
+# Deploys the site to Amazon S3 using `s3cmd`
 AWS_BUCKET = "cosi235a.courses.salas.com"
 
 desc "Deploy the website to AWS, Use 'go=1' to do a dry-run."
