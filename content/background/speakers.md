@@ -2,6 +2,7 @@
 title: Speakers
 section: background
 order: 9
+status: hidden
 ---
 
 ### Potential Speakers
