@@ -6,7 +6,7 @@ module ContentHelpers
         items[incorporated_topic.identifier].compiled_content
     end
 
-    def include_image string
+    def include_image string, options=nil
         "<img src=\"/graphics/#{string}\" class=\"img-polaroid\">"
     end
 
