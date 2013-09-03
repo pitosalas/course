@@ -3,10 +3,11 @@ title: Lean Startup Overview
 section: topics
 ---
 
-##### Some background on Lean Startup
+##### Thoughts about Lean Startup
 * "Lean" term stolen from "Lean Manufacturing" (Toyota et al)
 * Some key characteristics:
 	* Small Batches vs. Large Batches
+	* Minimize WIP
 	* Changes in plan are expected and embraced
 	* "Pull" vs. Push
 	* Small self-managed teams
