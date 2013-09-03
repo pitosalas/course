@@ -6,6 +6,8 @@ order: 8
 ##### Links to articles related to entrepreneurship
 
 * [Dave McClure on the Lean Startup](http://www.intelligenthq.com/profiles/dave-mcclure-lean-startup/)
+* [Getting the V in MVP right](http://www.eleganthack.com/getting-the-v-right/)
+* [95 ways to find your first customer for customer development and sales](http://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale/)
 * [When an accidental feature becomes your entire business](http://www.forbes.com/sites/jjcolao/2013/08/21/when-an-accidental-feature-becomes-your-entire-business-vayable-turns-to-custom-travel/)
 * [Videos from Lean Startup Conference](http://www.startuplessonslearned.com/2013/08/lean-startup-implementation-lessons.html?fb_action_ids=10151789505243675&fb_action_types=og.likes&fb_source=other_multiline&action_object_map=%7B%2210151789505243675%22%3A703038019711598%7D&action_type_map=%7B%2210151789505243675%22%3A%22og.likes%22%7D&action_ref_map=%5B%5D)
 * [Is startup validation bullshit?](http://thedannorris.com/is-startup-validation-bullshit/?inf_contact_key=faad23147b634d5d9de0739198a0cdeb902b7d9130ecff2014f45a9183714451#)

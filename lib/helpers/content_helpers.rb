@@ -6,6 +6,10 @@ module ContentHelpers
         items[incorporated_topic.identifier].compiled_content
     end
 
+    def include_image string
+        "<img src=\"/graphics/#{string}\" class=\"img-polaroid\">"
+    end
+
     def symbol_to_item item_symbol, section_symbol
         the_item = items.select do
             |i| i.identifier.split("/").last == item_symbol.to_s && i.attributes[:section] == section_symbol.to_s
@@ -41,12 +45,12 @@ module ContentHelpers
         "*Deliverable:*{: style=\"color: red\"} *#{string}*"
     end
 
-    def discussion string
-        "*Discussion:*{: style=\"color: blue\"} *#{string}*"
+    def team_deliverable string
+        "*Team Deliverable:*{: style=\"color: red\"} *#{string}*"
     end
 
-    def include_image string
-        "<img src=\"/graphics/#{string}\" class=\"img-polaroid\">"
+    def discussion string
+        "*Discussion:*{: style=\"color: blue\"} *#{string}*"
     end
 
     def carousel(filenames)
