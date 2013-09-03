@@ -5,6 +5,7 @@ order: 8
 ---
 ##### Links to articles related to entrepreneurship
 
+* [Boston Law-related startups](http://www.bostonglobe.com/business/2013/08/31/tech-start-ups-target-tough-customer-law-firms/fyznk5CXkhnCqQzHpGEIGO/story.html?s_campaign=sm_tw)
 * [Dave McClure on the Lean Startup](http://www.intelligenthq.com/profiles/dave-mcclure-lean-startup/)
 * [Getting the V in MVP right](http://www.eleganthack.com/getting-the-v-right/)
 * [95 ways to find your first customer for customer development and sales](http://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale/)

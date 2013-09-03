@@ -3,12 +3,15 @@ title: Product ideas
 section: incubator
 order: 10
 ---
+* CourseBuilder: A teaching and learning tool to allow a teacher to easily create a course web site, including curriculum, lectures, course notes etc. Based on the product with which I made this site. Future would allow each lecture to have a video assoicated with it, allow students to hand in homeworks directly on the site, automatically convert the curriculum into a powerpoint or pdf and many other cool things.
+
 *Lean Startup Growth Engine* Educational "game/simulator". A teaching and learning tool. Choose stragegies, set prices, design the product, burn money, earn money, analyze results over time, pivot and either get off the runway or crash.
 
 *FlowPlanner* General visual discrete simulations. Professional software product, useful in all kinds of strategic decision making. Visually lay out a 'network' with 'products' and 'customers' flowing through, queueing up, being processed, developing bottlenecks and traffic jams.
 
-
 *Service for retail establishments* to get professional photos and/or videos for yelp, tripadvisor,etc. Start with restaurants, then inns, hotels, and move from there.
+
+* LiveClassroom: A teaching and learning tool allowing instant feedback from an audience or classroom regarding a lecture or meeting or event. Members get an email notification that looks like a survey asking about today's lecture or class. The results of these probes are available as beautiful visualizations which help track the effectiveness and retention and motivation of the audience.
 
 *Personal Training Service via Skype* Delivers how-to videos and excercises, a platform for trainers and phys ed teachers and physical therapists to offer their services via skype.
 
