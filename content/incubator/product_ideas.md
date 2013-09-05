@@ -3,7 +3,10 @@ title: Product ideas
 section: incubator
 order: 10
 ---
-* CourseBuilder: A teaching and learning tool to allow a teacher to easily create a course web site, including curriculum, lectures, course notes etc. Based on the product with which I made this site. Future would allow each lecture to have a video assoicated with it, allow students to hand in homeworks directly on the site, automatically convert the curriculum into a powerpoint or pdf and many other cool things.
+
+##### Best ideas
+
+*CourseBuilder:* A teaching and learning tool to allow a teacher to easily create a course web site, including curriculum, lectures, course notes etc. Based on the product with which I made this site. Future would allow each lecture to have a video assoicated with it, allow students to hand in homeworks directly on the site, automatically convert the curriculum into a powerpoint or pdf and many other cool things.
 
 *Lean Startup Growth Engine* Educational "game/simulator". A teaching and learning tool. Choose stragegies, set prices, design the product, burn money, earn money, analyze results over time, pivot and either get off the runway or crash.
 
@@ -11,19 +14,19 @@ order: 10
 
 *Service for retail establishments* to get professional photos and/or videos for yelp, tripadvisor,etc. Start with restaurants, then inns, hotels, and move from there.
 
-* LiveClassroom: A teaching and learning tool allowing instant feedback from an audience or classroom regarding a lecture or meeting or event. Members get an email notification that looks like a survey asking about today's lecture or class. The results of these probes are available as beautiful visualizations which help track the effectiveness and retention and motivation of the audience.
+*LiveClassroom:* A teaching and learning tool allowing instant feedback from an audience or classroom regarding a lecture or meeting or event. Members get an email notification that looks like a survey asking about today's lecture or class. The results of these probes are available as beautiful visualizations which help track the effectiveness and retention and motivation of the audience.
 
 *Personal Training Service via Skype* Delivers how-to videos and excercises, a platform for trainers and phys ed teachers and physical therapists to offer their services via skype.
 
 *Classroom "clicker" app for smart phone* Create quick surveys and tests, on-the-fly and allow folks in the audience to use their smartphones as a cicker.
 
-*Tweeting tree asks for water* Chris Osgood of City of Boston says: Drought and high heat are two of the major summer stresses for our street trees, and we don’t have the ability to water every tree in the summer when they need it. To encourage residents to help out – to adopt-a-tree – we thought it would be compelling if adopted trees could tweet @ their adopter when thirsty (a.k.a. low moisture levels.)We’ve been looking for a partner who can build something for us to pilot this with."
+*Tweeting Trees:* Chris Osgood of City of Boston says: Drought and high heat are two of the major summer stresses for our street trees, and we don’t have the ability to water every tree in the summer when they need it. To encourage residents to help out – to adopt-a-tree – we thought it would be compelling if adopted trees could tweet @ their adopter when thirsty (a.k.a. low moisture levels.)We’ve been looking for a partner who can build something for us to pilot this with."
 
 *Yelp for Online courses and Moocs* This problem is just being noticed. If I want to take an online course on some topic, say "How to fix a car" or "Econometrics" I might find two, 3 or even 10 offerings from different teachers and institutions. How do I know which one to take?
 
 *ExcuseMe* (mobile app for people in a gathering to allow the participants to react to what is being presented). Related to Classroom clicker, but much simpler.
 
-##### Grabbag
+##### Grabbag from previous courses
 
 * Online book club
 * Open Source OnStar
