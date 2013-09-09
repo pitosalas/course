@@ -1,5 +1,5 @@
 ---
-title: Term Product Brief
+title: Term Project Brief
 order: 5
 section: incubator
 ---
