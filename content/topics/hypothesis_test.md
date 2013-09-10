@@ -4,6 +4,7 @@ section: topics
 ---
 
 ##### Hypothesis Testing
+* You conduct experiments, right?
 * Getting out of the building
 * You don't know anything!
 * Show and Tell as appropriate

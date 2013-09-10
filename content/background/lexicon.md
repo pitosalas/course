@@ -9,7 +9,7 @@ order: 6
 * **IANAL:** I am not a lawyer. Common discalimer given when someone who is giving quasi-legal advice.
 * **Iterations: Common term used in Agile Software Development. Short (2-4 week) planning and work periods. Each iteration has a planning, a development, and a delivery stage. The concept is that the product should always stay in a shippable state. Also called a scrum.
 * **Kludge (or Kluge):** An ugly, inellegant way to solve a problem, which happens to work. Pronounced klooge.
-* **Leap of faith assumptions:**
+* **Leap of faith assumptions:** Those assumptions and hypotheses on which the everything depends. These are usually the riskiest. They are at the core of the vision. If they are disproved then it will be time for a major pivot.
 * **Scrum:** A flavor of agile software development that is quite popular right now.
 * **UX:** User Experience. Variant of the term User Interface, used if you want to sound cool
 * **WIP:** Work in Progress. In a project, any components or work products which are incomplete, waiting for further work, are a form of waste. You have invested effort into producing them but not so much that they can be delivered.
