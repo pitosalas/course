@@ -36,7 +36,7 @@ module NavigationHelpers
 	def link_to_inclusion item
 		inclusion = Toc.instance.lookup_inclusion(item)
 		if inclusion.nil?
-			" (none)"
+			"(never included)"
 		else
 			" (#{inclusion.identifier})"
 		end

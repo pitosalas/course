@@ -75,5 +75,3 @@ module ContentHelpers
         body
     end
 end
-
-## **Note for first day of class:**{: style="color: red"} Each day of class has a page on this web site. The first section of that page is always the homework due on that very day. So in other words, the homework listed here is actually "pre-work" for day one. We will go over this in a little more detail during class.
