@@ -2,7 +2,7 @@
 <ul>
 	<% items.each do |item| %>
 	<li>
-	<%= link_to("#{item.identifier}.#{item.attributes[:extension]}", item.identifier) %>
+	<%= link_to("#{item.identifier}.#{item[:extension]}", item.identifier) %>
 	</li>
 	<% end %>
 </ul>

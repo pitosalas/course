@@ -12,11 +12,11 @@ module ContentHelpers
 
     def symbol_to_item item_symbol, section_symbol
         the_item = items.select do
-            |i| i.identifier.split("/").last == item_symbol.to_s && i.attributes[:section] == section_symbol.to_s
+            |i| i.identifier.split("/").last == item_symbol.to_s && i[:section] == section_symbol.to_s
         end
         if the_item.nil? || the_item.length != 1
             raise "#{item.identifier}: invalid item referenced for #{section_symbol}: #{item_symbol.to_s}" if the_item.nil? || the_item == []
-            raise "#{item.identifier}: duplicate item referenced for #{section_symbol}: #{item_symbol.to_s}" if the_item.length != 1          
+            raise "#{item.identifier}: duplicate item referenced for #{section_symbol}: #{item_symbol.to_s}" if the_item.length != 1
         end
         the_item[0]
     end
@@ -26,7 +26,7 @@ module ContentHelpers
     end
 
     def toc_link_to item
-        link_to_unless_current item.attributes[:title], item
+        link_to_unless_current item[:title], item
     end
 
     def bold_red string
@@ -57,7 +57,7 @@ module ContentHelpers
         body = %~<div id="myCarousel" class="carousel slide" style="width: 500px; margin: 0 auto;">
                 <div class="carousel-inner" style="margin: 20px; ">~
         counter = 0
-        filenames.each do 
+        filenames.each do
             |nam|
             if counter == 0
                 body << %~<div class="item active">~
