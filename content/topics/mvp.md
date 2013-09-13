@@ -5,6 +5,7 @@ section: topics
 
 ##### The MVP or Minimum Viable Product
 * "It's not necessarily minimal nor a product"
+* "An experiment is a product" (From TLS book)
 * Smallest increment of work that will test a hypothesis
 * What forms can it take?
 	* Concierge MVP
