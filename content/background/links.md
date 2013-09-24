@@ -5,6 +5,8 @@ order: 8
 ---
 ##### Links to articles related to entrepreneurship
 
+* [Unbundling: AOL, Facebook and LinkedIn](http://ben-evans.com/benedictevans/2013/9/21/atomisation-and-bundling)
+* [Post Mortem of a failed venture backed startup](https://medium.com/p/72c6f8bec7df)
 * [How to go from zero to revenue in under five weeks!](http://notes.casualcorp.com/post/55805301226/how-to-go-from-zero-to-revenue-in-under-five-weeks)
 * [Silent students shortchange themselves and others](http://www.bostonglobe.com/opinion/2013/09/12/silent-students-shortchange-themselves-and-others/Ejtaro5N3cuICjDy61NG8K/story.html)
 * [Boston Law-related startups](http://www.bostonglobe.com/business/2013/08/31/tech-start-ups-target-tough-customer-law-firms/fyznk5CXkhnCqQzHpGEIGO/story.html?s_campaign=sm_tw)

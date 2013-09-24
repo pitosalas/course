@@ -3,7 +3,7 @@ title: Growth Models
 section: topics
 ---
 
-##### Four example growht models (there are probably more)
+##### Four example growth models (there are probably more)
 * Sticky Engine of Growth
 	* Comes from retention of existing custmers
 	* Subscription model

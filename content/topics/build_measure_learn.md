@@ -4,6 +4,7 @@ section: topics
 ---
 
 ##### Build/Measure/Learn
+* Review [Engine of Growth Example](http://bit.ly/growth_engine)
 * Startup needs to:
 	1. State what metrics for growth and success are
 	1. Measure current metrics
