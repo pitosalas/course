@@ -5,6 +5,7 @@ order: 8
 ---
 ##### Links to articles related to entrepreneurship
 
+* [How Pivotal Tracker could be killing your startup](http://blog.ledwards.com/blog/2013/09/24/how-pivotal-tracker-could-be-killing-your-startup/)
 * [Unbundling: AOL, Facebook and LinkedIn](http://ben-evans.com/benedictevans/2013/9/21/atomisation-and-bundling)
 * [Post Mortem of a failed venture backed startup](https://medium.com/p/72c6f8bec7df)
 * [How to go from zero to revenue in under five weeks!](http://notes.casualcorp.com/post/55805301226/how-to-go-from-zero-to-revenue-in-under-five-weeks)
