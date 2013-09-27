@@ -12,10 +12,17 @@ section: topics
 	* Focus on either attracting more or getting the ones you have to renew
 * Viral Engine of Growth
 	* When your growth comes when simple normal use of the product inherently leads to new signups
-	* "Vital Coefficient" - how many new customers a single customer brings in, and over what period
+	* "Viral Coefficient" - how many new customers a single customer brings in, and over what period
 	* Viral coefficient should be > 1 to get exponential growth
 * Paid Engine of Growth
-	* When your growht depends on the simple ratio of customer acquisition cost vs. per customer earnings
+	* When your growth depends on the simple ratio of customer acquisition cost vs. per customer earnings
 	* Simply add more money to customer acquisition and you get a predictable amount of earnings from that.
 	* LTV of a customer rells you how much you can spendn on customer acquisition.
+	* <%= discussion "what are examples of customer aquisition costs?"" %>
+* Accessory Model of Growth
+	* Core product is cheap or free
+	* User is enticed somehow to buy "accessories" which produce revenue
+	* "Razorblade/Razer"
+	* <%= discussion "what are some examples of 'accessory revenue?" %>
+
 

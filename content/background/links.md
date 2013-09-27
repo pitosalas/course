@@ -5,6 +5,8 @@ order: 8
 ---
 ##### Links to articles related to entrepreneurship
 
+* [Pivoting when using Lean Startup for Product Development](http://www.infoq.com/news/2013/07/pivoting-product-development)
+* [Don't let the minimum win over the viable](http://blogs.hbr.org/2012/05/dont-let-the-minimum-win-over/)
 * [How Pivotal Tracker could be killing your startup](http://blog.ledwards.com/blog/2013/09/24/how-pivotal-tracker-could-be-killing-your-startup/)
 * [Unbundling: AOL, Facebook and LinkedIn](http://ben-evans.com/benedictevans/2013/9/21/atomisation-and-bundling)
 * [Post Mortem of a failed venture backed startup](https://medium.com/p/72c6f8bec7df)
