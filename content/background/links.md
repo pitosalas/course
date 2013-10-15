@@ -5,6 +5,8 @@ order: 8
 ---
 ##### Links to articles related to entrepreneurship
 
+* [Linkedin Pitch to Greylock](http://reidhoffman.org/linkedin-pitch-to-greylock/)
+* [What I wish I knew before pitching to Greylock](http://www.linkedin.com/today/post/article/20131015161834-1213-what-i-wish-i-knew-before-pitching-linkedin-to-vcs)
 * [Pivoting when using Lean Startup for Product Development](http://www.infoq.com/news/2013/07/pivoting-product-development)
 * [Don't let the minimum win over the viable](http://blogs.hbr.org/2012/05/dont-let-the-minimum-win-over/)
 * [How Pivotal Tracker could be killing your startup](http://blog.ledwards.com/blog/2013/09/24/how-pivotal-tracker-could-be-killing-your-startup/)
