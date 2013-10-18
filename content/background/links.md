@@ -5,6 +5,7 @@ order: 8
 ---
 ##### Links to articles related to entrepreneurship
 
+* [Value Proposition Examples and How To](http://conversionxl.com/value-proposition-examples-how-to-create/)
 * [Linkedin Pitch to Greylock](http://reidhoffman.org/linkedin-pitch-to-greylock/)
 * [What I wish I knew before pitching to Greylock](http://www.linkedin.com/today/post/article/20131015161834-1213-what-i-wish-i-knew-before-pitching-linkedin-to-vcs)
 * [Pivoting when using Lean Startup for Product Development](http://www.infoq.com/news/2013/07/pivoting-product-development)
