@@ -5,6 +5,7 @@ order: 8
 ---
 ##### Links to articles related to entrepreneurship
 
+* [How to nail a group presentation](http://www.bothsidesofthetable.com/2013/10/20/how-to-nail-a-presentation-to-a-crowd/)
 * [Value Proposition Examples and How To](http://conversionxl.com/value-proposition-examples-how-to-create/)
 * [Linkedin Pitch to Greylock](http://reidhoffman.org/linkedin-pitch-to-greylock/)
 * [What I wish I knew before pitching to Greylock](http://www.linkedin.com/today/post/article/20131015161834-1213-what-i-wish-i-knew-before-pitching-linkedin-to-vcs)
