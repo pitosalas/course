@@ -5,6 +5,7 @@ order: 8
 ---
 ##### Links to articles related to entrepreneurship
 
+* [Effective use of white space in forms](http://www.nngroup.com/articles/form-design-white-space/)
 * [How to nail a group presentation](http://www.bothsidesofthetable.com/2013/10/20/how-to-nail-a-presentation-to-a-crowd/)
 * [What's in a startup name?](http://thenextweb.com/entrepreneur/2013/10/19/whats-startups-name-trend-misspelled-words-ly-wont-go-away/)
 >>>>>>> 8559e6a08b976cd370ddb8abc84211ac8be7f977

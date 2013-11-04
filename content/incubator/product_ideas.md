@@ -6,6 +6,8 @@ order: 10
 
 ##### Best ideas
 
+*FoodFlix*: A service for for restaurants to get professional photos and videos for their establishments in say Tripadvisor or Yelp. The premise is that great images greatly improve the results of listings on sites like Tripadvisor, yet most restaurants don't know that, don't care, don't have the wherewithal or assume that getting good photos is expensive. The concepts would be that the business is around designing and optimizing a real-world process for cheaply making and posting these photos and videos. It also tests and optimizes the style, titling, length, etc of photos and videos for maximum effectiveness for the chosen purpose. 
+
 *FinancialBot*: Approachable way to create stock selection agents which watch for certain patterns in prices and market conditions and do things, most likely send an email. For example: "Alert: Stock INTL price is within 10% of 12 month low." Allow a normal person to do program trading in a safe way. Possible to have some domain specific language, or an iTunes Smart Playlist kind of user interface to create agents that 'run in the cloud' and send emails, or some day actually perform trades.
 
 *BarTalk*: A short-distance walkie-talkie for use inside a noisy bar. We can talk to each other right across the room. There are many other applications. It's clearly just a fun toy but it could be very cool. A software-only solution that might work goes as follows: Using a pair of smartphones and bluetooth headsets, the two phones could use low-power bluetooth to transmit voice between the two. If that approach can be made to work technically, then the further details of the user interface are quite soluble.
@@ -23,8 +25,6 @@ order: 10
 *Lean Startup Growth Engine*: Educational "game/simulator". A teaching and learning tool. Choose stragegies, set prices, design the product, burn money, earn money, analyze results over time, pivot and either get off the runway or crash.
 
 *FlowPlanner*: General visual discrete simulations. Professional software product, useful in all kinds of strategic decision making. Visually lay out a 'network' with 'products' and 'customers' flowing through, queueing up, being processed, developing bottlenecks and traffic jams.
-
-*Service for retail establishments*: Get professional photos and/or videos for yelp, tripadvisor,etc. Start with restaurants, then inns, hotels, and move from there.
 
 *LiveClassroom:* A teaching and learning tool allowing instant feedback from an audience or classroom regarding a lecture or meeting or event. Members get an email notification that looks like a survey asking about today's lecture or class. The results of these probes are available as beautiful visualizations which help track the effectiveness and retention and motivation of the audience.
 
