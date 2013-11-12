@@ -4,5 +4,34 @@ section: lectures
 order: 21
 ---
 ##### Homework due for today (Nov 15 2013)
+* Today we will be talking about the data that is kept in the client and in the server for a web based application. Note that for a regular web application there's relatively little/no database in the 'client.' However for a native mobile application (i.e. iOS or Android) there can be data stored in the client database too.
 
-* designing the data model
+	Think very carefully about the different 'entities' (a.k.a. classes, objects, things) that your product has to keep track of. How many different kinds are there. Examplesa are "users", "places", "classes", etc. 
+
+	For each entity, what are it's properties? For example, users might have a first name, last name, university, home address, account type, and so on. A place might have a place name, latitude and longitude, etc.
+
+	For your product, make as complete a list as you can of all the entities, properties for each entity and whether there will be one or many instances of that entity. We call this list the schema for your product's database. **Here's an example:**
+
+	* Entity: Student
+		* Name
+		* Age
+		* Type (student or staff or faculty)
+		* Dorm
+		* Year (freshman, etc.)
+	* Entity: Pet 
+		* Name
+		* Breed
+		* Species
+		* Birthday
+		* Current location: (e.g. Arlington Animal Rescue)
+	* ... and so on
+
+	<%= deliverable "Write a Piazza post with what you think the schema is for your product" %>
+
+##### Data Modeling
+* Crucial step in design
+* SQL vs. NOSQL databases
+* Careful analysis of the product requirements
+
+##### Excercise
+* We pick one of the products and together develop a data model for it.
