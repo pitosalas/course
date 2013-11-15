@@ -5,6 +5,7 @@ order: 8
 ---
 ##### Links to articles related to entrepreneurship
 
+* [Basics of good database design in web development](http://www.onextrapixel.com/2011/03/17/the-basics-of-good-database-design-in-web-development/)
 * [How to design a user experience flow chart](http://www.startuprocket.com/blog/how-to-create-a-user-experience-flow-chart-ux-flow-chart)
 * [User Experience: Stop designing screens and start designing flows](http://uxdesign.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/)
 * [Effective use of white space in forms](http://www.nngroup.com/articles/form-design-white-space/)
