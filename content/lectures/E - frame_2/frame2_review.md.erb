@@ -5,7 +5,28 @@ order: 22
 ---
 ##### Homework due for today (Nov 19 2013)
 
-1. Each team prepares an 8 minute presentation reviewing status for frame 2 of each of the goals for this frame. <%= deliverable "Place link to Google Docs presentation into shared course Google Drive folder." %>
+
+1. Combine what each team member did individually last time with the design of the data model. Include a clear indication of each table (==entitity), what columns (==attribute or property) each one has, what the relationship the tables have to each other (1-1, 1-many, many-1, many-many), and what the primary and foreign keys are. <%= team_deliverable "Generate a new, more detailed schema" %>
+
+		Example format:
+		
+		Table: Course
+		Attributes: ID, course_name, course_number
+		
+		Table: Student
+		Attributes: ID, First_name, Last_name, Grad_year
+
+		Table: Enrollment
+		Attributes: ID, Student:ID, Course:ID
+
+		Relationships:
+		Student -> Enrollment is One to Many
+		Course -> Enrollment is One to Many
+		Course <-> Student is Many to Many
+
+	Of course if you want to make a diagram, that's ok too.
+
+1. Each team prepares an 8 minute presentation reviewing status for frame 2 of each of the goals for this frame. <%= team_deliverable "Place link to Google Docs presentation into shared course Google Drive folder." %>
 
 ##### Topics
 
