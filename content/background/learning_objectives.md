@@ -6,6 +6,7 @@ order: 2
 Our goal in this course is that you develop a working famiiarity, both in concept and application of many of the following:
 
 * Presenting the key aspects of a proposed venture quickly and clearly
+* Develop presentation skills by learning and doing: good design of the content and the delivery of a presentation.
 * Formulating hypotheses about a product or service concept or venture and then figure out the right way to test them
 * Picking the brains for possible outsiders and to listen critically and openly to the feedback
 * Doing a basic financial analysis of a possible venture
