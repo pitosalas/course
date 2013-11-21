@@ -5,6 +5,9 @@ order: 8
 ---
 ##### Links to articles related to entrepreneurship
 
+* [Disney Struggles to Make Its Free Gaming Apps Pay](http://www.nytimes.com/2013/11/18/business/media/disney-struggles-to-make-its-free-gaming-apps-pay.html?hpw&rref=business&_r=0)
+* [The Price of Free Apps](http://www.theverge.com/2013/1/7/3835724/the-price-of-apps)
+* [How To Price Something](http://37signals.com/svn/posts/3394-how-to-price-something)
 * [Basics of good database design in web development](http://www.onextrapixel.com/2011/03/17/the-basics-of-good-database-design-in-web-development/)
 * [How to design a user experience flow chart](http://www.startuprocket.com/blog/how-to-create-a-user-experience-flow-chart-ux-flow-chart)
 * [User Experience: Stop designing screens and start designing flows](http://uxdesign.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/)
